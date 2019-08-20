@@ -25,6 +25,12 @@
 - my dad
 ```
 
+```
+"Why would you want to work with people that hurt you or dont care? Your future is here."
+
+-FW
+```
+
 ![Asking Questions](img/asking_questions.jpeg)
 
 
