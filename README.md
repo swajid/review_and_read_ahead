@@ -22,13 +22,9 @@
 * Set a deadline for yourself and after that passes, move on to the next thing (in context of working 
   on multiple projects/things at one time)
 
+* The Australian Cricket Team uses pickle juice for electrolytes and muscle cramps
+
 - my dad
-```
-
-```
-"Why would you want to work with people that hurt you or dont care? Your future is here."
-
--FW
 ```
 
 ![Asking Questions](img/asking_questions.jpeg)
@@ -122,6 +118,7 @@ LATER
   * [[example 36: developing an R package from scratch with Travis CI]](https://datentrang.netlify.com/2019/07/21/deeveloping-an-r-package-from-scratch-with-travis-continuous-integration/)
   * [[example 37: what's HTTP?]](https://twitter.com/b0rk/status/1155318552129396736?s=21)
   * [[example 38: composite design pattern in python]](https://books.google.com/books?id=poNcDgAAQBAJ&lpg=PA353&dq=Composite%20Pattern%20python&pg=PA353#v=onepage&q=Composite%20Pattern%20python&f=false)
+  * [[example 39: 101 bash commands and tips for beginners to experts]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
@@ -164,6 +161,9 @@ LATER
 * [`praise()`](https://twitter.com/WeAreRLadies/status/1139527099423875072)
 * download long youtube videos to remove ads/surveys -> VLC to change speed/add bookmarks: [keepvid](https://keepvid.pro/) [pytube](https://github.com/nficano/pytube)
 * "I don't do anything different, I just read my notes right before I fall asleep and when I wake up, it's just easier to recall the next day (I don't know why)" - (my friend's) strategy from organic chemistry
+* `Your future is here." -FW`
+* "It's time you'll never ever get back"
+* [How To Take Notes on Everything](https://dev.to/maxwell_dev/how-to-take-notes-on-everything-32fc)
 
 * // [How to deal with being overwhelmed](https://www.huffpost.com/entry/10-ways-to-cope-with-stress-and-overwhelm_b_6033802)
  * [Ways for introverts to get their energy back](https://www.popsugar.com/smart-living/Ways-Introverts-Recharge-39990746)
@@ -216,6 +216,7 @@ LATER
 * [Unix haters handbook](https://web.mit.edu/~simsong/www/ugh.pdf) `#pdf`
 * [Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [`: in bash is a null operator so if you are stringing together a really long one liner you can comment it like so`](https://twitter.com/jessfraz/status/1154229100271112192?s=21)
+* [How to set up a fresh Ubuntu desktop using only dotfiles and bash scripts](https://dev.to/victoria/how-to-set-up-a-fresh-ubuntu-desktop-using-only-dotfiles-and-bash-scripts-31m6)
 
 ### Linux
 * [The Linux Kernel](https://en.wikibooks.org/wiki/The_Linux_Kernel)
