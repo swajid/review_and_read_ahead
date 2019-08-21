@@ -697,6 +697,7 @@ Color/UI
 * [uiGradients](https://github.com/Ghosh/uiGradients)
 
 Dashboards
+* :tv: [InfoVis 2018: What Do We Talk About When We Talk About Dashboards?](https://vimeo.com/299862354)
 * [Panel: A high-level app and dashboarding solution for the PyData ecosystem.](https://twitter.com/pwang/status/1135607322112405504) -> ["Comparison to other dashboarding and widget libraries"](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)
 * ["Any recommendations for books about creating effective dashboards?"](https://twitter.com/hadleywickham/status/1133813298502279168)
 * [`modelDown` generates a website with HTML summaries for predictive models](https://mi2datalab.github.io/modelDown/)
@@ -747,6 +748,7 @@ _add link of TOC_
 * [useR 2019](https://twitter.com/UseR2019_Conf/status/1150115187430760448)
 * [datacouncil.ai](https://www.youtube.com/user/g33ktalktv/videos)
 * [pydata](https://www.youtube.com/user/PyDataTV/videos)
+* [IEEE VGTC](https://vimeo.com/vgtcommunity)
 
 # Fellowships
 w/ deadlines
@@ -778,11 +780,12 @@ w/o deadlines
 * [[rOpenSci (bot of package uses)]](https://twitter.com/rocitations)
 * [["Ten Simple Rules" on PLOS Comp Bio](https://journals.plos.org/ploscompbiol/search?filterJournals=PLoSCompBiol&q=%22Ten+Simple%20Rules%22&sortOrder=DATE_NEWEST_FIRST&page=1)
 * [[Statistics for Biologists]](https://www.nature.com/collections/qghhqm)
-
+* [[IEEE Journal of Biomedical and Health Informatics]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8752487&punumber=6221020)
+* [[IEEE Transactions on Visualization and Computer Graphics]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 
 //Turn this into a table with emojis+notes or shading: CS, Bioinfo, etc.
 
-
+* 2019 - [What Do We Talk About When We Talk About Dashboards?](https://ieeexplore.ieee.org/document/8443395)
 * 2019 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9) 
   * "To make the outputs from different methods directly comparable to each other, we developed a common probabilistic model for representing trajectories from all possible sources (Fig. 1b). In this model, the overall topology is represented by a network of ‘milestones’, and the cells are placed within the space formed by each set of connected milestones."
 * 2019 - [H3K4me3 is neither instructive for, nor informed by, transcription.](https://www.biorxiv.org/content/biorxiv/early/2019/07/19/709014.full.pdf)
