@@ -242,7 +242,7 @@ LATER
 * [Principles of Biochemistry](https://online-learning.harvard.edu/course/principles-biochemistry-1)
 * [Molecular Biology of the Cell](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 
-## Statistics
+## (bio)statistics
 * ~~__Some newer textbook for Statistics__~~
 * [Statistics for biologists](http://mtvernon.wsu.edu/wp-content/uploads/2016/12/Statistics_for_Terrified_Biologists.pdf) `#pdf`
 * [**Modern Statistics for Modern Biology**](http://web.stanford.edu/class/bios221/book/)
@@ -258,6 +258,8 @@ LATER
 * :tv: [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/videos)
 * [Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics?recoOrder=12&utm_medium=email&utm_source=recommendations&utm_campaign=CfYX8Le0EempyReieZALEQ)
 * :green_book: [Learning Statistics with R](https://learningstatisticswithr.com/)
+* [What’s the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17)
+* [Data Preprocessing in Python](https://towardsdatascience.com/data-preprocessing-in-python-b52b652e37d5)
 
 ## Genetics
 * __Some (way) newer textbook for Genetics__
