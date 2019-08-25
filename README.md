@@ -26,6 +26,10 @@
 
 * The Australian Cricket Team uses pickle juice for electrolytes and muscle cramps
 
+* Omg am I suppose to wear Spanx as well (lol)
+
+* Look on the brightside / don't always have to be so serious
+
 - my dad
 ```
 
@@ -367,6 +371,7 @@ April 2nd -->
 
 ### Best Practices
 * [Guidelines for data analysis scripts](https://arxiv.org/abs/1904.06163)
+* [Design docs - A design doc](https://medium.com/dev-channel/design-docs-a-design-doc-a152f4484c6b)
 
 ### Infrastructure
 * [Berkeley Open Infrastructure for Network Computing](https://en.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing)
@@ -493,6 +498,7 @@ Papers/Posters
 (Newer) Data Analysis/Tidyverse stuff in R
 * [Rectangling is the art and craft of taking a deeply nested list (often sourced from wild caught JSON or XML) and taming it into a tidy data set of rows and columns.](https://tidyr.tidyverse.org/dev/articles/rectangle.html)
 * ["Meet curly-curly, a new operator to make it easier to create #rstats functions around #tidyverse pipelines."](https://twitter.com/_lionelhenry/status/1144506303932489728)
+* :green_book: [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 
 (Newer) OOP in R
 * [Bioconductor S4 classes for high-throughput omics data](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b) -> __`Designated R class to contain specific data`__
