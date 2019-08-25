@@ -30,6 +30,8 @@
 
 * Look on the brightside / don't always have to be so serious
 
+* Well, I'm getting older too, I'm turning 61, sooooo what, everyone gets older
+
 - my dad
 ```
 
@@ -125,6 +127,8 @@ LATER
   * [[example 37: what's HTTP?]](https://twitter.com/b0rk/status/1155318552129396736?s=21)
   * [[example 38: composite design pattern in python]](https://books.google.com/books?id=poNcDgAAQBAJ&lpg=PA353&dq=Composite%20Pattern%20python&pg=PA353#v=onepage&q=Composite%20Pattern%20python&f=false)
   * [[example 39: 101 bash commands and tips for beginners to experts]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+  * [[example 40: where do p-values come from? fundamental concepts and simulation approach]](https://alemorales.info/post/introduction-sampling-distribution/)
+  
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
