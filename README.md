@@ -1,4 +1,4 @@
-`test if github is down`
+`test if github is down -- seems to be back up`
 
 # swajid_intro
 
@@ -218,6 +218,10 @@ LATER
 * etc
 
 ### Unix
+* [Question: What Are The Bioinformatics-Related Aliases Or Functions In Your Bashrc](https://www.biostars.org/p/45456/)
+
+- [ ] (test these:) [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) && [bash-it](https://github.com/Bash-it/bash-it)
+
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs)
 * [Pipes](https://blog.jessfraz.com/post/for-the-love-of-pipes/)
 * [History of GREP](https://www.youtube.com/watch?v=NTfOnGZUZDk)
@@ -462,6 +466,7 @@ Python
 * [continuous to categorical in pandas](https://twitter.com/justmarkham/status/1146040449678925824?s=21)
 * :tv: [Optimization lessons in Python](https://www.youtube.com/watch?v=vU4TlwZzTfU)
 * [`Pysheeet` was created with intention of collecting python code snippets](https://github.com/crazyguitar/pysheeet)
+* [`vprof` is a Python package providing rich and interactive visualizations for various Python program characteristics such as running time and memory usage. It supports Python 3.4+ and distributed under BSD license.](https://github.com/nvdv/vprof)
 
 Data Science in Python
 * [`openTSNE` a modular Python library for t-SNE dimensionality reduction and embedding](https://www.biorxiv.org/content/10.1101/731877v1)
