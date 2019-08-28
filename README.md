@@ -32,6 +32,8 @@
 
 * Well, I'm getting older too, I'm turning 61, sooooo what, everyone gets older
 
+* Ice cream that's made out of avocados is just a frozen salad (lol)
+
 - my dad
 ```
 
@@ -669,8 +671,9 @@ GPU (complicated — keep in context of bioinfo)
 
 Open Databases/Datasets
 
-Good examples of comparisons/documentation
+Good examples of comparisons/documentation/UML
 * [Why should I use `ripgrep`?](https://github.com/BurntSushi/ripgrep)
+* [Stacks modules and RADseq typical workflow](https://github.com/thierrygosselin/stackr#stacks-modules-and-radseq-typical-workflow)
 
 # Examples
 ## Novel approach using data visualization and/or user interaction
