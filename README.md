@@ -33,6 +33,8 @@
 
 * Ice cream that's made out of avocados is just a frozen salad (lol)
 
+* You're on the right path, just keep applying and moving forward
+
 - my dad
 ```
 
@@ -44,6 +46,13 @@
 [[Learn X in Y minutes]](https://learnxinyminutes.com/) | [[101 Machine Learning Algorithms for Data Science (in R)]](https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/)
 
 // [[__To Do__]](https://twitter.com/erinfranmc/status/1151885447712387073?s=21)
+
+
+- [ ] (test these:) [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) && [bash-it](https://github.com/Bash-it/bash-it)
+- [ ] 
+
+
+
 
 ???
 
@@ -221,7 +230,6 @@ LATER
 ### Unix
 * [Question: What Are The Bioinformatics-Related Aliases Or Functions In Your Bashrc](https://www.biostars.org/p/45456/)
 
-- [ ] (test these:) [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) && [bash-it](https://github.com/Bash-it/bash-it)
 
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs)
 * [Pipes](https://blog.jessfraz.com/post/for-the-love-of-pipes/)
@@ -509,6 +517,7 @@ Papers/Posters
 * [Rectangling is the art and craft of taking a deeply nested list (often sourced from wild caught JSON or XML) and taming it into a tidy data set of rows and columns.](https://tidyr.tidyverse.org/dev/articles/rectangle.html)
 * ["Meet curly-curly, a new operator to make it easier to create #rstats functions around #tidyverse pipelines."](https://twitter.com/_lionelhenry/status/1144506303932489728)
 * :green_book: [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
+* [`clean` Fast and Easy Data Cleaning. The R package for cleaning and checking data columns in a fast and easy way. Relying on very few dependencies, it provides smart guessing, but with user options to override anything if needed.](https://twitter.com/msberends/status/1163949929527730176?s=20) `#tidyverse`
 
 (Newer) OOP in R
 * [Bioconductor S4 classes for high-throughput omics data](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b) -> __`Designated R class to contain specific data`__
