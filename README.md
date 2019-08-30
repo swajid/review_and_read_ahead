@@ -1,4 +1,5 @@
-`test if github is down -- seems to be back up`
+`github is down`
+`testtttt`
 
 # swajid_intro
 
@@ -25,8 +26,6 @@
   on multiple projects/things at one time)
 
 * The Australian Cricket Team uses pickle juice for electrolytes and muscle cramps
-
-* Omg am I suppose to wear Spanx as well (lol)
 
 * Look on the brightside / don't always have to be so serious
 
@@ -130,7 +129,7 @@ LATER
   * [[example 38: composite design pattern in python]](https://books.google.com/books?id=poNcDgAAQBAJ&lpg=PA353&dq=Composite%20Pattern%20python&pg=PA353#v=onepage&q=Composite%20Pattern%20python&f=false)
   * [[example 39: 101 bash commands and tips for beginners to experts]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
   * [[example 40: where do p-values come from? fundamental concepts and simulation approach]](https://alemorales.info/post/introduction-sampling-distribution/)
-  
+  * [[example 41: maximum likelihood estimation from scratch]](https://alemorales.info/post/mle-nonlinear/)
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
@@ -563,6 +562,7 @@ Auto_*
 * [How to run spark on kubernetes clusters using R](https://twitter.com/javierluraschi/status/1154365239808315393)
 * :tv: [Your data fits in RAM: How to avoid cluster computing -> "File formats are key"](https://youtu.be/7h4BwpedPD0?t=1032)
 * [Workshop that covers how to use R to interact databases and Spark](https://github.com/rstudio/bigdataclass)
+* [`data_algebra project` a data processing tool family available in R and Python. These tools are designed to transform data either in-memory or on remote databases](http://www.win-vector.com/blog/2019/08/introducing-data_algebra/)
 
 Types of studies in biostatistics
 * 2012 - [A brief discussion of statistics and experimental design](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321166/)
@@ -654,7 +654,7 @@ Dynamic Documents
 * [`knitcitations` is an R package designed to add dynamic citations to dynamic documents created with knitr package](https://github.com/cboettig/knitcitations)
 * [`liftr` aims to solve the problem of persistent reproducible reporting](https://liftr.me/?utm_content=buffera08e2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-Healthcare / AI + Health / [[Amazon Echo]](https://www.youtube.com/watch?v=YvT_gqs5ETk)
+Healthcare / AI + Health / [[Amazon Echo]]()
 * [Invisible Middlemen Are Slowing Down American Health Care](https://www.theatlantic.com/health/archive/2019/04/pbms-health-care-drug-delays-prices/586711/)
 * [Amazon wants you to use Alexa to track health care](https://www.wsj.com/articles/amazon-clears-path-for-alexas-use-as-health-service-11554669234)
 
