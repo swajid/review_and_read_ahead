@@ -683,6 +683,7 @@ Open Databases/Datasets
 Good examples of comparisons/documentation/UML
 * [Why should I use `ripgrep`?](https://github.com/BurntSushi/ripgrep)
 * [Stacks modules and RADseq typical workflow](https://github.com/thierrygosselin/stackr#stacks-modules-and-radseq-typical-workflow)
+* [R code walkthrough flipbook -> tweet as a gif](https://twitter.com/evamaerey/status/1167085280580558849?s=21)
 
 # Examples
 ## Novel approach using data visualization and/or user interaction
@@ -761,6 +762,8 @@ _add link of TOC_
 * :green_book:[Functional Data Structures in R](https://medium.com/@ThomasMailund/functional-data-structures-in-r-is-out-a63a64806350)
 * :green_book:[Orchestrating Single-Cell Analysis with Bioconductor (2019)](https://osca.bioconductor.org/)
 * :green_book:[Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
+* :green_book:[ggplot2 3rd Edition](https://twitter.com/hadleywickham/status/1164977547660017664?s=21)
+
 
 # Meetups, Groups and Communities
 * [RLadies](https://rladies.org/)
@@ -798,7 +801,8 @@ w/o deadlines
   * [`#useR2019`](https://twitter.com/hashtag/UseR2019?src=hash)
 * [`#singlecell`](https://twitter.com/search?q=%23singlecell&src=typd)
 * [`#bookdown`](https://twitter.com/search?q=%23bookdown&src=typd)
-  
+* [`#pandastricks`](https://twitter.com/search?q=%23pandastricks&src=typd)
+
 # Papers
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
 * [[CS papers]](https://github.com/papers-we-love/papers-we-love) 
