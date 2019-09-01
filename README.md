@@ -61,6 +61,7 @@
 - [ ] [2. review stats](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/) _also see stats links_
 - [ ] [~~3. math for programmers~~](https://www.manning.com/books/math-for-programmers)
 - [ ] 3. [principles of data science -- best math review book ever IMO](https://www.packtpub.com/big-data-and-business-intelligence/principles-data-science)
+- [ ] 4. [a programmer's introduction to mathematics](https://gumroad.com/l/pim-book)
 - [ ] [others](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics&subcat=probabilityandstatistics)
 
 LATER
@@ -479,6 +480,7 @@ Python
 
 Data Science in Python
 * [`openTSNE` a modular Python library for t-SNE dimensionality reduction and embedding](https://www.biorxiv.org/content/10.1101/731877v1)
+* [Combining the power of R and Python with `reticulate`](https://www.programmingwithr.com/combining-the-power-of-r-and-python-with-reticulate/)
 
 Pipelines / batch job submission
 * [ngless](https://github.com/ngless-toolkit/ngless)
@@ -496,6 +498,7 @@ Papers/Posters
 * [`ggsci` Scientific journal and sci-fi themed color palettes for ggplot2](https://github.com/road2stat/ggsci)
 
 (Newer) Adv R
+* [3 tidyverse tricks for most commonly used Excel Features](https://www.programmingwithr.com/3-tidyverse-tricks-for-most-commonly-used-excel-features/)
 * [Passing dots](https://twitter.com/jchunn206/status/1086350083191435264) [[talk]](https://resources.rstudio.com/rstudio-conf-2019/lazy-evaluation)
 * https://adv-r.hadley.nz/quasiquotation.html (from 4/19/18)
 * https://adv-r.hadley.nz/expressions.html (from 4/19/18)
@@ -518,6 +521,7 @@ Papers/Posters
 * ["Meet curly-curly, a new operator to make it easier to create #rstats functions around #tidyverse pipelines."](https://twitter.com/_lionelhenry/status/1144506303932489728)
 * :green_book: [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 * [`clean` Fast and Easy Data Cleaning. The R package for cleaning and checking data columns in a fast and easy way. Relying on very few dependencies, it provides smart guessing, but with user options to override anything if needed.](https://twitter.com/msberends/status/1163949929527730176?s=20) `#tidyverse`
+* [How to create multiple variables with a single line of code in R](https://datascienceplus.com/how-to-create-multiple-variables-with-a-single-line-of-code-in-r/)
 
 (Newer) OOP in R
 * [Bioconductor S4 classes for high-throughput omics data](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b) -> __`Designated R class to contain specific data`__
@@ -556,7 +560,7 @@ Data Visualization/Tables
 * [rayshader + ggplot (!!!!)](https://twitter.com/tylermorganwall/status/1134069089087950848?s=21)
   * [example + animation ](https://twitter.com/wearerladies/status/1144189570730397697?s=21)
   * [3d print](https://twitter.com/Branson_Fox/status/1145447942989463557?s=20)
-
+  
 Auto_*
 * [AutoEDA - Explore the landscape of R packages for automated data exploration](https://www.r-bloggers.com/explore-the-landscape-of-r-packages-for-automated-data-exploration/)
 * [Automate the boring stuff](https://automatetheboringstuff.com/)
@@ -715,6 +719,8 @@ Dataviz
 * [report](https://twitter.com/nytgraphics/status/1119332817446625281)
 * [mapping segregation](https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * :tv: [How We Lie to Ourselves With Charts - PyData Miami 2019](https://www.youtube.com/watch?v=3QYsc48zzgs)
+* [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
+
 
 Novel/emerging dataviz (that is also open source)
 * [rayrender](https://www.rayshader.com/)
