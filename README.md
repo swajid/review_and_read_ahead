@@ -49,7 +49,8 @@
 
 
 - [ ] (test these:) [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) && [bash-it](https://github.com/Bash-it/bash-it)
-- [ ] 
+- [ ] make notes/cheat sheet like this (good article:[3 tidyverse tricks for most commonly used Excel Features](https://www.programmingwithr.com/3-tidyverse-tricks-for-most-commonly-used-excel-features/)) [[perl one liners]](https://gist.github.com/joyrexus/7328094) [[bash one liners]](http://www.bashoneliners.com/) [[python one liners]](https://blog.finxter.com/10-python-one-liners/)
+- [ ] find article about abstraction in programming
 
 
 
@@ -189,7 +190,7 @@ LATER
 * // [How to deal with being overwhelmed](https://www.huffpost.com/entry/10-ways-to-cope-with-stress-and-overwhelm_b_6033802)
  * [Ways for introverts to get their energy back](https://www.popsugar.com/smart-living/Ways-Introverts-Recharge-39990746)
  
-* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc)
+* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -415,11 +416,16 @@ April 2nd -->
  
 - [ ] "method order resolution" "C3"
 
+
+# Newer un/familar stuff
 Tidy_*
 * [Tidy Data - Hadley Wickham](https://vita.had.co.nz/papers/tidy-data.pdf)
 * [`tidygenomics` Tidy Verbs for Dealing with Genomic Data Frames https://const-ae.github.io/tidygenomics/](https://github.com/const-ae/tidygenomics)
+* [3 tidyverse tricks for most commonly used Excel Features](https://www.programmingwithr.com/3-tidyverse-tricks-for-most-commonly-used-excel-features/)
+  * Create a difference variable between the current value and the next value `
+  * Combining Multiple Columns into one Column
+  * Splitting One Column into Multiple Columns
 
-# Newer un/familar stuff
 Docker
  * [A Docker tutorial for reproducible research](https://ropenscilabs.github.io/r-docker-tutorial/)
  * [`containerit` packages R script/session/workspace and all dependencies as a Docker container by automagically generating a suitable Dockerfile](https://github.com/o2r-project/containerit)
@@ -498,7 +504,6 @@ Papers/Posters
 * [`ggsci` Scientific journal and sci-fi themed color palettes for ggplot2](https://github.com/road2stat/ggsci)
 
 (Newer) Adv R
-* [3 tidyverse tricks for most commonly used Excel Features](https://www.programmingwithr.com/3-tidyverse-tricks-for-most-commonly-used-excel-features/)
 * [Passing dots](https://twitter.com/jchunn206/status/1086350083191435264) [[talk]](https://resources.rstudio.com/rstudio-conf-2019/lazy-evaluation)
 * https://adv-r.hadley.nz/quasiquotation.html (from 4/19/18)
 * https://adv-r.hadley.nz/expressions.html (from 4/19/18)
