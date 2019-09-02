@@ -190,7 +190,7 @@ LATER
 * // [How to deal with being overwhelmed](https://www.huffpost.com/entry/10-ways-to-cope-with-stress-and-overwhelm_b_6033802)
  * [Ways for introverts to get their energy back](https://www.popsugar.com/smart-living/Ways-Introverts-Recharge-39990746)
  
-* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY)
+* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_Unplug_9_](https://www.youtube.com/watch?v=WOINWPDqz1w)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -573,14 +573,20 @@ Auto_*
 * [Tea: A High-level Language and Runtime System for Automating Statistical Analysis](https://arxiv.org/abs/1904.05387) [[+ discussion]](https://twitter.com/johnmyleswhite/status/1116675810583306241)
 * [How to easily automate R analysis, modeling and development work using CI/CD, with working examples](https://jozefhajnala.gitlab.io/r/r106-r-package-gitlab-ci/)
 
-(Very Large) Databases & Computational Methods on very large datasets
+Computational Methods on very large datasets
 * [Large Scale Graph Mining with Spark: What I learned from mapping 15 million websites](https://www.youtube.com/watch?v=LQAaQD2n3u0)
 * [TeraPCA: a fast and scalable software package to study genetic variation in tera-scale genotypes](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz157/5430929?redirectedFrom=fulltext)
+* [`data_algebra project` a data processing tool family available in R and Python. These tools are designed to transform data either in-memory or on remote databases](http://www.win-vector.com/blog/2019/08/introducing-data_algebra/)
+
+Very large data(sets,bases,projects)
+* [Hierarchical Data Format (HDF)](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
+* ["HDF5 is Eating the World", SciPy 2015](https://www.youtube.com/watch?v=nddj5OA8LJo)
+* [`HDF5Array` Implements the HDF5Array and TENxMatrix classes](https://bioconductor.org/packages/release/bioc/html/HDF5Array.html) [[actual code]](https://github.com/Bioconductor/HDF5Array)
 * [Three Strategies for Working with Big Data in R](https://twitter.com/rstudio/status/1152203694739546112)
 * [How to run spark on kubernetes clusters using R](https://twitter.com/javierluraschi/status/1154365239808315393)
 * :tv: [Your data fits in RAM: How to avoid cluster computing -> "File formats are key"](https://youtu.be/7h4BwpedPD0?t=1032)
 * [Workshop that covers how to use R to interact databases and Spark](https://github.com/rstudio/bigdataclass)
-* [`data_algebra project` a data processing tool family available in R and Python. These tools are designed to transform data either in-memory or on remote databases](http://www.win-vector.com/blog/2019/08/introducing-data_algebra/)
+* :tv: [`disk.frame` an R package for manipulating with larger-than-RAM data + tweets](https://twitter.com/evalparse/status/1168131624011087872?s=21)
 
 Types of studies in biostatistics
 * 2012 - [A brief discussion of statistics and experimental design](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321166/)
@@ -595,9 +601,7 @@ Security / Data Encryption
 * [Software PMs](https://github.com/danluu/post-mortems)
 * [FaceApp](https://www.theatlantic.com/technology/archive/2019/07/faceapp-mess/594361/)
 
-[Hierarchical Data Format (HDF)](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
-* ["HDF5 is Eating the World", SciPy 2015](https://www.youtube.com/watch?v=nddj5OA8LJo)
-* [`HDF5Array` Implements the HDF5Array and TENxMatrix classes](https://bioconductor.org/packages/release/bioc/html/HDF5Array.html) [[actual code]](https://github.com/Bioconductor/HDF5Array)
+
 
 Distributed data access/upload
 * [Academic Torrents](https://www.kdnuggets.com/2016/10/academic-torrents-data-sharing.html)
