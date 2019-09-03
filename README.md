@@ -96,7 +96,7 @@ LATER
 * [[Good advice]](https://twitter.com/jenheemstra/status/1089147958757638144?s=21)
 * Following up
 * __1-page of notes__
-* Expository notes/summaries - intended to explain informally, intuitive [["_Write the explanation you wish you’d found._"]](https://twitter.com/_brohrer_/status/1110526400933609472?s=21)
+* Expository notes/summaries - intended to explain informally, intuitive [["_Write the explanation you wish you’d found._"]](https://twitter.com/_brohrer_/status/1110526400933609472?s=21) / different ways of explaining/thinking about things
   * [[example 1: poisson distribution]](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
   * [[example 2: algorithms]](http://research.engineering.nyu.edu/~greg/algorithms/scribbles.pdf)
   * [[example 3: code documentation]](https://twitter.com/dan_abramov/status/1101408462901334016?s=21)
@@ -141,6 +141,7 @@ LATER
   * [[example 39: 101 bash commands and tips for beginners to experts]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
   * [[example 40: where do p-values come from? fundamental concepts and simulation approach]](https://alemorales.info/post/introduction-sampling-distribution/)
   * [[example 41: maximum likelihood estimation from scratch]](https://alemorales.info/post/mle-nonlinear/)
+  * [[example 42: how to build a neural net in 3 lines of math]](https://www.freecodecamp.org/news/how-to-build-a-neural-net-in-three-lines-of-math-a0c42f45c40e/)
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
@@ -381,6 +382,8 @@ April 2nd -->
 * [`computational-project-cookie-cutter` A cookie cutter to set up a folder structure for a computational project](https://github.com/chendaniely/computational-project-cookie-cutter)
 * [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
 * [Python: Project Structure and Imports](https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6)
+* [Structuring R Projects](https://www.chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/)
+
 
 ### Project Planning / Workspace
 * [How to plan and execute your ML and DL projects](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
