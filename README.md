@@ -1,6 +1,3 @@
-`github is down`
-`testtttt`
-
 # swajid_intro
 
 ```
@@ -190,6 +187,7 @@ LATER
 
 * // [How to deal with being overwhelmed](https://www.huffpost.com/entry/10-ways-to-cope-with-stress-and-overwhelm_b_6033802)
  * [Ways for introverts to get their energy back](https://www.popsugar.com/smart-living/Ways-Introverts-Recharge-39990746)
+ * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
  
 * [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_Unplug_9_](https://www.youtube.com/watch?v=WOINWPDqz1w)
 
@@ -457,9 +455,10 @@ Shiny
 * ["Shiny in production: Principles, practices, and tools" by Joe Cheng from rstudio::conf(2019)](https://twitter.com/rstudio/status/1151840058892308480?s=21)
 * [Shiny Books](https://twitter.com/wearerladies/status/1153960977819475969?s=21)
 
-Drake
+Drake / Workflow
 * [Managing Your Data Workflow](https://www.datascienceatthecommandline.com/chapter-6-managing-your-data-workflow.html#introducing-drake)
-
+* [__2019 - Workflow systems turn raw data into scientific knowledge__](https://www.nature.com/articles/d41586-019-02619-z)
+ 
 Unit Testing/Logging/CI
 * [logic behind testing: catch errors](https://twitter.com/djnavarro/status/1123409622486798336?s=21)
 * [`projmgr` GitHub PM in R](https://emilyriederer.github.io/projmgr/)
