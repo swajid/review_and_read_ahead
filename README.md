@@ -158,6 +158,8 @@ LATER
   * [[we analyzed 16,625 papers to figure out where AI is headed next (2019)]](https://www.technologyreview.com/s/612768/we-analyzed-16625-papers-to-figure-out-where-ai-is-headed-next/)
   * [[technologies to watch for in 2019]](https://www.nature.com/magazine-assets/d41586-019-00218-6/d41586-019-00218-6.pdf?_lrsc=88695e75-9227-415d-8b93-3fe6d5e08fd5&scid=2017305BN4)
   * [[The marks of a true senior developer]](https://medium.com/better-programming/the-marks-of-a-true-senior-developer-d5f3b11c3375)
+  * [[longterm 7]](https://twitter.com/gauthier_gidel/status/1168970421649203200?s=21)
+  * [[longterm 8]](https://twitter.com/aureliengeron/status/1168394684969832449)
 * Persistence & manageability [[document the process 1]](https://twitter.com/wearerladies/status/1067877347490115584?s=21) [[document the process 2]](https://twitter.com/ethanwhite/status/1087727841771438081)
 * Be [[interesting]](https://twitter.com/togelius/status/1088679404937625600) -> [[build]](https://twitter.com/jessfraz/status/1089590130212589570?s=21) & [[make]](https://www.youtube.com/watch?v=OZ01MH9BQqk) things
 * [Making lists](https://www.toodledo.com/)
@@ -562,6 +564,7 @@ Data Visualization/Tables
 * :bar_chart: [`likert` is an R package designed to help analyzing and visualizing Likert type items.](https://twitter.com/wearerladies/status/1153304439496818689?s=21)
 * :bar_chart: [`sigma.js` for R. A powerful, full-featured R package for interactive graph visualisation](http://sigmajs.john-coene.com)
 * [`fuzzyjoin` Join data frames on inexact matching](https://github.com/dgrtwo/fuzzyjoin)
+* :bar_chart: [`ggpointdensity` "provides a #ggplot2 geom that is a cross between a 2D density plot and a scatter plot: `geom_pointdensity()`. Useful to deal with overplotting without hiding outlier points."](https://twitter.com/lpmkremer/status/1168912680767447040?s=21)
 
 `rayshader` ggplot2 -> 3D [`#rayshader`](https://twitter.com/search?q=%23rayshader)
 * [rayshader + ggplot (!!!!)](https://twitter.com/tylermorganwall/status/1134069089087950848?s=21)
