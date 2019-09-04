@@ -139,6 +139,7 @@ LATER
   * [[example 40: where do p-values come from? fundamental concepts and simulation approach]](https://alemorales.info/post/introduction-sampling-distribution/)
   * [[example 41: maximum likelihood estimation from scratch]](https://alemorales.info/post/mle-nonlinear/)
   * [[example 42: how to build a neural net in 3 lines of math]](https://www.freecodecamp.org/news/how-to-build-a-neural-net-in-three-lines-of-math-a0c42f45c40e/)
+  * [[example 43: illustrated: difference between prediction and inference in logistic regression + tweets]](https://twitter.com/willkurt/status/1168880597877645312?s=21)
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
@@ -160,6 +161,7 @@ LATER
   * [[The marks of a true senior developer]](https://medium.com/better-programming/the-marks-of-a-true-senior-developer-d5f3b11c3375)
   * [[longterm 7]](https://twitter.com/gauthier_gidel/status/1168970421649203200?s=21)
   * [[longterm 8]](https://twitter.com/aureliengeron/status/1168394684969832449)
+  * [[longterm 9]](https://twitter.com/shaohua0116/status/1169003130333384706?s=21)
 * Persistence & manageability [[document the process 1]](https://twitter.com/wearerladies/status/1067877347490115584?s=21) [[document the process 2]](https://twitter.com/ethanwhite/status/1087727841771438081)
 * Be [[interesting]](https://twitter.com/togelius/status/1088679404937625600) -> [[build]](https://twitter.com/jessfraz/status/1089590130212589570?s=21) & [[make]](https://www.youtube.com/watch?v=OZ01MH9BQqk) things
 * [Making lists](https://www.toodledo.com/)
@@ -186,12 +188,12 @@ LATER
 * `Your future is here." -FW`
 * "It's time you'll never ever get back"
 * [How To Take Notes on Everything](https://dev.to/maxwell_dev/how-to-take-notes-on-everything-32fc)
-
 * // [How to deal with being overwhelmed](https://www.huffpost.com/entry/10-ways-to-cope-with-stress-and-overwhelm_b_6033802)
  * [Ways for introverts to get their energy back](https://www.popsugar.com/smart-living/Ways-Introverts-Recharge-39990746)
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
+* [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline)
  
-* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_Unplug_9_](https://www.youtube.com/watch?v=WOINWPDqz1w)
+* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_Unplug_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [_Unplug 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -327,6 +329,9 @@ LATER
   * [Chapter 22 Probability distribution](https://teuder.github.io/rcpp4everyone_en/220_dpqr_functions.html)
   * [Chapter 28 Iterator](https://teuder.github.io/rcpp4everyone_en/280_iterator.html)
 * [review of R loop efficiency + figures](https://www.tylermw.com/theres-no-need-to-apply-yourself/)
+* [R: `rank` vs. `order`](https://towardsdatascience.com/r-rank-vs-order-753cc7665951)
+* [Creating factors and re-ordering factor levels in R](https://medium.com/@HollyEmblem/creating-factors-and-re-ordering-factor-levels-in-r-8cad2edba915)
+
 
 ### awk & sed
 * [`awk` 10 examples to group data in a CSV or text file](http://www.theunixschool.com/2012/06/awk-10-examples-to-group-data-in-csv-or.html)
@@ -390,6 +395,7 @@ April 2nd -->
 * [Hints for writing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
 * [Imagine your Data Before You Collect It](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/)
 * [How Do You Organise Your R Project? This Is What We Do.](https://telethonkids.wordpress.com/2019/07/24/how-do-you-organise-your-r-project-this-is-what-we-do/)
+* [Everything a Data Scientist Should Know About Data Management](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42) `#databases`
 
 ### Best Practices
 * [Guidelines for data analysis scripts](https://arxiv.org/abs/1904.06163)
