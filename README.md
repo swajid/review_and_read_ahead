@@ -181,6 +181,7 @@ LATER
 * ["success will be from merit, not luck"](https://twitter.com/jenheemstra/status/1113044421703057408?s=21)
 * ["anything is possible"](https://twitter.com/rob_bennett/status/1115404906817626114?s=21)
 * [read code: "great writers are a function of the writers they’ve read"](https://hackernoon.com/one-secret-to-becoming-a-great-software-engineer-read-code-467e31f243b0)
+ * [:tv: how I code so fast - TechLead](https://www.youtube.com/watch?v=ODaq-JEiIKg)
  * [101 Tips For Being A Great Programmer](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [“debugging is an engineering superpower”](https://twitter.com/mattklein123/status/1138896205239291904?s=21)
 * [`praise()`](https://twitter.com/WeAreRLadies/status/1139527099423875072)
@@ -536,12 +537,17 @@ Papers/Posters
 * [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse)
 
 (Newer) Data Analysis/Tidyverse stuff in R
+* 2019 - [Tools for analyzing R code the tidy way](https://arxiv.org/abs/1905.08327)
+* [CMV: if you truly understand dplyr and purrr, you know most of what you need to use R effectively](https://www.reddit.com/r/rstats/comments/arydi8/cmv_if_you_truly_understand_dplyr_and_purrr_you/)
 * [Rectangling is the art and craft of taking a deeply nested list (often sourced from wild caught JSON or XML) and taming it into a tidy data set of rows and columns.](https://tidyr.tidyverse.org/dev/articles/rectangle.html)
 * ["Meet curly-curly, a new operator to make it easier to create #rstats functions around #tidyverse pipelines."](https://twitter.com/_lionelhenry/status/1144506303932489728)
 * :green_book: [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 * [`clean` Fast and Easy Data Cleaning. The R package for cleaning and checking data columns in a fast and easy way. Relying on very few dependencies, it provides smart guessing, but with user options to override anything if needed.](https://twitter.com/msberends/status/1163949929527730176?s=20) `#tidyverse`
 * [How to create multiple variables with a single line of code in R](https://datascienceplus.com/how-to-create-multiple-variables-with-a-single-line-of-code-in-r/)
-
+* :green_book: [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
+* :green_book: [Data Analysis in Genome Biology](https://girke.bioinformatics.ucr.edu/GEN242/mydoc_Rbasics_12.html)
+* [Lesser known dplyr functions](https://statisticaloddsandends.wordpress.com/2019/08/30/lesser-known-dplyr-functions/)
+  
 (Newer) OOP in R
 * [Bioconductor S4 classes for high-throughput omics data](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b) -> __`Designated R class to contain specific data`__
 * [Meta analysis of multiple multi-omics data… Oy Vey](https://medium.com/@drorberel/meta-analysis-of-multiple-multi-omic-oy-vey-a45a9533e68d)
