@@ -154,6 +154,7 @@ LATER
   * [[longterm 4]](https://twitter.com/moorejh/status/1088903661638615041?s=21) 
   * [[longterm 5]](https://sloanreview.mit.edu/article/will-ai-create-as-many-jobs-as-it-eliminates/)
   * [[longterm 6]](https://twitter.com/justinkan/status/1109102101517361153?s=21)
+  * [[“Enthusiasm is common. Endurance is rare.”]](https://twitter.com/hardmaru/status/1169071673976508416)
   * [["It's a trend. And I try to avoid all trends."]](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [["focus on understanding instead of memorizing"]](https://twitter.com/aspittel/status/1122844229435383813?s=21)
   * [[we analyzed 16,625 papers to figure out where AI is headed next (2019)]](https://www.technologyreview.com/s/612768/we-analyzed-16625-papers-to-figure-out-where-ai-is-headed-next/)
@@ -193,7 +194,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline)
  
-* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_Unplug_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [_Unplug 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw)
+* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_Unplug_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [_Unplug 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_Unplug_11_](https://www.youtube.com/watch?v=ih0yJARDWtM)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -269,6 +270,7 @@ LATER
 ## MBB / Biochem
 * [Principles of Biochemistry](https://online-learning.harvard.edu/course/principles-biochemistry-1)
 * [Molecular Biology of the Cell](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
+* 2019 - [A Day in the Life of a Tree](https://www.newyorker.com/science/elements/a-day-in-the-life-of-a-tree)
 
 ## (bio)statistics
 * ~~__Some newer textbook for Statistics__~~
@@ -407,8 +409,8 @@ April 2nd -->
   * [Current projects](https://boinc.berkeley.edu/projects.php)
 
 ### Package
-* [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
-
+* [Structuring Your Project](https://docs.python-guide.org/writing/structure/) `#python`
+* :green_book: [R package development workshop + good links](https://twitter.com/_lazappi_/status/1160821746531889153) `#Rstats` 
 
 ## "Pythonic" / OOP / DP
 * [The Factory Method Pattern and Its Implementation in Python](https://realpython.com/factory-method-python/)
@@ -462,6 +464,7 @@ Shiny
 * [`reactiveSpark()` shiny integration](https://therinspark.com/streaming.html#shiny-integration)
 * ["Shiny in production: Principles, practices, and tools" by Joe Cheng from rstudio::conf(2019)](https://twitter.com/rstudio/status/1151840058892308480?s=21)
 * [Shiny Books](https://twitter.com/wearerladies/status/1153960977819475969?s=21)
+* ["Transferring your Excel sheet to a Shiny app can be the easiest way to create an enterprise ready dashboard."](https://appsilon.com/forget-about-excel-use-r-shiny-packages-instead/)
 
 Drake / Workflow
 * [Managing Your Data Workflow](https://www.datascienceatthecommandline.com/chapter-6-managing-your-data-workflow.html#introducing-drake)
@@ -497,6 +500,7 @@ Python
 Data Science in Python
 * [`openTSNE` a modular Python library for t-SNE dimensionality reduction and embedding](https://www.biorxiv.org/content/10.1101/731877v1)
 * [Combining the power of R and Python with `reticulate`](https://www.programmingwithr.com/combining-the-power-of-r-and-python-with-reticulate/)
+* [2019 - Advanced Data Reshaping in Python and R](http://www.win-vector.com/blog/2019/09/advanced-data-reshaping-in-python-and-r/)
 
 Pipelines / batch job submission
 * [ngless](https://github.com/ngless-toolkit/ngless)
@@ -526,7 +530,7 @@ Papers/Posters
 * [Using the `recipes` package for easy pre-processing](http://www.rebeccabarter.com/blog/2019-06-06_pre_processing/)
 * [Future: Simple Parallel and Distributed Processing in R](https://twitter.com/henrikbengtsson/status/1149733013611302913?s=21)
 * [Many similar models - Part 1: How to make a function for model fitting](https://aosmith.rbind.io/2019/06/24/function-for-model-fitting/) [Part 2: Automate model fitting with purrr::map() loops](https://aosmith.rbind.io/2019/07/22/automate-model-fitting-with-loops/)
-* ~new {{}} thing in R~
+* [new {{}} thing in R](https://twitter.com/selcan_t/status/1164632672079097858)
 * [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 * [`rray` is an array library for R](https://github.com/r-lib/rray)  [[tweet: "smart (python-like) subsetting, broadcasting, manipulation"]](https://twitter.com/sinarueeger/status/1149322519381499904)
 * [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse)
@@ -588,6 +592,7 @@ Computational Methods on very large datasets
 * [Large Scale Graph Mining with Spark: What I learned from mapping 15 million websites](https://www.youtube.com/watch?v=LQAaQD2n3u0)
 * [TeraPCA: a fast and scalable software package to study genetic variation in tera-scale genotypes](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz157/5430929?redirectedFrom=fulltext)
 * [`data_algebra project` a data processing tool family available in R and Python. These tools are designed to transform data either in-memory or on remote databases](http://www.win-vector.com/blog/2019/08/introducing-data_algebra/)
+* [Google BigQuery on _omic_ data](https://twitter.com/seandavis12/status/1162351354188353537)
 
 Very large data(sets,bases,projects)
 * [Hierarchical Data Format (HDF)](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
@@ -845,6 +850,20 @@ w/o deadlines
 * [[IEEE Transactions on Visualization and Computer Graphics]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 
 //Turn this into a table with emojis+notes or shading: CS, Bioinfo, etc.
+
+* 2019 - [Ten quick tips for machine learning in computational biology](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3) + [[tweet quoted:]](https://twitter.com/strnr/status/1162103966508863488)
+```
+    1. QC!
+    2. Split train/test/val
+    3. Pick appropriate method for the ?
+    4. Start simple
+    5. Be aware of class imbalance
+    6. Optimize each hyperparameter
+    7. Minimize overfitting
+    8. Evaluate with MCC or PR curve
+    9. Use open source tooling
+    10. Ask for help (experts, stackoverflow)
+```
 
 * 2019 - [What Do We Talk About When We Talk About Dashboards?](https://ieeexplore.ieee.org/document/8443395)
 * 2019 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9) 
