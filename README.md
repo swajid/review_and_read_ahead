@@ -69,7 +69,7 @@ LATER
 - [ ] Organize with emojis: books, long reads, in practice/example code, something novel, review, theory and etc.
 - [ ] Mindmap (e.g. [`mindr`](https://github.com/pzhaonet/mindr))
 - [ ] Notebooks of solutions to problems in CS [[Python]](https://github.com/zhiwehu/Python-programming-exercises)/Stats/Bioinformatics/[Adv R](https://r4ds.had.co.nz/) textbooks
-- [ ] [Schedule](http://dankelley.github.io/plan/examples.html)
+- [ ] [Schedule](http://dankelley.github.io/plan/examples.html) + [calendar heatmap in ggplot2](https://ryanplant.netlify.com/post/calendar-heatmaps-in-ggplot/) `move this down to proj. stuff`
 - [ ] Move old OneNote stuff/scripts/papers to wiki sometime
 - [ ] [Side projects](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources#tutorials)
 - [ ] __Good end of chapter exercises__ :dart: [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) && :dart: * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/)
@@ -193,7 +193,7 @@ LATER
 * // [How to deal with being overwhelmed](https://www.huffpost.com/entry/10-ways-to-cope-with-stress-and-overwhelm_b_6033802)
  * [Ways for introverts to get their energy back](https://www.popsugar.com/smart-living/Ways-Introverts-Recharge-39990746)
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
-* [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline)
+* [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
  
 * [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_Unplug_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [_Unplug 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_Unplug_11_](https://www.youtube.com/watch?v=ih0yJARDWtM)
 
@@ -235,9 +235,8 @@ LATER
 * etc
 
 ### Unix
+* [Regex Puzzles](https://twitter.com/jakevdp/status/1170525508670390272?s=20)
 * [Question: What Are The Bioinformatics-Related Aliases Or Functions In Your Bashrc](https://www.biostars.org/p/45456/)
-
-
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs)
 * [Pipes](https://blog.jessfraz.com/post/for-the-love-of-pipes/)
 * [History of GREP](https://www.youtube.com/watch?v=NTfOnGZUZDk)
@@ -276,9 +275,10 @@ LATER
 ## (bio)statistics
 * ~~__Some newer textbook for Statistics__~~
 * [Statistics for biologists](http://mtvernon.wsu.edu/wp-content/uploads/2016/12/Statistics_for_Terrified_Biologists.pdf) `#pdf`
-* [**Modern Statistics for Modern Biology**](http://web.stanford.edu/class/bios221/book/)
+* :green_book: [**Modern Statistics for Modern Biology**](http://web.stanford.edu/class/bios221/book/)
 * [Clincal Statistics - Vanderbilt + links](http://biostat.mc.vanderbilt.edu/wiki/Main/ClinStat)
-  * [**Biostatistics for Biomedical Research**](http://fharrell.com/doc/bbr.pdf) `#pdf`
+* [UCSCXenaTools: Retrieve Gene Expression and Clinical Information from UCSC Xena for Survival Analysis -> Merge expression data and survival status](https://ropensci.org/technotes/2019/09/06/ucscxenatools-surv/) :bulb:
+* :green_book: [**Biostatistics for Biomedical Research**](http://fharrell.com/doc/bbr.pdf) `#pdf`
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 * [Math for Programmers](https://www.manning.com/books/math-for-programmers)
 * [Biostatistics for Biomedical Research](http://hbiostat.org/doc/bbr.pdf)
@@ -287,7 +287,7 @@ LATER
 * [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
 * :green_book: [A First Course on Statistical Inference](https://bookdown.org/egarpor/inference/)
 * :tv: [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer/videos)
-* [Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics?recoOrder=12&utm_medium=email&utm_source=recommendations&utm_campaign=CfYX8Le0EempyReieZALEQ)
+* :tv: [Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics?recoOrder=12&utm_medium=email&utm_source=recommendations&utm_campaign=CfYX8Le0EempyReieZALEQ)
 * :green_book: [Learning Statistics with R](https://learningstatisticswithr.com/)
 * [What’s the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17)
 * [Data Preprocessing in Python](https://towardsdatascience.com/data-preprocessing-in-python-b52b652e37d5)
@@ -595,6 +595,7 @@ Auto_*
 * [How to easily automate R analysis, modeling and development work using CI/CD, with working examples](https://jozefhajnala.gitlab.io/r/r106-r-package-gitlab-ci/)
 
 Computational Methods on very large datasets
+* [2019 - Unsupervised OMICs Integration: Projecting data onto common axes of variation across OMICs](https://twitter.com/NikolayOskolkov/status/1167197480804503554?s=20)
 * [Large Scale Graph Mining with Spark: What I learned from mapping 15 million websites](https://www.youtube.com/watch?v=LQAaQD2n3u0)
 * [TeraPCA: a fast and scalable software package to study genetic variation in tera-scale genotypes](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz157/5430929?redirectedFrom=fulltext)
 * [`data_algebra project` a data processing tool family available in R and Python. These tools are designed to transform data either in-memory or on remote databases](http://www.win-vector.com/blog/2019/08/introducing-data_algebra/)
@@ -732,9 +733,11 @@ General Bioconductor
  * but like: [Interoperability between single-cell object formats](https://satijalab.org/seurat/v3.0/conversion_vignette.html)
  * [](https://osca.bioconductor.org/data-infrastructure.html#the-singlecellexperiment-class)
 - [4.2 The SingleCellExperiment Class] [Bayesian Analysis of Single-Cell Sequencing data - > References](http://bioconductor.org/packages/release/bioc/vignettes/BASiCS/inst/doc/BASiCS.html)
+* [`SingleR` Reference-Based Single-Cell RNA-Seq Annotation](https://twitter.com/dvir_a/status/1170117086711930880?s=20)
 
-SCS / single-cell (completely unfamiliar)
-* [Single Cell Analysis Club @ NYU - vimeo](https://vimeo.com/user33294891)
+SCS / single-cell (completely unfamiliar) [[Articles by Nikolay Oskolkov]](https://towardsdatascience.com/@nikolay.oskolkov) (add links + give credit to author's tweets)
+* :tv: [Single Cell Analysis Club @ NYU - vimeo](https://vimeo.com/user33294891)
+* [2019 - How to Batch Correct Single Cell](https://twitter.com/NikolayOskolkov/status/1169610566895329280)
 * [2019 - Overview of single cell bioinformatics (slides)](https://twitter.com/petehaitch/status/1152717037048778752?s=21)
 * [2019 - Mathematical modeling with single-cell sequencing data](https://www.biorxiv.org/content/10.1101/710640v1)
   * personal goal for the summer: get a small overview of this paper
@@ -870,7 +873,7 @@ w/o deadlines
     9. Use open source tooling
     10. Ask for help (experts, stackoverflow)
 ```
-
+* 2019 - [Single cell ATAC-seq in human pancreatic islets and deep learning upscaling of rare cells reveals cell-specific type 2 diabetes regulatory signatures](https://twitter.com/jdidion/status/1170660400209256448?s=20)
 * 2019 - [What Do We Talk About When We Talk About Dashboards?](https://ieeexplore.ieee.org/document/8443395)
 * 2019 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9) 
   * "To make the outputs from different methods directly comparable to each other, we developed a common probabilistic model for representing trajectories from all possible sources (Fig. 1b). In this model, the overall topology is represented by a network of ‘milestones’, and the cells are placed within the space formed by each set of connected milestones."
