@@ -165,7 +165,7 @@ LATER
   * [[longterm 9]](https://twitter.com/shaohua0116/status/1169003130333384706?s=21)
 * Persistence & manageability [[document the process 1]](https://twitter.com/wearerladies/status/1067877347490115584?s=21) [[document the process 2]](https://twitter.com/ethanwhite/status/1087727841771438081)
 * Be [[interesting]](https://twitter.com/togelius/status/1088679404937625600) -> [[build]](https://twitter.com/jessfraz/status/1089590130212589570?s=21) & [[make]](https://www.youtube.com/watch?v=OZ01MH9BQqk) things
-* [Making lists](https://www.toodledo.com/)
+* Making [[ordered]](https://twitter.com/fatima_ahdash/status/1171153620525600771?s=21) [[lists]](https://www.toodledo.com/)
 * [Time block / organization](https://twitter.com/sexchrlab/status/1089937322450202624) [[How I develop]](http://www.bioinformaticszen.com/post/how-i-develop/) [[`termdown`]](https://github.com/trehn/termdown) [["Stop Not Writing...Just one bad sentence after another."]](https://twitter.com/annelamott/status/1109477463015325696?s=21)
 * Focus on strengths, [tries](https://twitter.com/jenheemstra/status/1095313296230539265) & [past successes](https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html)
 * [Ask for feedback / understand why](https://ed.ted.com/featured/VdQTGGdx)
