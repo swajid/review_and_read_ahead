@@ -195,7 +195,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
  
-* [_Unplug 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [_Unplug 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [_Unplug 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [_Unplug 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [_Unplug 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [_Unplug 5_](https://www.youtube.com/user/ryoya1983/videos) [_Unplug 6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [_Unplug 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [_Unplug 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [_Unplug 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_Unplug_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [_Unplug 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_Unplug_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_Unplug_12_](https://youtu.be/7Xr9BYhlceA)
+* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -343,6 +343,16 @@ LATER
 # :100: Read Ahead
 [[back to top]](https://github.com/swajid/review_and_read_ahead#review_and_read_ahead)
 
+### Editor
+"Know your editor" - TL
+
+Code
+* [Create a simple application with C#](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2019)
+
+RStudio
+* [Happy Git and GitHub for the useR -> Ch13: Detect Git from RStudio](https://happygitwithr.com/rstudio-see-git.html#tell-rstudio-where-to-find-git)
+
+
 April 2nd --> 
 
 
@@ -384,6 +394,7 @@ April 2nd -->
 * [We Built a Collaborative Documentation Site](https://open.nytimes.com/we-built-a-collaborative-documentation-site-deploy-your-own-with-the-push-of-a-button-134de99c42fc)
 * [`awesome-reproducible-research`](https://github.com/leipzig/awesome-reproducible-research)
 * [Program Evaluation: Difference-in-differences in R](https://twitter.com/rbloggers/status/1152843239793278976?s=21)
+* :tv: [How to win friends and write an open-source book](https://twitter.com/jakub_nowosad/status/1171790466502791169?s=21)
 
 ### Directory Structure
 * [Universal Directory Structure](https://twitter.com/micahgallen/status/1001362580710088704?s=21)
@@ -535,6 +546,17 @@ Papers/Posters
 * [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 * [`rray` is an array library for R](https://github.com/r-lib/rray)  [[tweet: "smart (python-like) subsetting, broadcasting, manipulation"]](https://twitter.com/sinarueeger/status/1149322519381499904)
 * [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse)
+* [Performance Debugging in R and C++](https://twitter.com/const_ae/status/1171808275052056576?s=20)
+    ```
+    profvis is pretty straight forward to use: you wrap the statement of interested inside the profvis() call
+
+    library(profvis)
+    profvis({
+      estimateDispersionsGeneEst(dds)
+    })
+    and you get a nicely rendered overview how much time the program spend on each line of code in that function.
+    Result from profvis in RStudio. It immediately tells you where the function call spends most time. In this case, the estimateDispersionGeneEst() function spends 85% of the time (550 ms) in the internal C++ function fitDisp() function.
+    ```
 
 (Newer) Data Analysis/Tidyverse stuff in R
 * 2019 - [Tools for analyzing R code the tidy way](https://arxiv.org/abs/1905.08327)
