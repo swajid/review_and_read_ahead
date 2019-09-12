@@ -93,7 +93,7 @@ LATER
 * [[Good advice]](https://twitter.com/jenheemstra/status/1089147958757638144?s=21)
 * Following up
 * __1-page of notes__
-* Expository notes/summaries - intended to explain informally, intuitive [["_Write the explanation you wish you’d found._"]](https://twitter.com/_brohrer_/status/1110526400933609472?s=21) / different ways of explaining/thinking about things
+* Expository notes/summaries - intended to explain informally, intuitive [["_Write the explanation you wish you’d found._"]](https://twitter.com/_brohrer_/status/1110526400933609472?s=21) / different ways of explaining/thinking about things / [[step-by-step explaination]](https://www.youtube.com/watch?v=Szi6Q7MBS8E&feature=youtu.be)
   * [[example 1: poisson distribution]](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
   * [[example 2: algorithms]](http://research.engineering.nyu.edu/~greg/algorithms/scribbles.pdf)
   * [[example 3: code documentation]](https://twitter.com/dan_abramov/status/1101408462901334016?s=21)
@@ -709,6 +709,7 @@ NLP/Automatic Text Summarization
 * [Approaches to Text Summarization](https://www.kdnuggets.com/2019/01/approaches-text-summarization-overview.html)
 * [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 * [2019 - Extracting knowledge from scientific papers](https://twitter.com/EricTopol/status/1146815499499495424)
+* [2019 - BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://twitter.com/strnr/status/1171600001929240576?s=20)
 * [Dependency parsing with udpipe](http://www.bnosac.be/index.php/blog/93-dependency-parsing-with-udpipe)
 
 GPU (complicated — keep in context of bioinfo)
@@ -729,6 +730,8 @@ Bioinformatics
 * 2019 - [PheGWAS: A new dimension to visualize GWAS across multiple phenotypes](https://www.biorxiv.org/content/10.1101/694794v1)
 
 General Bioconductor
+* [`dbgap2x`: An R package to explore and extract data from the database of Genotypes and Phenotypes (dbGaP)](https://twitter.com/strnr/status/1171082077959327745?s=20)
+  * [Notebook with Jackson Heart Study](https://hub.docker.com/r/gversmee/dbgap2x)
 * [An `SingleCellExperiment` obj: S4 Classes for Single Cell Data](https://bioconductor.org/packages/3.9/bioc/html/SingleCellExperiment.html)
  * but like: [Interoperability between single-cell object formats](https://satijalab.org/seurat/v3.0/conversion_vignette.html)
  * [](https://osca.bioconductor.org/data-infrastructure.html#the-singlecellexperiment-class)
