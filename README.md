@@ -787,8 +787,10 @@ Novel/emerging dataviz (that is also open source)
   * [getting started with rayrender](https://www.tylermw.com/getting-started-with-rayrender/)
   * [example](https://twitter.com/tylermorganwall/status/1122498502049828864?s=21)
 
-Interactive Data Story
+Interactive Data Story / Good use of scrolling UI
 * [opportunity rover, map](https://www.nytimes.com/interactive/2019/02/13/science/opportunity-rover-mars-map.html?mtrref=t.co)
+* [coldplay](https://www.youtube.com/watch?v=KnLNG0WnGsI)
+* [nyt flood map](https://twitter.com/BlackiLi/status/1172272504376836098)
 
 Color/UI
 * [Star Wars: Rogue One UI design](https://www.hudsandguis.com/home/2017/3/7/rogue-one-ui)
