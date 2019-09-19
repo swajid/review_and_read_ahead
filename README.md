@@ -195,7 +195,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
  
-* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785)
+* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -212,6 +212,7 @@ LATER
 
 # :hourglass_flowing_sand: Review
 ## Bioinformatics
+* [Projected annual storage in 2025, genomic data](https://twitter.com/whitequark/status/1172930343118065664)
 * [Academic talks by Rafael Irizarry](https://www.youtube.com/user/RafalabChannel/videos)
 * [__Nature Biotechnology - Computational Biology Primers__](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html)
 
@@ -414,6 +415,7 @@ April 2nd -->
 ### Best Practices
 * [Guidelines for data analysis scripts](https://arxiv.org/abs/1904.06163)
 * [Design docs - A design doc](https://medium.com/dev-channel/design-docs-a-design-doc-a152f4484c6b)
+* [Containerization; "creating a GitHub repo, RStudio project, rmarkdown file, new data, dockerfile from SCRATCH"](https://twitter.com/nj_tierney/status/1174246280748576768?s=21)
 
 ### Infrastructure
 * [Berkeley Open Infrastructure for Network Computing](https://en.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing)
@@ -536,9 +538,6 @@ Papers/Posters
 * https://adv-r.hadley.nz/expressions.html (from 4/19/18)
 * https://adv-r.hadley.nz/evaluation.html (from 4/19/18)
 * [Import a Directory of CSV Files at Once](https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/)
-* [Text Mining with R](https://www.tidytextmining.com/)
-- [ ] [Functional programming and unit testing for data munging with R](https://b-rodrigues.github.io/fput/)
-* [ ] [Functional programming and plotting](https://b-rodrigues.github.io/modern_R/functional-programming.html#functional-programming-and-plotting)
 * [Mastering Apache Spark with R (2019)](https://therinspark.com/) -> [table of contents / browser error](https://therinspark.com/intro.html)
 * [Using the `recipes` package for easy pre-processing](http://www.rebeccabarter.com/blog/2019-06-06_pre_processing/)
 * [Future: Simple Parallel and Distributed Processing in R](https://twitter.com/henrikbengtsson/status/1149733013611302913?s=21)
@@ -577,7 +576,13 @@ Papers/Posters
 * [Building a package that lasts](https://github.com/ColinFay/erum2018)
 - [ ] [2018 - Bio/Recursion](https://leanpub.com/biorecursion)
 
-Data Visualization/Tables
+Text (mining) in R
+* [Text Mining with R](https://www.tidytextmining.com/)
+- [ ] [Functional programming and unit testing for data munging with R](https://b-rodrigues.github.io/fput/)
+* [ ] [Functional programming and plotting](https://b-rodrigues.github.io/modern_R/functional-programming.html#functional-programming-and-plotting)
+* [`RVerbalExpressions` - building regex in R using `%>%`](https://twitter.com/strnr/status/1173736067532558342)
+
+Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [`ggreverse` reverse a ggplot object back into code](https://github.com/coolbutuseless/ggreverse)
 * :bar_chart: [`ascii` output of plots!](https://coolbutuseless.github.io/2019/05/01/introducing-devout-an-ascii-graphics-output-device/)
 * :green_book: [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
@@ -604,6 +609,8 @@ Data Visualization/Tables
 * :bar_chart: [`sigma.js` for R. A powerful, full-featured R package for interactive graph visualisation](http://sigmajs.john-coene.com)
 * [`fuzzyjoin` Join data frames on inexact matching](https://github.com/dgrtwo/fuzzyjoin)
 * :bar_chart: [`ggpointdensity` "provides a #ggplot2 geom that is a cross between a 2D density plot and a scatter plot: `geom_pointdensity()`. Useful to deal with overplotting without hiding outlier points."](https://twitter.com/lpmkremer/status/1168912680767447040?s=21)
+* [`santoku` - R package for cutting data](https://twitter.com/dataandme/status/1174143258265640960)
+
 
 `rayshader` ggplot2 -> 3D [`#rayshader`](https://twitter.com/search?q=%23rayshader)
 * [rayshader + ggplot (!!!!)](https://twitter.com/tylermorganwall/status/1134069089087950848?s=21)
@@ -721,6 +728,7 @@ Dynamic Documents
 * [Dissertating with RMarkdown and Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/)
 * [`knitcitations` is an R package designed to add dynamic citations to dynamic documents created with knitr package](https://github.com/cboettig/knitcitations)
 * [`liftr` aims to solve the problem of persistent reproducible reporting](https://liftr.me/?utm_content=buffera08e2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [`equatiomatic` Convert models to LaTeX equations, `lm()` `glm()`](https://github.com/datalorax/equatiomatic)
 
 Healthcare / AI + Health / [[Amazon Echo]]()
 * [Invisible Middlemen Are Slowing Down American Health Care](https://www.theatlantic.com/health/archive/2019/04/pbms-health-care-drug-delays-prices/586711/)
@@ -811,6 +819,7 @@ API/documentation
 * [evol: A Python grammar for evolutionary algorithms and heuristics](https://evol.readthedocs.io/en/latest/quickstart.html)
 * [RnBeads - Comprehensive analysis of DNA methylation data](https://rnbeads.org/tutorial.html)
 * [`ggparty` package wiki - aims to extend ggplot2 functionality to the partykit package](https://github.com/martin-borkovec/ggparty/wiki)
+* [Presentation on `santoku` an R package for cutting data, using clever gifs and etc.](https://rpubs.com/dash2/santoku)
 
 # O'Reilly / Reference Books
 _add link of TOC_
