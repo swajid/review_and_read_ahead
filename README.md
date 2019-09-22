@@ -24,7 +24,7 @@
 
 * The Australian Cricket Team uses pickle juice for electrolytes and muscle cramps
 
-* Look on the brightside / don't always have to be so serious
+* Look on the brightside; don't always have to be so serious
 
 * Well, I'm getting older too, I'm turning 61, sooooo what, everyone gets older
 
@@ -195,7 +195,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
  
-* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak)
+* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak) [_23_](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film)) [_24_](https://www.youtube.com/watch?v=7jekYAm3fkA)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -557,6 +557,8 @@ Papers/Posters
     and you get a nicely rendered overview how much time the program spend on each line of code in that function.
     Result from profvis in RStudio. It immediately tells you where the function call spends most time. In this case, the estimateDispersionGeneEst() function spends 85% of the time (550 ms) in the internal C++ function fitDisp() function.
     ```
+* :green_book: [Tidy tools for supporting fluent workflow in temporal data analysis -> "A new tidy data structure ..."](https://thesis.earo.me/3-ch-tsibble.html)
+
 
 (Newer) Data Analysis/Tidyverse stuff in R
 * 2019 - [Tools for analyzing R code the tidy way](https://arxiv.org/abs/1905.08327)
@@ -581,6 +583,8 @@ Text (mining) in R
 - [ ] [Functional programming and unit testing for data munging with R](https://b-rodrigues.github.io/fput/)
 * [ ] [Functional programming and plotting](https://b-rodrigues.github.io/modern_R/functional-programming.html#functional-programming-and-plotting)
 * [`RVerbalExpressions` - building regex in R using `%>%`](https://twitter.com/strnr/status/1173736067532558342)
+* [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/)
+
 
 Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [`ggreverse` reverse a ggplot object back into code](https://github.com/coolbutuseless/ggreverse)
@@ -707,6 +711,7 @@ General Software Development
 * ["Reasons I consider the launch of #rayshader’s 3D ggplot feature a success: ..."](https://twitter.com/tylermorganwall/status/1144957609377763331?s=20)
 * [maintaining code long term](https://twitter.com/matthew_d_green/status/1144985659314180096?s=20)
 * [Design Principles, Comparisons and Limitations -> Comparing Huxtable With Other Packages](https://hughjonesd.github.io/huxtable/design-principles.html)
+* [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 
 Data Backup
 * [[example from bioinformatics]](https://twitter.com/jacobphd/status/1139206934324604928?s=21)
