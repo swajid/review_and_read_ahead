@@ -82,7 +82,7 @@ LATER
   * ["Remember that there are emotional peaks and valleys when you're learning something new. There are highs when you get the material. Then there are really tough lows when it gets hard. It's really hard to grapple with when you're in a low. But you'll get through it!"](https://twitter.com/aspittel/status/1095864806245126150?s=21) : 
 * [Notecards](https://www.muji.us/store/key-ring-memo-block-square.html)
 * [Asking questions](http://www.incidentalcomics.com/2015/08/asking-questions.html) - [something](https://twitter.com/jbeda/status/1087869217322332160?s=21)
-* Repetition
+* [[Repetition / "iterative refinement"]](https://twitter.com/fchollet/status/1176468552796164096?s=20)
 * Rewriting
 * [[Memory Palace]]()
 * ["How do they write the right stuff? The answer is, `it’s the process`. The group’s most important creation is not the perfect software they write — it’s the process they invented that writes the perfect software." (12.31.96)](https://www.fastcompany.com/28121/they-write-right-stuff)
@@ -195,7 +195,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
  
-* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak) [_23_](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film)) [_24_](https://www.youtube.com/watch?v=7jekYAm3fkA)
+* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak) [_23_](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film)) [_24_](https://www.youtube.com/watch?v=7jekYAm3fkA) [_25_](https://variety.com/2019/digital/news/food-network-kitchen-streaming-discovery-1203348667/)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -616,10 +616,11 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [`santoku` - R package for cutting data](https://twitter.com/dataandme/status/1174143258265640960)
 
 
-`rayshader` ggplot2 -> 3D [`#rayshader`](https://twitter.com/search?q=%23rayshader)
+[[`rayshader`]](https://www.rayshader.com/reference/plot_gg.html) ggplot2 -> 3D [`#rayshader`](https://twitter.com/search?q=%23rayshader) [[rayshader arguments]](https://www.rayshader.com/reference/plot_gg.html#arguments)
 * [rayshader + ggplot (!!!!)](https://twitter.com/tylermorganwall/status/1134069089087950848?s=21)
   * [example + animation ](https://twitter.com/wearerladies/status/1144189570730397697?s=21)
   * [3d print](https://twitter.com/Branson_Fox/status/1145447942989463557?s=20)
+  * [3d map + density](https://twitter.com/tylermorganwall/status/1176838581723238401?s=20) [[code gist: `ggheight = plot_gg(list(js,js2), multicore = TRUE, raytrace=TRUE,`]](https://gist.github.com/tylermorganwall/2f3ca112b9cd13972e02e1062670b735) 
   
 Auto_*
 * [AutoEDA - Explore the landscape of R packages for automated data exploration](https://www.r-bloggers.com/explore-the-landscape-of-r-packages-for-automated-data-exploration/)
@@ -734,6 +735,7 @@ Dynamic Documents
 * [`knitcitations` is an R package designed to add dynamic citations to dynamic documents created with knitr package](https://github.com/cboettig/knitcitations)
 * [`liftr` aims to solve the problem of persistent reproducible reporting](https://liftr.me/?utm_content=buffera08e2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [`equatiomatic` Convert models to LaTeX equations, `lm()` `glm()`](https://github.com/datalorax/equatiomatic)
+* [Mastering R Presentations](https://twitter.com/Rbloggers/status/1176502902443167744?s=20)
 
 Healthcare / AI + Health / [[Amazon Echo]]()
 * [Invisible Middlemen Are Slowing Down American Health Care](https://www.theatlantic.com/health/archive/2019/04/pbms-health-care-drug-delays-prices/586711/)
@@ -766,6 +768,7 @@ Bioinformatics
 * 2019 - [PheGWAS: A new dimension to visualize GWAS across multiple phenotypes](https://www.biorxiv.org/content/10.1101/694794v1)
 
 General Bioconductor
+* :green_book: [Computational Genomics with R](https://twitter.com/AltunaAkalin/status/1176502641716813825?s=20)
 * [`dbgap2x`: An R package to explore and extract data from the database of Genotypes and Phenotypes (dbGaP)](https://twitter.com/strnr/status/1171082077959327745?s=20)
   * [Notebook with Jackson Heart Study](https://hub.docker.com/r/gversmee/dbgap2x)
 * [An `SingleCellExperiment` obj: S4 Classes for Single Cell Data](https://bioconductor.org/packages/3.9/bioc/html/SingleCellExperiment.html)
@@ -773,6 +776,7 @@ General Bioconductor
  * [](https://osca.bioconductor.org/data-infrastructure.html#the-singlecellexperiment-class)
 - [4.2 The SingleCellExperiment Class] [Bayesian Analysis of Single-Cell Sequencing data - > References](http://bioconductor.org/packages/release/bioc/vignettes/BASiCS/inst/doc/BASiCS.html)
 * [`SingleR` Reference-Based Single-Cell RNA-Seq Annotation](https://twitter.com/dvir_a/status/1170117086711930880?s=20)
+* [2019 - `Tximeta`: reference sequence checksums for provenance identification in RNA-seq](https://www.biorxiv.org/content/biorxiv/early/2019/09/25/777888.full.pdf) [["The correct reference transcriptome is identified via a hashed checksum stored in the quantification output, and key transcript databases are downloaded and cached locally."]] 
 
 SCS / single-cell (completely unfamiliar) [[Articles by Nikolay Oskolkov]](https://towardsdatascience.com/@nikolay.oskolkov) (add links + give credit to author's tweets)
 * :tv: [Single Cell Analysis Club @ NYU - vimeo](https://vimeo.com/user33294891)
@@ -819,6 +823,8 @@ Dashboards
 * [Serious examples](https://twitter.com/robinson_es/status/1153341706147893248?s=21)
 * [Dash, the fastest growing framework for building analytic web applications on top of Python models, is now available for the R programming language](https://moderndata.plot.ly/dash-has-gone-full-r/)
 * [phyloseq: Analyze microbiome census data using R + Shiny](http://joey711.github.io/phyloseq/)
+* [Introducing Dash Bio for R](https://www.r-bloggers.com/introducing-dash-bio-for-r/) `#plotly`
+
 
 API/documentation
 * [evol: A Python grammar for evolutionary algorithms and heuristics](https://evol.readthedocs.io/en/latest/quickstart.html)
@@ -973,3 +979,12 @@ w/o deadlines
 
 
 * 1998 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
+
+
+```
+"Sometimes, when we lose ourselves, in fear and despair, in routine and constancy, in hopelessness 
+and tragedy, we can thank God for Bavarian sugar cookies. ... And we must remember that all these 
+things, the nuances, the anomalies, the subtleties, which we assume only accessorize our days are, 
+in fact, here for a much larger and nobler cause." 
+- `Stranger than fiction (2006)`
+```
