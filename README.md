@@ -195,7 +195,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
  
-* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak) [_23_](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film)) [_24_](https://www.youtube.com/watch?v=7jekYAm3fkA) [_25_](https://variety.com/2019/digital/news/food-network-kitchen-streaming-discovery-1203348667/)
+* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak) [_23_](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film)) [_24_](https://www.youtube.com/watch?v=7jekYAm3fkA) [_25_](https://variety.com/2019/digital/news/food-network-kitchen-streaming-discovery-1203348667/) [_26_](https://www.youtube.com/watch?v=thiXTX7Fm9w) 
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -483,8 +483,9 @@ Shiny
 Drake / Workflow
 * [Managing Your Data Workflow](https://www.datascienceatthecommandline.com/chapter-6-managing-your-data-workflow.html#introducing-drake)
 * [__2019 - Workflow systems turn raw data into scientific knowledge__](https://www.nature.com/articles/d41586-019-02619-z)
+* [__Example/template repository for building drake R projects on GitLab CI using Docker__](https://gitlab.com/ecohealthalliance/drake-gitlab-docker-example) `#CI` `#docker` `#git` `#Rproj`
  
-Unit Testing/Logging/CI
+Unit Testing/Logging/CI/[[debugging]](https://twitter.com/fogus/status/1176911596498706433?s=20)
 * [logic behind testing: catch errors](https://twitter.com/djnavarro/status/1123409622486798336?s=21)
 * [`projmgr` GitHub PM in R](https://emilyriederer.github.io/projmgr/)
 * [`testthat`](https://testthat.r-lib.org/)
@@ -615,13 +616,14 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * :bar_chart: [`ggpointdensity` "provides a #ggplot2 geom that is a cross between a 2D density plot and a scatter plot: `geom_pointdensity()`. Useful to deal with overplotting without hiding outlier points."](https://twitter.com/lpmkremer/status/1168912680767447040?s=21)
 * [`santoku` - R package for cutting data](https://twitter.com/dataandme/status/1174143258265640960)
 
-
+Projecting ggplot2 from 2D to 3D
 [[`rayshader`]](https://www.rayshader.com/reference/plot_gg.html) ggplot2 -> 3D [`#rayshader`](https://twitter.com/search?q=%23rayshader) [[rayshader arguments]](https://www.rayshader.com/reference/plot_gg.html#arguments)
 * [rayshader + ggplot (!!!!)](https://twitter.com/tylermorganwall/status/1134069089087950848?s=21)
   * [example + animation ](https://twitter.com/wearerladies/status/1144189570730397697?s=21)
   * [3d print](https://twitter.com/Branson_Fox/status/1145447942989463557?s=20)
   * [3d map + density](https://twitter.com/tylermorganwall/status/1176838581723238401?s=20) [[code gist: `ggheight = plot_gg(list(js,js2), multicore = TRUE, raytrace=TRUE,`]](https://gist.github.com/tylermorganwall/2f3ca112b9cd13972e02e1062670b735) 
-  
+
+
 Auto_*
 * [AutoEDA - Explore the landscape of R packages for automated data exploration](https://www.r-bloggers.com/explore-the-landscape-of-r-packages-for-automated-data-exploration/)
 * [Automate the boring stuff](https://automatetheboringstuff.com/)
@@ -713,6 +715,7 @@ General Software Development
 * [maintaining code long term](https://twitter.com/matthew_d_green/status/1144985659314180096?s=20)
 * [Design Principles, Comparisons and Limitations -> Comparing Huxtable With Other Packages](https://hughjonesd.github.io/huxtable/design-principles.html)
 * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+* ["Design is not optimization."](https://twitter.com/fchollet/status/1177338131474857984?s=20)
 
 Data Backup
 * [[example from bioinformatics]](https://twitter.com/jacobphd/status/1139206934324604928?s=21)
@@ -736,6 +739,7 @@ Dynamic Documents
 * [`liftr` aims to solve the problem of persistent reproducible reporting](https://liftr.me/?utm_content=buffera08e2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [`equatiomatic` Convert models to LaTeX equations, `lm()` `glm()`](https://github.com/datalorax/equatiomatic)
 * [Mastering R Presentations](https://twitter.com/Rbloggers/status/1176502902443167744?s=20)
+* [Dynamic CV using R](https://twitter.com/NicholasStrayer/status/1177258660260544512?s=20)
 
 Healthcare / AI + Health / [[Amazon Echo]]()
 * [Invisible Middlemen Are Slowing Down American Health Care](https://www.theatlantic.com/health/archive/2019/04/pbms-health-care-drug-delays-prices/586711/)
@@ -766,6 +770,7 @@ Bioinformatics
 * 2019 - [GREIN: An Interactive Web Platform for Re-analyzing GEO RNA-seq Data](https://www.nature.com/articles/s41598-019-43935-8)
 * 2019 - [Cerebro: Interactive visualization of scRNA-seq data](https://www.biorxiv.org/content/10.1101/631705v1) `#shiny` `#electron`
 * 2019 - [PheGWAS: A new dimension to visualize GWAS across multiple phenotypes](https://www.biorxiv.org/content/10.1101/694794v1)
+* [Animated ranking chart: _"The most popular National Parks_](https://twitter.com/spren9er/status/1175333672251265024?s=20)
 
 General Bioconductor
 * :green_book: [Computational Genomics with R](https://twitter.com/AltunaAkalin/status/1176502641716813825?s=20)
@@ -776,7 +781,8 @@ General Bioconductor
  * [](https://osca.bioconductor.org/data-infrastructure.html#the-singlecellexperiment-class)
 - [4.2 The SingleCellExperiment Class] [Bayesian Analysis of Single-Cell Sequencing data - > References](http://bioconductor.org/packages/release/bioc/vignettes/BASiCS/inst/doc/BASiCS.html)
 * [`SingleR` Reference-Based Single-Cell RNA-Seq Annotation](https://twitter.com/dvir_a/status/1170117086711930880?s=20)
-* [2019 - `Tximeta`: reference sequence checksums for provenance identification in RNA-seq](https://www.biorxiv.org/content/biorxiv/early/2019/09/25/777888.full.pdf) [["The correct reference transcriptome is identified via a hashed checksum stored in the quantification output, and key transcript databases are downloaded and cached locally."]] 
+* [2019 - `Tximeta`: reference sequence checksums for provenance identification in RNA-seq](https://www.biorxiv.org/content/biorxiv/early/2019/09/25/777888.full.pdf) 
+  * "The correct reference transcriptome is identified via a hashed checksum stored in the quantification output, and key transcript databases are downloaded and cached locally."
 
 SCS / single-cell (completely unfamiliar) [[Articles by Nikolay Oskolkov]](https://towardsdatascience.com/@nikolay.oskolkov) (add links + give credit to author's tweets)
 * :tv: [Single Cell Analysis Club @ NYU - vimeo](https://vimeo.com/user33294891)
@@ -794,10 +800,10 @@ Developing Workshops/Bioinformatics/Process Of/etc
 Dataviz
 * [types of charts](https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a)
 * [report](https://twitter.com/nytgraphics/status/1119332817446625281)
-* [mapping segregation](https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
+* :globe_with_meridians: [mapping segregation](https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * :tv: [How We Lie to Ourselves With Charts - PyData Miami 2019](https://www.youtube.com/watch?v=3QYsc48zzgs)
 * [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
-
+* :globe_with_meridians: [coloring streets by their suffix](https://twitter.com/NadiehBremer/status/1176763452783833088?s=20)
 
 Novel/emerging dataviz (that is also open source)
 * [rayrender](https://www.rayshader.com/)
@@ -807,7 +813,7 @@ Novel/emerging dataviz (that is also open source)
 Interactive Data Story / Good use of scrolling UI
 * [opportunity rover, map](https://www.nytimes.com/interactive/2019/02/13/science/opportunity-rover-mars-map.html?mtrref=t.co)
 * [coldplay](https://www.youtube.com/watch?v=KnLNG0WnGsI)
-* [nyt flood map](https://twitter.com/BlackiLi/status/1172272504376836098)
+* :globe_with_meridians: [nyt flood map](https://twitter.com/BlackiLi/status/1172272504376836098)
 
 Color/UI
 * [Star Wars: Rogue One UI design](https://www.hudsandguis.com/home/2017/3/7/rogue-one-ui)
