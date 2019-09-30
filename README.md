@@ -1,5 +1,16 @@
 # swajid_intro
 
+`test SVG`
+![chevron-back-circle-sharp.svg](icons/svg/chevron-back-circle-sharp.svg)
+
+![duplicate-sharp.svg](icons/svg/duplicate-sharp.svg)
+
+![duplicate-outline.svg](icons/svg/duplicate-outline.svg)
+
+![layers-outline.svg](icons/svg/layers-outline.svg)
+
+
+
 ```
 * C is the best programming language
 
@@ -716,6 +727,7 @@ General Software Development
 * [Design Principles, Comparisons and Limitations -> Comparing Huxtable With Other Packages](https://hughjonesd.github.io/huxtable/design-principles.html)
 * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 * ["Design is not optimization."](https://twitter.com/fchollet/status/1177338131474857984?s=20)
+* [Faster Group Statistics](https://www.brodieg.com/2019/02/24/a-strategy-for-faster-group-statisitics/) `#rstats`
 
 Data Backup
 * [[example from bioinformatics]](https://twitter.com/jacobphd/status/1139206934324604928?s=21)
