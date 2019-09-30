@@ -1,14 +1,25 @@
 # swajid_intro
 
 `test SVG`
-![chevron-back-circle-sharp.svg](icons/svg/chevron-back-circle-sharp.svg)
 
-![duplicate-sharp.svg](icons/svg/duplicate-sharp.svg)
+<img src="./icons/svg/chevron-back-circle-sharp.svg" width="10" height="10">
 
-![duplicate-outline.svg](icons/svg/duplicate-outline.svg)
+<img src="./icons/svg/duplicate-sharp.svg" width="10" height="10">
 
-![layers-outline.svg](icons/svg/layers-outline.svg)
+<img src="./icons/svg/duplicate-outline.svg" width="10" height="10">
 
+<img src="./icons/svg/layers-outline.svg" width="10" height="10">
+
+
+<img src="./icons/svg/bookmark-outline.svg" width="20" height="20">
+
+<img src="./icons/svg/search-sharp.svg" width="20" height="20">
+
+<img src="./icons/svg/server-outline.svg" width="20" height="20">
+
+<img src="./icons/svg/logo-twitter.svg" width="20" height="20">
+
+<img src="./icons/svg/logo-twitter.svg" href="twitter.com" width="20" height="20">
 
 
 ```
