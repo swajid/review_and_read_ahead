@@ -162,6 +162,7 @@ LATER
   * [[example 41: maximum likelihood estimation from scratch]](https://alemorales.info/post/mle-nonlinear/)
   * [[example 42: how to build a neural net in 3 lines of math]](https://www.freecodecamp.org/news/how-to-build-a-neural-net-in-three-lines-of-math-a0c42f45c40e/)
   * [[example 43: illustrated: difference between prediction and inference in logistic regression + tweets]](https://twitter.com/willkurt/status/1168880597877645312?s=21)
+  * [[example 44: if correlation does not imply causation, then what does?](https://medium.com/gradiant-talks/if-correlation-does-not-imply-causation-then-what-does-8fa462943b84)
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
@@ -217,7 +218,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
  
-* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak) [_23_](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film)) [_24_](https://www.youtube.com/watch?v=7jekYAm3fkA) [_25_](https://variety.com/2019/digital/news/food-network-kitchen-streaming-discovery-1203348667/) [_26_](https://www.youtube.com/watch?v=thiXTX7Fm9w) 
+* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak) [_23_](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film)) [_24_](https://www.youtube.com/watch?v=7jekYAm3fkA) [_25_](https://variety.com/2019/digital/news/food-network-kitchen-streaming-discovery-1203348667/) [_26_](https://www.youtube.com/watch?v=thiXTX7Fm9w) [_27_](https://hbr.org/2015/06/beware-spurious-correlations)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -325,7 +326,7 @@ LATER
 * [Sorting & Indexing](https://books.google.com/books?id=T13SBQAAQBAJ&pg=PA11&dq=Encapsulation+knuth&hl=en&sa=X&ved=0ahUKEwiohujrqO7gAhUGON8KHYXvCHMQ6AEIKDAA#v=onepage&q=sorting&f=false)
 
 ### Databases
-* [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/)
+* <img src="./icons/svg/server-outline.svg" width="10" height="10"> [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/)
 * ["Want to learn SQL? Here's what your colleagues recommend."](https://twitter.com/_brohrer_/status/1144564111868665856)
 * [JSON - Computerphile](https://www.youtube.com/watch?v=A0hoqSkyY7o)
 * [R package for visualising data transformation using animations](https://github.com/chrk623/dataAnim)
@@ -561,7 +562,7 @@ Papers/Posters
 * https://adv-r.hadley.nz/expressions.html (from 4/19/18)
 * https://adv-r.hadley.nz/evaluation.html (from 4/19/18)
 * [Import a Directory of CSV Files at Once](https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/)
-* [Mastering Apache Spark with R (2019)](https://therinspark.com/) -> [table of contents / browser error](https://therinspark.com/intro.html)
+* <img src="./icons/svg/server-outline.svg" width="20" height="20"> [Mastering Apache Spark with R (2019)](https://therinspark.com/) -> [table of contents / browser error](https://therinspark.com/intro.html)
 * [Using the `recipes` package for easy pre-processing](http://www.rebeccabarter.com/blog/2019-06-06_pre_processing/)
 * [Future: Simple Parallel and Distributed Processing in R](https://twitter.com/henrikbengtsson/status/1149733013611302913?s=21)
 * [Many similar models - Part 1: How to make a function for model fitting](https://aosmith.rbind.io/2019/06/24/function-for-model-fitting/) [Part 2: Automate model fitting with purrr::map() loops](https://aosmith.rbind.io/2019/07/22/automate-model-fitting-with-loops/)
