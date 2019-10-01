@@ -1,5 +1,17 @@
 # swajid_intro
 
+(10/1,10/6)
+- [ ] Add papers/stars/favs from twitter
+- [ ] Make list of common/useful icons
+- [ ] Review everything -> add * icons (figure out the correct height), use py lib to resize and recolor all icons
+
+(~,10/15)
+- [ ] Add folder of new py data structures
+
+(10/1,11/1)
+- [ ] Other newer biostats projects
+
+
 `test SVG`
 
 <img src="./icons/svg/chevron-back-circle-sharp.svg" width="10" height="10">
@@ -327,9 +339,9 @@ LATER
 
 ### Databases
 * <img src="./icons/svg/server-outline.svg" width="10" height="10"> [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/)
-* ["Want to learn SQL? Here's what your colleagues recommend."](https://twitter.com/_brohrer_/status/1144564111868665856)
-* [JSON - Computerphile](https://www.youtube.com/watch?v=A0hoqSkyY7o)
-* [R package for visualising data transformation using animations](https://github.com/chrk623/dataAnim)
+* <img src="./icons/svg/server-outline.svg" width="15" height="15"> ["Want to learn SQL? Here's what your colleagues recommend."](https://twitter.com/_brohrer_/status/1144564111868665856)
+* <img src="./icons/svg/server-outline.svg" width="20" height="20"> [JSON - Computerphile](https://www.youtube.com/watch?v=A0hoqSkyY7o)
+* <img src="./icons/svg/server-outline.svg" width="25" height="25"> [R package for visualising data transformation using animations](https://github.com/chrk623/dataAnim)
 
 ### C/C++
 ### Java
