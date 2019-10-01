@@ -145,13 +145,13 @@ LATER
   * [[example 14: better DL models]](https://twitter.com/moorejh/status/1118866033136361472)
   * [[example 15: functional programming for the rest of us]](http://www.defmacro.org/2006/06/19/fp.html)]
   * [[example 16: pointers and memory]](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
-  * [[example 17: introduction to neural networks]](https://victorzhou.com/blog/intro-to-neural-networks/)
+  * <img src="./icons/svg/layers-outline.svg" width="11" height="11"> [[example 17: introduction to neural networks]](https://victorzhou.com/blog/intro-to-neural-networks/)
   * [[example 18: bedtools (ascii) notes]](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
-  * [[example 19: review of PCA]](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+  * <img src="./icons/svg/layers-outline.svg" width="12" height="12"> [[example 19: review of PCA]](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
   * [[example 20a: a visual and interactive guide to the basics of neural networks]](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
-  * [[example 20b: a visual and interactive look at basic neural network math]](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
+  * <img src="./icons/svg/layers-outline.svg" width="13" height="13"> [[example 20b: a visual and interactive look at basic neural network math]](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
   * [[example 21: tutorial on bayesian optimization in R]](https://bearloga.github.io/bayesopt-tutorial-r/)
-  * [[example 22a: tutorial on T-SNE]](http://blog.thegrandlocus.com/2018/08/a-tutorial-on-t-sne-1)
+  * <img src="./icons/svg/layers-outline.svg" width="14" height="14"> [[example 22a: tutorial on T-SNE]](http://blog.thegrandlocus.com/2018/08/a-tutorial-on-t-sne-1)
   * [[example 22b: t-SNE explained in plain javascript]](https://observablehq.com/@nstrayer/t-sne-explained-in-plain-javascript)
   * [[example 23: R companion to linear algebra step by step]](https://detroitdatalab.com/2019/05/25/r-companion-to-linear-algebra-step-by-step-part-1/)
   * [[example 24: verifying the assumptions of linear regression in Python and R]](https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0)
@@ -161,16 +161,16 @@ LATER
   * [[example 28: unraveling the jpeg]](https://parametric.press/issue-01/unraveling-the-jpeg/)
   * [[example 29: the beginner's guide to dimensionality reduction]](https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/)
   * [[example 30: statistical power analysis]](https://idyll.pub/post/statistical-power-d9ff5d116b4c883d22a7888f/)
-  * [[example 31: S4, a short guide]](https://stuartlee.org/post/content/post/2019-07-09-s4-a-short-guide-for-perplexed/)
+  * <img src="./icons/svg/layers-outline.svg" width="10" height="10"> [[example 31: S4, a short guide]](https://stuartlee.org/post/content/post/2019-07-09-s4-a-short-guide-for-perplexed/)
   * [[example 32: illustrated word2vec]](http://jalammar.github.io/illustrated-word2vec/)
   * [[example 33: illustrated transformer]](http://jalammar.github.io/illustrated-transformer/)
   * [[example 34: unsupervised learning (UML) in R]](https://lgatto.github.io/IntroMachineLearningWithR/unsupervised-learning.html)
   * [[example 35: useR!2019 code bits/short use cases]](https://sinarueeger.github.io/post/amuse-bouches-from-user-2019/)
   * [[example 36: developing an R package from scratch with Travis CI]](https://datentrang.netlify.com/2019/07/21/deeveloping-an-r-package-from-scratch-with-travis-continuous-integration/)
-  * [[example 37: what's HTTP?]](https://twitter.com/b0rk/status/1155318552129396736?s=21)
+  * <img src="./icons/svg/layers-outline.svg" width="15" height="15"> [[example 37: what's HTTP?]](https://twitter.com/b0rk/status/1155318552129396736?s=21)
   * [[example 38: composite design pattern in python]](https://books.google.com/books?id=poNcDgAAQBAJ&lpg=PA353&dq=Composite%20Pattern%20python&pg=PA353#v=onepage&q=Composite%20Pattern%20python&f=false)
   * [[example 39: 101 bash commands and tips for beginners to experts]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
-  * [[example 40: where do p-values come from? fundamental concepts and simulation approach]](https://alemorales.info/post/introduction-sampling-distribution/)
+  * <img src="./icons/svg/layers-outline.svg" width="20" height="20"> [[example 40: where do p-values come from? fundamental concepts and simulation approach]](https://alemorales.info/post/introduction-sampling-distribution/)
   * [[example 41: maximum likelihood estimation from scratch]](https://alemorales.info/post/mle-nonlinear/)
   * [[example 42: how to build a neural net in 3 lines of math]](https://www.freecodecamp.org/news/how-to-build-a-neural-net-in-three-lines-of-math-a0c42f45c40e/)
   * [[example 43: illustrated: difference between prediction and inference in logistic regression + tweets]](https://twitter.com/willkurt/status/1168880597877645312?s=21)
@@ -338,10 +338,11 @@ LATER
 * [Sorting & Indexing](https://books.google.com/books?id=T13SBQAAQBAJ&pg=PA11&dq=Encapsulation+knuth&hl=en&sa=X&ved=0ahUKEwiohujrqO7gAhUGON8KHYXvCHMQ6AEIKDAA#v=onepage&q=sorting&f=false)
 
 ### Databases
-* <img src="./icons/svg/server-outline.svg" width="10" height="10"> [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/)
-* <img src="./icons/svg/server-outline.svg" width="15" height="15"> ["Want to learn SQL? Here's what your colleagues recommend."](https://twitter.com/_brohrer_/status/1144564111868665856)
-* <img src="./icons/svg/server-outline.svg" width="20" height="20"> [JSON - Computerphile](https://www.youtube.com/watch?v=A0hoqSkyY7o)
-* <img src="./icons/svg/server-outline.svg" width="25" height="25"> [R package for visualising data transformation using animations](https://github.com/chrk623/dataAnim)
+`testttt`
+* <img src="./icons/svg/server-outline.svg" width="10" height="10"> <img src="./icons/svg/server-outline.svg" width="10" height="10"> [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/)
+* <img src="./icons/svg/server-outline.svg" width="15" height="15"> <img src="./icons/svg/server-outline.svg" width="15" height="15">["Want to learn SQL? Here's what your colleagues recommend."](https://twitter.com/_brohrer_/status/1144564111868665856)
+* <img src="./icons/svg/server-outline.svg" width="20" height="20"> <img src="./icons/svg/server-outline.svg" width="20" height="20">[JSON - Computerphile](https://www.youtube.com/watch?v=A0hoqSkyY7o)
+* <img src="./icons/svg/server-outline.svg" width="25" height="25"> <img src="./icons/svg/server-outline.svg" width="25" height="25">[R package for visualising data transformation using animations](https://github.com/chrk623/dataAnim)
 
 ### C/C++
 ### Java
