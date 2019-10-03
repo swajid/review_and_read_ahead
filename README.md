@@ -2,7 +2,7 @@
 
 (10/1,10/6)
 - [ ] Add papers/stars/favs from twitter
-- [ ] Make list of common/useful icons
+- [ ] Make list of common/useful icons: (databases, oss, writing, bio, cs, etc (draw this out on paper)
 - [ ] Review everything -> add * icons (figure out the correct height), use py lib to resize and recolor all icons
 
 (~,10/15)
@@ -10,28 +10,6 @@
 
 (10/1,11/1)
 - [ ] Other newer biostats projects
-
-
-`test SVG`
-
-<img src="./icons/svg/chevron-back-circle-sharp.svg" width="10" height="10">
-
-<img src="./icons/svg/duplicate-sharp.svg" width="10" height="10">
-
-<img src="./icons/svg/duplicate-outline.svg" width="10" height="10">
-
-<img src="./icons/svg/layers-outline.svg" width="10" height="10">
-
-
-<img src="./icons/svg/bookmark-outline.svg" width="20" height="20">
-
-<img src="./icons/svg/search-sharp.svg" width="20" height="20">
-
-<img src="./icons/svg/server-outline.svg" width="20" height="20">
-
-<img src="./icons/svg/logo-twitter.svg" width="20" height="20">
-
-<img src="./icons/svg/logo-twitter.svg" href="twitter.com" width="20" height="20">
 
 
 ```
@@ -118,6 +96,7 @@ LATER
 * [Asking questions](http://www.incidentalcomics.com/2015/08/asking-questions.html) - [something](https://twitter.com/jbeda/status/1087869217322332160?s=21)
 * [[Repetition / "iterative refinement"]](https://twitter.com/fchollet/status/1176468552796164096?s=20)
 * Rewriting
+* ["In an effort to read more papers this year, I’m going to read a paper (or something paper-like) each day for the remainder of the year, and post each paper below as I go."](https://twitter.com/imsanaw/status/1179510917102493696)
 * [[Memory Palace]]()
 * ["How do they write the right stuff? The answer is, `it’s the process`. The group’s most important creation is not the perfect software they write — it’s the process they invented that writes the perfect software." (12.31.96)](https://www.fastcompany.com/28121/they-write-right-stuff)
 * [Practice](https://twitter.com/sarah_edo/status/1007422841766100992?s=21) >>> Memorizing
@@ -223,19 +202,18 @@ LATER
 * download long youtube videos to remove ads/surveys -> VLC to change speed/add bookmarks: [keepvid](https://keepvid.pro/) [pytube](https://github.com/nficano/pytube)
 * "I don't do anything different, I just read my notes right before I fall asleep and when I wake up, it's just easier to recall the next day (I don't know why)" - (my friend's) strategy from organic chemistry
 * `Your future is here." -FW`
-* "It's time you'll never ever get back"
+* ["It's time you'll never ever get back"](https://twitter.com/maggiesmithpoet/status/1179374478977064960)
 * [How To Take Notes on Everything](https://dev.to/maxwell_dev/how-to-take-notes-on-everything-32fc)
 * // [How to deal with being overwhelmed](https://www.huffpost.com/entry/10-ways-to-cope-with-stress-and-overwhelm_b_6033802)
  * [Ways for introverts to get their energy back](https://www.popsugar.com/smart-living/Ways-Introverts-Recharge-39990746)
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
- 
-* [ 0_](https://www.youtube.com/watch?v=qUxMdYhipvQ) [ 1_](https://twitter.com/channel4news/status/1008419311160000513?s=21) [ 2_](https://twitter.com/nytimes/status/1122649968936927239?s=21) [ 3_](https://longreads.com/2019/04/26/we-all-work-for-facebook/) [ 4_](https://www.youtube.com/watch?v=bEgLdDiYINE) [ 5_](https://www.youtube.com/user/ryoya1983/videos) [_6a_](https://twitter.com/notstevenwhite/status/1151621030022123520?s=21) [ 6b_](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#50cb9ae462f1) [ 7_](https://www.youtube.com/watch?v=nuI_OQKjXpc) [ 8_](https://www.youtube.com/watch?v=Ag8JpA02WjY) [_9_](https://www.youtube.com/watch?v=WOINWPDqz1w) [ 10_](https://www.youtube.com/watch?v=z6ZF6HJyTLw) [_11_](https://www.youtube.com/watch?v=ih0yJARDWtM) [_12_](https://youtu.be/7Xr9BYhlceA) [_13_](https://www.youtube.com/watch?v=kj8pQ7oLw9w) [_14_](https://www.youtube.com/watch?v=yh2OlQUcctI) [_15_](https://www.youtube.com/watch?v=u2YOdtMUbwg) [_16_](https://www.youtube.com/watch?v=9W5cvEqKXzc) [_17_](https://www.youtube.com/watch?v=cFl7bto5Ax4) [_18_](https://www.youtube.com/watch?v=HpfrSzRgWhs) [_19_](https://www.youtube.com/watch?v=DngeAcpK6LI) [_20_](https://www.youtube.com/watch?v=JJX_0uCwyDM) [_21_](https://twitter.com/mashable/status/1172204979211382785) [_22_](https://www.youtube.com/watch?v=81nBrZdJ6ak) [_23_](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film)) [_24_](https://www.youtube.com/watch?v=7jekYAm3fkA) [_25_](https://variety.com/2019/digital/news/food-network-kitchen-streaming-discovery-1203348667/) [_26_](https://www.youtube.com/watch?v=thiXTX7Fm9w) [_27_](https://hbr.org/2015/06/beware-spurious-correlations)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
 * [burnout](https://www.youtube.com/watch?v=Mt-YuVhsvpY) -> [does go away](https://twitter.com/jessfraz/status/1109141258201526272?s=21)
 * Overconfidence
+* Being incorrect: [["I got hacked ... by me!"]](https://twitter.com/asvpxrocky/status/1135615119059169282)
 * Not writing
 * Bad [timing](https://vclock.com/timer/)
 * Not walking around
@@ -244,6 +222,7 @@ LATER
 * ["unstick" yourself and try building something on your own"](https://twitter.com/jsjoeio/status/1113988454449213440)
 * ["You are not the work you do; you are the person you are." - Toni Morrison](https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are)
 * [HBR: How to Be Resilient in the Face of Harsh Criticism](https://hbr.org/2019/06/how-to-be-resilient-in-the-face-of-harsh-criticism)
+* [“One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time.”](https://twitter.com/nardine_g/status/1178416559313821697)
 
 # :hourglass_flowing_sand: Review
 ## Bioinformatics
@@ -343,6 +322,8 @@ LATER
 * <img src="./icons/svg/server-outline.svg" width="15" height="15"> <img src="./icons/svg/server-outline.svg" width="15" height="15">["Want to learn SQL? Here's what your colleagues recommend."](https://twitter.com/_brohrer_/status/1144564111868665856)
 * <img src="./icons/svg/server-outline.svg" width="20" height="20"> <img src="./icons/svg/server-outline.svg" width="20" height="20">[JSON - Computerphile](https://www.youtube.com/watch?v=A0hoqSkyY7o)
 * <img src="./icons/svg/server-outline.svg" width="25" height="25"> <img src="./icons/svg/server-outline.svg" width="25" height="25">[R package for visualising data transformation using animations](https://github.com/chrk623/dataAnim)
+* [A complete guide to PostgreSQL](https://medium.com/@heyPrabhu/a-complete-guide-to-postgresql-e4d1cefb9866)
+
 
 ### C/C++
 ### Java
@@ -933,6 +914,11 @@ w/o deadlines
 * [`#singlecell`](https://twitter.com/search?q=%23singlecell&src=typd)
 * [`#bookdown`](https://twitter.com/search?q=%23bookdown&src=typd)
 * [`#pandastricks`](https://twitter.com/search?q=%23pandastricks&src=typd)
+* #paperADay
+* #100daysOfCode
+* #100DaysOfMLCode
+* __#selfTaught__
+
 
 # Papers
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
