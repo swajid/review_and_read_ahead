@@ -1,7 +1,8 @@
 # swajid_intro
 
 (10/1,10/6)
-- [ ] Add papers/stars/favs from twitter
+- [ ] Add papers/stars/favs from twitter: 
+ - [ ] [[Add this]](https://twitter.com/imsanaw/status/1179510917102493696) but with icons and maybe a short summary
 - [ ] Make list of common/useful icons: (databases, oss, writing, bio, cs, etc (draw this out on paper)
 - [ ] Review everything -> add * icons (figure out the correct height), use py lib to resize and recolor all icons
 
@@ -11,6 +12,15 @@
 (10/1,11/1)
 - [ ] Other newer biostats projects
 
+
+~ Icon Rules:
+
+* Link type - black & white, filled: <img src="./icons/svg/cloud-download.svg" width="15" height="15"> <img src="./icons/svg/logo-twitter.svg" width="15" height="15">
+* Link content: cs/db/bio etc : outline <img src="./icons/svg/server-outline.svg" width="15" height="15">
+* Section or Link difficulty/amount I've read through - color (maybe green, yellow, red)
+* Icon size - something
+
+Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/gmailr)
 
 ```
 * C is the best programming language
@@ -209,6 +219,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
 
+
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
 * [burnout](https://www.youtube.com/watch?v=Mt-YuVhsvpY) -> [does go away](https://twitter.com/jessfraz/status/1109141258201526272?s=21)
@@ -249,6 +260,7 @@ LATER
 * [BioPython](https://biopython.org/)
 * etc
 
+
 ### Unix
 * [Regex Puzzles](https://twitter.com/jakevdp/status/1170525508670390272?s=20)
 * [Question: What Are The Bioinformatics-Related Aliases Or Functions In Your Bashrc](https://www.biostars.org/p/45456/)
@@ -257,14 +269,15 @@ LATER
 * [History of GREP](https://www.youtube.com/watch?v=NTfOnGZUZDk)
 * [SCP](https://www.youtube.com/watch?v=ORcvSkgdA58)
 * [Container Hacks](https://www.youtube.com/watch?v=cYsVvV1aVss)
-* [Unix haters handbook](https://web.mit.edu/~simsong/www/ugh.pdf) `#pdf`
+* [<img src="./icons/svg/cloud-download.svg" width="15" height="15"> Unix haters handbook](https://web.mit.edu/~simsong/www/ugh.pdf) `#pdf`
 * [Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
-* [`: in bash is a null operator so if you are stringing together a really long one liner you can comment it like so`](https://twitter.com/jessfraz/status/1154229100271112192?s=21)
+* [<img src="./icons/svg/logo-twitter.svg" width="15" height="15"> `: in bash is a null operator so if you are stringing together a really long one liner you can comment it like so`](https://twitter.com/jessfraz/status/1154229100271112192?s=21)
 * [How to set up a fresh Ubuntu desktop using only dotfiles and bash scripts](https://dev.to/victoria/how-to-set-up-a-fresh-ubuntu-desktop-using-only-dotfiles-and-bash-scripts-31m6)
+* [<img src="./icons/svg/logo-twitter.svg" width="15" height="15">`!$ is still my favorite shortcut in bash, use the last word of the previous line`](https://twitter.com/PhilippBayer/status/1179666678872805383)
 
 ### Linux
 * [The Linux Kernel](https://en.wikibooks.org/wiki/The_Linux_Kernel)
-* [Linux Debugging Tools](https://jvns.ca/debugging-zine.pdf) `#pdf`
+* [<img src="./icons/svg/cloud-download.svg" width="15" height="15"> Linux Debugging Tools](https://jvns.ca/debugging-zine.pdf) `#pdf`
 * [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 
 ### Quick Reference / Short Notes
