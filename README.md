@@ -1,17 +1,20 @@
 # swajid_intro
 
-(10/1,10/6)
+(10/1,10/6) + 1 week
 - [ ] Add papers/stars/favs from twitter: 
  - [ ] [[Add this]](https://twitter.com/imsanaw/status/1179510917102493696) but with icons and maybe a short summary
 - [ ] Make list of common/useful icons: (databases, oss, writing, bio, cs, etc (draw this out on paper)
 - [ ] Review everything -> add * icons (figure out the correct height), use py lib to resize and recolor all icons
 
-(~,10/15)
+(~,10/15) + 1 week
 - [ ] Add folder of new py data structures
 
 (10/1,11/1)
 - [ ] Other newer biostats projects
 
+
+(11/)
+- [ ] [kaggle etc](https://twitter.com/kearneymw/status/1179624013305221120?s=21)
 
 ~ Icon Rules:
 
@@ -53,6 +56,10 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 * Ice cream that's made out of avocados is just a frozen salad (lol)
 
 * You're on the right path, just keep applying and moving forward
+
+* Sana, I am a way more sensitive person than you
+
+* I now pronounce you 4 minutes older
 
 - my dad
 ```
@@ -347,7 +354,7 @@ LATER
 - [ ] [201](https://leanpub.com/python201)
 * [migrating to 3.7 & data classes](https://github.com/arogozhnikov/python3_with_pleasure#data-classes)
 
-### R
+### [R](https://twitter.com/imsanaw/status/1179876354973667328?s=21)
 * [Handling Strings with R](https://www.gastonsanchez.com/r4strings/)
   * [> Data Cleaning](https://www.gastonsanchez.com/r4strings/cleaning.html)
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
@@ -645,6 +652,8 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [`fuzzyjoin` Join data frames on inexact matching](https://github.com/dgrtwo/fuzzyjoin)
 * :bar_chart: [`ggpointdensity` "provides a #ggplot2 geom that is a cross between a 2D density plot and a scatter plot: `geom_pointdensity()`. Useful to deal with overplotting without hiding outlier points."](https://twitter.com/lpmkremer/status/1168912680767447040?s=21)
 * [`santoku` - R package for cutting data](https://twitter.com/dataandme/status/1174143258265640960)
+* [:bar_chart: `trelliscopeJS` easier multiplots](https://twitter.com/rbloggers/status/1180452786619736064?s=21)
+
 
 Projecting ggplot2 from 2D to 3D
 [[`rayshader`]](https://www.rayshader.com/reference/plot_gg.html) ggplot2 -> 3D [`#rayshader`](https://twitter.com/search?q=%23rayshader) [[rayshader arguments]](https://www.rayshader.com/reference/plot_gg.html#arguments)
