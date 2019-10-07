@@ -700,7 +700,8 @@ Security / Data Encryption
 * [Software PMs](https://github.com/danluu/post-mortems)
 * [FaceApp](https://www.theatlantic.com/technology/archive/2019/07/faceapp-mess/594361/)
 
-
+Data Workflow Systems
+* [2018 - Improving data workflow systems with cloud services and use of open data for bioinformatics research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169675/)
 
 Distributed data access/upload
 * [Academic Torrents](https://www.kdnuggets.com/2016/10/academic-torrents-data-sharing.html)
