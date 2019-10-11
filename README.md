@@ -1,12 +1,12 @@
 # swajid_intro
 
-(10/1,10/6) + 1 week
+(10/1,10/6) + 1 month
 - [ ] Add papers/stars/favs from twitter: 
  - [ ] [[Add this]](https://twitter.com/imsanaw/status/1179510917102493696) but with icons and maybe a short summary
 - [ ] Make list of common/useful icons: (databases, oss, writing, bio, cs, etc (draw this out on paper)
 - [ ] Review everything -> add * icons (figure out the correct height), use py lib to resize and recolor all icons
 
-(~,10/15) + 1 week
+(~,10/15) + 1 month
 - [ ] Add folder of new py data structures
 
 (10/1,11/1)
@@ -14,7 +14,7 @@
 
 
 (11/)
-- [ ] [kaggle etc](https://twitter.com/kearneymw/status/1179624013305221120?s=21)
+- [ ] [kaggle etc + R](https://twitter.com/kearneymw/status/1179624013305221120?s=21)
 
 ~ Icon Rules:
 
@@ -507,6 +507,7 @@ Web APIs
 * [`marge` An API for Analysis of Motifs Using HOMER in R](https://www.biorxiv.org/content/10.1101/249268v1)
 * [`Sling` is a Go HTTP client library for creating and sending API requests.](https://github.com/dghubble/sling)
 * [A tour of probabilistic programming language APIs - What does it look like to do MCMC in different frameworks?](https://colcarroll.github.io/ppl-api/)
+* [AWS Lambda » Developer Guide » API Reference](https://docs.aws.amazon.com/lambda/latest/dg/API_Reference.html)
 
 Shiny
 * [Data Visualization with R Shiny](https://rpubs.com/acolumbus/oscon18_rshinytutorial)
@@ -853,7 +854,7 @@ Novel/emerging dataviz (that is also open source)
 
 Interactive Data Story / Good use of scrolling UI
 * [opportunity rover, map](https://www.nytimes.com/interactive/2019/02/13/science/opportunity-rover-mars-map.html?mtrref=t.co)
-* [coldplay](https://www.youtube.com/watch?v=KnLNG0WnGsI)
+* [coldplay](https://www.youtube.com/watch?v=KnLNG0WnGsI) (personal note to self: great use of science illustration and etc.) 
 * :globe_with_meridians: [nyt flood map](https://twitter.com/BlackiLi/status/1172272504376836098)
 
 Color/UI
