@@ -225,7 +225,7 @@ LATER
  * [Ways for introverts to get their energy back](https://www.popsugar.com/smart-living/Ways-Introverts-Recharge-39990746)
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
-
+* ["Keep your eye on the prize" - Dad"](https://twitter.com/kdpsinghlab/status/1183228785702903809)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -424,6 +424,7 @@ April 2nd -->
 * [Venn Diagrams](https://www.kdnuggets.com/2016/10/battle-data-science-venn-diagrams.html)
 * [A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf) `#pdf` `#google`
 * [Mining Twitter with R](https://www.tidytextmining.com/twitter.html) `#crowdsource`
+* [Comparison of deep-learning frameworks](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
 
 ## Project Structure
 ### Reproducibility
