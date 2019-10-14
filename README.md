@@ -1,5 +1,8 @@
 # swajid_intro
 
+- [ ] Calendar
+- [ ] [What's the easiest solution to create software architecture diagrams?](https://www.quora.com/Whats-the-easiest-solution-to-create-software-architecture-diagrams)
+
 (10/1,10/6) + 1 month
 - [ ] Add papers/stars/favs from twitter: 
  - [ ] [[Add this]](https://twitter.com/imsanaw/status/1179510917102493696) but with icons and maybe a short summary
@@ -226,6 +229,7 @@ LATER
  * [Count backwards & do 1 thing](https://youtu.be/4x7MkLDGnu8?t=174)
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
 * ["Keep your eye on the prize" - Dad"](https://twitter.com/kdpsinghlab/status/1183228785702903809)
+* [How to Not Get Distracted](https://www.lifehack.org/articles/productivity/10-critical-tips-prevent-distraction-and-sharpen-your-focus.html)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -425,6 +429,8 @@ April 2nd -->
 * [A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf) `#pdf` `#google`
 * [Mining Twitter with R](https://www.tidytextmining.com/twitter.html) `#crowdsource`
 * [Comparison of deep-learning frameworks](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
+* "The best first step is understanding the data characteristics in depth" - notes, 10/14/19
+
 
 ## Project Structure
 ### Reproducibility
