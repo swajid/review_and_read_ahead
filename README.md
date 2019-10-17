@@ -631,6 +631,9 @@ Text (mining) in R
 * [`RVerbalExpressions` - building regex in R using `%>%`](https://twitter.com/strnr/status/1173736067532558342)
 * [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/)
 
+Units of measurement
+* [`units`: Measurement Units for R Vectors](https://cran.r-project.org/web/packages/units/vignettes/measurement_units_in_R.html)
+* [`pint`: makes units easy](https://pint.readthedocs.io/en/0.9/) `#py`
 
 Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [`ggreverse` reverse a ggplot object back into code](https://github.com/coolbutuseless/ggreverse)
@@ -662,6 +665,7 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [`santoku` - R package for cutting data](https://twitter.com/dataandme/status/1174143258265640960)
 * [:bar_chart: `trelliscopeJS` easier multiplots](https://twitter.com/rbloggers/status/1180452786619736064?s=21)
 
+:globe_with_meridians: Geo stuff
 
 Projecting ggplot2 from 2D to 3D
 [[`rayshader`]](https://www.rayshader.com/reference/plot_gg.html) ggplot2 -> 3D [`#rayshader`](https://twitter.com/search?q=%23rayshader) [[rayshader arguments]](https://www.rayshader.com/reference/plot_gg.html#arguments)
@@ -669,7 +673,8 @@ Projecting ggplot2 from 2D to 3D
   * [example + animation ](https://twitter.com/wearerladies/status/1144189570730397697?s=21)
   * [3d print](https://twitter.com/Branson_Fox/status/1145447942989463557?s=20)
   * [3d map + density](https://twitter.com/tylermorganwall/status/1176838581723238401?s=20) [[code gist: `ggheight = plot_gg(list(js,js2), multicore = TRUE, raytrace=TRUE,`]](https://gist.github.com/tylermorganwall/2f3ca112b9cd13972e02e1062670b735) 
-
+* [`ggmap`: Spatial Visualization with ggplot2](https://vita.had.co.nz/papers/ggmap.html)
+* :green_book: [Geocomputation with R](https://geocompr.robinlovelace.net/)
 
 Auto_*
 * [AutoEDA - Explore the landscape of R packages for automated data exploration](https://www.r-bloggers.com/explore-the-landscape-of-r-packages-for-automated-data-exploration/)
@@ -677,6 +682,7 @@ Auto_*
 * [`automl`](https://aboulaboul.github.io/automl/articles/automl.html)
 * [Tea: A High-level Language and Runtime System for Automating Statistical Analysis](https://arxiv.org/abs/1904.05387) [[+ discussion]](https://twitter.com/johnmyleswhite/status/1116675810583306241)
 * [How to easily automate R analysis, modeling and development work using CI/CD, with working examples](https://jozefhajnala.gitlab.io/r/r106-r-package-gitlab-ci/)
+* [Tensorflow: Classify structured data with feature columns](https://www.tensorflow.org/tutorials/structured_data/feature_columns) `#automate -> save time`
 
 Computational Methods on very large datasets
 * [2019 - Unsupervised OMICs Integration: Projecting data onto common axes of variation across OMICs](https://twitter.com/NikolayOskolkov/status/1167197480804503554?s=20)
@@ -701,6 +707,8 @@ Types of studies in biostatistics
 * Meta-analysis
 * GWAS
 
+AWS
+* [Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
 Security / Data Encryption
 * [Between Openness and Privacy in Genomics](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001937)
@@ -879,7 +887,7 @@ Dashboards
 * [Dash, the fastest growing framework for building analytic web applications on top of Python models, is now available for the R programming language](https://moderndata.plot.ly/dash-has-gone-full-r/)
 * [phyloseq: Analyze microbiome census data using R + Shiny](http://joey711.github.io/phyloseq/)
 * [Introducing Dash Bio for R](https://www.r-bloggers.com/introducing-dash-bio-for-r/) `#plotly`
-
+* [Streamlit is the first app framework specifically for Machine Learning and Data Science teams](https://streamlit.io/) `#oss`
 
 API/documentation
 * [evol: A Python grammar for evolutionary algorithms and heuristics](https://evol.readthedocs.io/en/latest/quickstart.html)
