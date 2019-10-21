@@ -174,7 +174,7 @@ LATER
   * [[example 42: how to build a neural net in 3 lines of math]](https://www.freecodecamp.org/news/how-to-build-a-neural-net-in-three-lines-of-math-a0c42f45c40e/)
   * [[example 43: illustrated: difference between prediction and inference in logistic regression + tweets]](https://twitter.com/willkurt/status/1168880597877645312?s=21)
   * [[example 44: if correlation does not imply causation, then what does?](https://medium.com/gradiant-talks/if-correlation-does-not-imply-causation-then-what-does-8fa462943b84)
-
+  * [[example 45: `git` internals]](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/)
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
@@ -182,7 +182,7 @@ LATER
 * [be super realistic](https://seths.blog/2011/05/hard-work-vs-long-work/) <-> get early feedback + keep improving
 * Short [realistic](https://twitter.com/jenheemstra/status/1101092397403070464?s=21) goals -> results
 * "It's a marathon not a sprint" 
-  * [["Go where you will be challenged, intellectually and creatively."]](https://twitter.com/dynamicwebpaige/status/1050126083863924736?s=21) 
+  * [[["Go where you will be challenged, intellectually and creatively."]]](https://twitter.com/dynamicwebpaige/status/1050126083863924736?s=21) 
   * [[longterm 2]](https://twitter.com/cbirunda/status/1086370308016222208?s=21) [[The unreasonable effectiveness of public work]](https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work)
   * [[longterm 3]](https://twitter.com/fchollet/status/1086330334679945217?s=21) 
   * [[longterm 4]](https://twitter.com/moorejh/status/1088903661638615041?s=21) 
@@ -529,6 +529,7 @@ Drake / Workflow
 * [Managing Your Data Workflow](https://www.datascienceatthecommandline.com/chapter-6-managing-your-data-workflow.html#introducing-drake)
 * [__2019 - Workflow systems turn raw data into scientific knowledge__](https://www.nature.com/articles/d41586-019-02619-z)
 * [__Example/template repository for building drake R projects on GitLab CI using Docker__](https://gitlab.com/ecohealthalliance/drake-gitlab-docker-example) `#CI` `#docker` `#git` `#Rproj`
+* :green_book: [Agile Data Science with R](https://edwinth.github.io/ADSwR/index.html) 
  
 Unit Testing/Logging/CI/[[debugging]](https://twitter.com/fogus/status/1176911596498706433?s=20)
 * [logic behind testing: catch errors](https://twitter.com/djnavarro/status/1123409622486798336?s=21)
@@ -567,6 +568,7 @@ Pipelines / batch job submission
 * [luigi](https://github.com/spotify/luigi)
 * [bioshake](https://github.com/papenfusslab/bioshake)
 * [nf-core: Community curated bioinformatics pipelines](https://www.biorxiv.org/content/biorxiv/early/2019/04/16/610741.full.pdf)
+* [huey](https://github.com/coleifer/huey)
 * [`snakePipes` facilitating flexible, scalable and integrative epigenomic analysis](https://twitter.com/strnr/status/1150759428204957698?s=21)
 * [Multi Process Task Queue in 100 Lines of R Code](https://twitter.com/GaborCsardi/status/1171052506060918784)
 
@@ -683,6 +685,7 @@ Auto_*
 * [Tea: A High-level Language and Runtime System for Automating Statistical Analysis](https://arxiv.org/abs/1904.05387) [[+ discussion]](https://twitter.com/johnmyleswhite/status/1116675810583306241)
 * [How to easily automate R analysis, modeling and development work using CI/CD, with working examples](https://jozefhajnala.gitlab.io/r/r106-r-package-gitlab-ci/)
 * [Tensorflow: Classify structured data with feature columns](https://www.tensorflow.org/tutorials/structured_data/feature_columns) `#automate -> save time`
+* [tpot - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming](https://github.com/EpistasisLab/tpot) 
 
 Computational Methods on very large datasets
 * [2019 - Unsupervised OMICs Integration: Projecting data onto common axes of variation across OMICs](https://twitter.com/NikolayOskolkov/status/1167197480804503554?s=20)
