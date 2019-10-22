@@ -961,6 +961,7 @@ w/o deadlines
 * #100DaysOfMLCode
 * __#selfTaught__
 
+<!-- (https://www.youtube.com/watch?v=jxi17F3z0Xw) -->
 
 # Papers
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
