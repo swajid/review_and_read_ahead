@@ -19,6 +19,10 @@
 (11/)
 - [ ] [kaggle etc + R](https://twitter.com/kearneymw/status/1179624013305221120?s=21)
 
+
+<!-- (refs, update cv, more specific personal statement, uniting theme & get it proof-read by multiple advisers including AA, etc, finish by 11/30, discuss book, thesis idea(s), current proj(s), hit send) -->
+
+
 ~ Icon Rules:
 
 * Link type - black & white, filled: <img src="./icons/svg/cloud-download.svg" width="15" height="15"> <img src="./icons/svg/logo-twitter.svg" width="15" height="15">
