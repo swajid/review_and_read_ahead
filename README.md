@@ -1,5 +1,7 @@
 # swajid_intro
 
+@ myself!!! must update this page!!!!
+
 - [ ] Calendar
 - [ ] [What's the easiest solution to create software architecture diagrams?](https://www.quora.com/Whats-the-easiest-solution-to-create-software-architecture-diagrams)
 
@@ -566,6 +568,7 @@ Data Science in Python
 * [`openTSNE` a modular Python library for t-SNE dimensionality reduction and embedding](https://www.biorxiv.org/content/10.1101/731877v1)
 * [Combining the power of R and Python with `reticulate`](https://www.programmingwithr.com/combining-the-power-of-r-and-python-with-reticulate/)
 * [2019 - Advanced Data Reshaping in Python and R](http://www.win-vector.com/blog/2019/09/advanced-data-reshaping-in-python-and-r/)
+* [2017 - Forecasting at Scale](https://peerj.com/preprints/3190.pdf) `#pdf`
 
 Pipelines / batch job submission
 * [ngless](https://github.com/ngless-toolkit/ngless)
@@ -878,6 +881,7 @@ Interactive Data Story / Good use of scrolling UI
 * [opportunity rover, map](https://www.nytimes.com/interactive/2019/02/13/science/opportunity-rover-mars-map.html?mtrref=t.co)
 * [coldplay](https://www.youtube.com/watch?v=KnLNG0WnGsI) (personal note to self: great use of science illustration and etc.) 
 * :globe_with_meridians: [nyt flood map](https://twitter.com/BlackiLi/status/1172272504376836098)
+* [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 
 Color/UI
 * [Star Wars: Rogue One UI design](https://www.hudsandguis.com/home/2017/3/7/rogue-one-ui)
