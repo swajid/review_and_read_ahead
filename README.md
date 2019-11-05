@@ -547,6 +547,7 @@ Unit Testing/Logging/CI/[[debugging]](https://twitter.com/fogus/status/117691159
 * [`tidylog` provides simple wrapper functions for the most common functions, such as `filter`, `mutate`, `select`, `full_join`, and `group_by`](https://github.com/elbersb/tidylog)
 * [Logging for scientific computing: debugging, performance, trust](https://pythonspeed.com/articles/logging-for-scientific-computing/)
 * [R package development using Gitlab CI/CD](https://twitter.com/dataandme/status/1152526127229034498?s=21)
+* [Gerrit -> Rebase](https://www.gerritcodereview.com/intro-user.html#rebase-a-change)
 
 Jupyter Notebooks
 * [Embedding Youtube](https://gist.github.com/christopherlovell/e3e70880c0b0ad666e7b5fe311320a62)
@@ -563,6 +564,7 @@ Python
 * :tv: [Optimization lessons in Python](https://www.youtube.com/watch?v=vU4TlwZzTfU)
 * [`Pysheeet` was created with intention of collecting python code snippets](https://github.com/crazyguitar/pysheeet)
 * [`vprof` is a Python package providing rich and interactive visualizations for various Python program characteristics such as running time and memory usage. It supports Python 3.4+ and distributed under BSD license.](https://github.com/nvdv/vprof)
+* [google/yapf is a formatter for Python files](https://github.com/google/yapf)
 
 Data Science in Python
 * [`openTSNE` a modular Python library for t-SNE dimensionality reduction and embedding](https://www.biorxiv.org/content/10.1101/731877v1)
@@ -719,6 +721,7 @@ Types of studies in biostatistics
 
 AWS
 * [Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+* :tv: [Analyzing Data Streams in Real Time with Amazon Kinesis](https://www.youtube.com/watch?v=dNp1emFFGbU)
 
 Security / Data Encryption
 * [Between Openness and Privacy in Genomics](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001937)
