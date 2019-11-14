@@ -565,6 +565,7 @@ Python
 * [`Pysheeet` was created with intention of collecting python code snippets](https://github.com/crazyguitar/pysheeet)
 * [`vprof` is a Python package providing rich and interactive visualizations for various Python program characteristics such as running time and memory usage. It supports Python 3.4+ and distributed under BSD license.](https://github.com/nvdv/vprof)
 * [google/yapf is a formatter for Python files](https://github.com/google/yapf)
+* [my python dev environment 2020](https://twitter.com/newsycombinator/status/1194057781227278337)
 
 Data Science in Python
 * [`openTSNE` a modular Python library for t-SNE dimensionality reduction and embedding](https://www.biorxiv.org/content/10.1101/731877v1)
@@ -972,7 +973,7 @@ w/o deadlines
 * #100DaysOfMLCode
 * __#selfTaught__
 
-<!-- (https://www.youtube.com/watch?v=jxi17F3z0Xw) -->
+<!-- (> https://www.youtube.com/watch?v=jxi17F3z0Xw <) -->
 
 # Papers
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
