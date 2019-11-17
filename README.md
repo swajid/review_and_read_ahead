@@ -1,6 +1,9 @@
 # swajid_intro
 
 @ myself!!! must update this page!!!!
+* Each heading goes into a wiki/tl;dr page
+* Table of contents
+* List of papers related to topics I'm interested in on the other page
 
 - [ ] Calendar
 - [ ] [What's the easiest solution to create software architecture diagrams?](https://www.quora.com/Whats-the-easiest-solution-to-create-software-architecture-diagrams)
@@ -713,6 +716,8 @@ Very large data(sets,bases,projects)
 * :tv: [Your data fits in RAM: How to avoid cluster computing -> "File formats are key"](https://youtu.be/7h4BwpedPD0?t=1032)
 * [Workshop that covers how to use R to interact databases and Spark](https://github.com/rstudio/bigdataclass)
 * :tv: [`disk.frame` an R package for manipulating with larger-than-RAM data + tweets](https://twitter.com/evalparse/status/1168131624011087872?s=21)
+* [SO: How to read a 6 GB csv file with pandas](https://stackoverflow.com/questions/25962114/how-to-read-a-6-gb-csv-file-with-pandas)
+* [How to Load a Massive File as small chunks in Pandas?](https://cmdlinetips.com/2018/01/how-to-load-a-massive-file-as-small-chunks-in-pandas/)
 
 Types of studies in biostatistics
 * 2012 - [A brief discussion of statistics and experimental design](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321166/)
@@ -723,6 +728,10 @@ Types of studies in biostatistics
 AWS
 * [Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 * :tv: [Analyzing Data Streams in Real Time with Amazon Kinesis](https://www.youtube.com/watch?v=dNp1emFFGbU)
+* [How To Build Your First Serverless API with AWS Lambda and API Gateway](https://medium.com/better-programming/how-to-build-your-first-serverless-api-with-aws-lambda-and-api-gateway-c7149c2e8d23)
+
+[Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
+* [Lambda usecases](https://www.simform.com/serverless-examples-aws-lambda-use-cases/)
 
 Security / Data Encryption
 * [Between Openness and Privacy in Genomics](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001937)
