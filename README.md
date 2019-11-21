@@ -1014,6 +1014,8 @@ w/o deadlines
     9. Use open source tooling
     10. Ask for help (experts, stackoverflow)
 ```
+
+* 2019 - [The Role of Non-coding RNAs in Oncology](https://www.cell.com/cell/fulltext/S0092-8674(19)31167-5)
 * 2019 - [Single cell ATAC-seq in human pancreatic islets and deep learning upscaling of rare cells reveals cell-specific type 2 diabetes regulatory signatures](https://twitter.com/jdidion/status/1170660400209256448?s=20)
 * 2019 - [What Do We Talk About When We Talk About Dashboards?](https://ieeexplore.ieee.org/document/8443395)
 * 2019 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9) 
