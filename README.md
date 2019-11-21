@@ -584,6 +584,7 @@ Pipelines / batch job submission
 * [huey](https://github.com/coleifer/huey)
 * [`snakePipes` facilitating flexible, scalable and integrative epigenomic analysis](https://twitter.com/strnr/status/1150759428204957698?s=21)
 * [Multi Process Task Queue in 100 Lines of R Code](https://twitter.com/GaborCsardi/status/1171052506060918784)
+* [Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.](https://flyte.org/)
 
 Webcrawlers
 * [Open source web crawlers](https://en.wikipedia.org/wiki/Web_crawler#Open-source_crawlers)
@@ -732,6 +733,9 @@ AWS
 
 [Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
 * [Lambda usecases](https://www.simform.com/serverless-examples-aws-lambda-use-cases/)
+
+Real-time prediction/forecasting/machine learning
+* [Real-time poverty](https://youtu.be/oixPBvfdjws?t=1391)
 
 Security / Data Encryption
 * [Between Openness and Privacy in Genomics](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001937)
