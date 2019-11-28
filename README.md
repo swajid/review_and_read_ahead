@@ -880,6 +880,7 @@ SCS / single-cell (completely unfamiliar) [[Articles by Nikolay Oskolkov]](https
 Developing Workshops/Bioinformatics/Process Of/etc
 * [scRNAseq workshop](https://twitter.com/tangming2005/status/1154435815172390915?s=21)
   * _side note_ why twitter is useful: I'm not the only one who thinks the formats are a bit confusing 
+* [Aaron's single-cell thoughts](https://ltla.github.io/SingleCellThoughts/)
 
 Dataviz
 * [types of charts](https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a)
@@ -1019,6 +1020,7 @@ w/o deadlines
     10. Ask for help (experts, stackoverflow)
 ```
 
+* 2019 - [Single-Cell Multi-omics: An Engine for New Quantitative Models of Gene Regulation](https://www.ncbi.nlm.nih.gov/pubmed/30007833)
 * 2019 - [The Role of Non-coding RNAs in Oncology](https://www.cell.com/cell/fulltext/S0092-8674(19)31167-5)
 * 2019 - [Single cell ATAC-seq in human pancreatic islets and deep learning upscaling of rare cells reveals cell-specific type 2 diabetes regulatory signatures](https://twitter.com/jdidion/status/1170660400209256448?s=20)
 * 2019 - [What Do We Talk About When We Talk About Dashboards?](https://ieeexplore.ieee.org/document/8443395)
