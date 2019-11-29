@@ -987,7 +987,7 @@ w/o deadlines
 * #100DaysOfMLCode
 * __#selfTaught__
 
-<!-- (> https://www.youtube.com/watch?v=jxi17F3z0Xw <) -->
+<!-- (>>>> https://www.youtube.com/watch?v=jxi17F3z0Xw <<<<) -->
 
 # Papers
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
@@ -1019,7 +1019,7 @@ w/o deadlines
     9. Use open source tooling
     10. Ask for help (experts, stackoverflow)
 ```
-
+* 2019 - [Massive single-cell RNA-seq analysis and imputation via deep learning](https://www.biorxiv.org/content/10.1101/315556v4)
 * 2019 - [Single-Cell Multi-omics: An Engine for New Quantitative Models of Gene Regulation](https://www.ncbi.nlm.nih.gov/pubmed/30007833)
 * 2019 - [The Role of Non-coding RNAs in Oncology](https://www.cell.com/cell/fulltext/S0092-8674(19)31167-5)
 * 2019 - [Single cell ATAC-seq in human pancreatic islets and deep learning upscaling of rare cells reveals cell-specific type 2 diabetes regulatory signatures](https://twitter.com/jdidion/status/1170660400209256448?s=20)
