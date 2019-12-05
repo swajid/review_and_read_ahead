@@ -5,6 +5,7 @@
 * Table of contents
 * List of papers related to topics I'm interested in on the other page
 
+- [ ] Add Twitter likes/RTs during Winter Break
 - [ ] Calendar
 - [ ] [What's the easiest solution to create software architecture diagrams?](https://www.quora.com/Whats-the-easiest-solution-to-create-software-architecture-diagrams)
 
@@ -72,6 +73,8 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 * Sana, I am a way more sensitive person than you
 
 * I now pronounce you 4 minutes older
+
+* Have a monthly budget for everything (including time)
 
 - my dad
 ```
@@ -737,6 +740,13 @@ AWS
 Real-time prediction/forecasting/machine learning
 * [Real-time poverty](https://youtu.be/oixPBvfdjws?t=1391)
 
+AWS Lambda + unit testing
+* [Unit Test & TDD Lambda Functions](http://joshuaballoch.github.io/testing-lambda-functions/)
+
+Imputation
+* [`autoimpute`](https://pypi.org/project/autoimpute/)
+* [:green_book: "Imputing missing values through various strategies"](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783989485/1/ch01lvl1sec16/imputing-missing-values-through-various-strategies)
+
 Security / Data Encryption
 * [Between Openness and Privacy in Genomics](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001937)
 * [The conundrum of sharing research data](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.22634)
@@ -881,6 +891,7 @@ Developing Workshops/Bioinformatics/Process Of/etc
 * [scRNAseq workshop](https://twitter.com/tangming2005/status/1154435815172390915?s=21)
   * _side note_ why twitter is useful: I'm not the only one who thinks the formats are a bit confusing 
 * [Aaron's single-cell thoughts](https://ltla.github.io/SingleCellThoughts/)
+* [To impute or not to impute scRNA-seq datasets?](https://www.michaelchimenti.com/2019/01/to-impute-or-not-to-impute-scrna-seq-datasets/)
 
 Dataviz
 * [types of charts](https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a)
