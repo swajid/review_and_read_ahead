@@ -76,6 +76,8 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 * Have a monthly budget for everything (including time)
 
+* Reviewing and keeping meeting minutes is boring but you'll have more productive and focused meetings
+
 - my dad
 ```
 
@@ -187,6 +189,7 @@ LATER
   * [[example 43: illustrated: difference between prediction and inference in logistic regression + tweets]](https://twitter.com/willkurt/status/1168880597877645312?s=21)
   * [[example 44: if correlation does not imply causation, then what does?](https://medium.com/gradiant-talks/if-correlation-does-not-imply-causation-then-what-does-8fa462943b84)
   * [[example 45: `git` internals]](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/)
+  * [[example 46: an end-to-end analysis of missing data using `autoimpute` ]](https://kearnz.github.io/autoimpute-tutorials/)
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
@@ -554,6 +557,7 @@ Unit Testing/Logging/CI/[[debugging]](https://twitter.com/fogus/status/117691159
 * [Logging for scientific computing: debugging, performance, trust](https://pythonspeed.com/articles/logging-for-scientific-computing/)
 * [R package development using Gitlab CI/CD](https://twitter.com/dataandme/status/1152526127229034498?s=21)
 * [Gerrit -> Rebase](https://www.gerritcodereview.com/intro-user.html#rebase-a-change)
+* [Unit Testing with Pytest and Mocks](https://realpython.com/python-cli-testing/#unit-testing-with-pytest-and-mocks)
 
 Jupyter Notebooks
 * [Embedding Youtube](https://gist.github.com/christopherlovell/e3e70880c0b0ad666e7b5fe311320a62)
@@ -745,6 +749,7 @@ AWS Lambda + unit testing
 
 Imputation
 * [`autoimpute`](https://pypi.org/project/autoimpute/)
+  * [an end-to-end analysis of missing data using `autoimpute`](https://kearnz.github.io/autoimpute-tutorials/) `#documentation`
 * [:green_book: "Imputing missing values through various strategies"](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783989485/1/ch01lvl1sec16/imputing-missing-values-through-various-strategies)
 
 Security / Data Encryption
