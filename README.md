@@ -5,7 +5,7 @@
 * Table of contents
 * List of papers related to topics I'm interested in on the other page
 
-- [ ] Add Twitter likes/RTs during Winter Break
+- [ ] Add Twitter likes/RTs during Winter Break + [[Annual Review of Biomedical Data Science]](https://www.annualreviews.org/toc/biodatasci/current)
 - [ ] Calendar
 - [ ] [What's the easiest solution to create software architecture diagrams?](https://www.quora.com/Whats-the-easiest-solution-to-create-software-architecture-diagrams)
 
@@ -25,8 +25,6 @@
 (11/)
 - [ ] [kaggle etc + R](https://twitter.com/kearneymw/status/1179624013305221120?s=21)
 
-
-<!-- (refs, update cv, more specific personal statement, uniting theme & get it proof-read by multiple advisers including AA, etc, finish by 11/30, discuss book, thesis idea(s), current proj(s), hit send) -->
 
 
 ~ Icon Rules:
@@ -78,6 +76,8 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 * Reviewing and keeping meeting minutes is boring but you'll have more productive and focused meetings
 
+* Print out a copy of your presentation beforehand and give everyone a copy -- so it doesn't get lost in email etc.
+
 - my dad
 ```
 
@@ -121,6 +121,7 @@ LATER
 - [ ] __Good end of chapter exercises__ :dart: [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) && :dart: * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/)
 
 - [ ] ? Update old coding projects
+
 
 # What works
 * Writing [is important](https://twitter.com/amazingrando/status/1020370126661718016?s=21) [[Writing is _personal_]](https://www.thecut.com/2019/06/why-does-writing-suck.html) [[Structuring Papers]](https://twitter.com/joelmcglothlin/status/923874487556280320?s=21) [[Writing a Paper 1]](http://www.tulane.edu/~lamp/whiteside.pdf) [[Writing a Paper 2]](https://github.com/jtleek/firstpaper) [[Puzzle]](https://twitter.com/jenheemstra/status/1089508218932469760) [[Writing Well in Science]](https://www.brainpickings.org/2015/05/27/william-zinsser-on-writing-well-science/) [[Writing is hard]](https://twitter.com/lucastheis/status/1106155283829739522?s=21) [[Writing is like baking a cake]](https://twitter.com/paul_grealish/status/1126107021172826112?s=21) [[A Guide to Thesis-Writing and a Guide to Life]](https://www.newyorker.com/books/page-turner/a-guide-to-thesis-writing-that-is-a-guide-to-life)
@@ -237,6 +238,7 @@ LATER
 * download long youtube videos to remove ads/surveys -> VLC to change speed/add bookmarks: [keepvid](https://keepvid.pro/) [pytube](https://github.com/nficano/pytube)
 * "I don't do anything different, I just read my notes right before I fall asleep and when I wake up, it's just easier to recall the next day (I don't know why)" - (my friend's) strategy from organic chemistry
 * `Your future is here." -FW`
+* ["If you have too much to do, you can just clone yourself" - FW](https://youtu.be/63vqob-MljQ?t=122)
 * ["It's time you'll never ever get back"](https://twitter.com/maggiesmithpoet/status/1179374478977064960)
 * [How To Take Notes on Everything](https://dev.to/maxwell_dev/how-to-take-notes-on-everything-32fc)
 * // [How to deal with being overwhelmed](https://www.huffpost.com/entry/10-ways-to-cope-with-stress-and-overwhelm_b_6033802)
@@ -740,6 +742,7 @@ AWS
 
 [Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
 * [Lambda usecases](https://www.simform.com/serverless-examples-aws-lambda-use-cases/)
+* ["But is Lambda really providing enough value to make such major rewrites worthwhile?"](https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147)
 
 Real-time prediction/forecasting/machine learning
 * [Real-time poverty](https://youtu.be/oixPBvfdjws?t=1391)
@@ -1003,7 +1006,7 @@ w/o deadlines
 * #100DaysOfMLCode
 * __#selfTaught__
 
-<!-- (>>>> https://www.youtube.com/watch?v=jxi17F3z0Xw <<<<) -->
+<!-- (>>>> jxi17F3z0Xw <<<<) (zxg8zHmJ32o?t=162 kXY8o-fGcQY thiXTX7Fm9w?t=148 xulQbwSygfI mK1009lg4iY LHb95DdjcEg) -->
 
 # Papers
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
@@ -1035,6 +1038,9 @@ w/o deadlines
     9. Use open source tooling
     10. Ask for help (experts, stackoverflow)
 ```
+# 2020
+
+# 2019
 * 2019 - [Massive single-cell RNA-seq analysis and imputation via deep learning](https://www.biorxiv.org/content/10.1101/315556v4)
 * 2019 - [Single-Cell Multi-omics: An Engine for New Quantitative Models of Gene Regulation](https://www.ncbi.nlm.nih.gov/pubmed/30007833)
 * 2019 - [The Role of Non-coding RNAs in Oncology](https://www.cell.com/cell/fulltext/S0092-8674(19)31167-5)
@@ -1057,7 +1063,7 @@ w/o deadlines
 * 2019 - [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 * 2019 - [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 
-
+# 2018
 * 2018 - [Biomedical informatics meets data science: current state and future directions for interaction](https://academic.oup.com/jamiaopen/article/1/2/136/5068667)
 * 2018 - [Deep Learning in Biomedical Data Science](https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-080917-013343) `#CS`
 * 2018 - [Visualization of Biomedical Data](https://www.annualreviews.org/doi/full/10.1146/annurev-biodatasci-080917-013424)
@@ -1068,6 +1074,7 @@ w/o deadlines
 * 2018 - [Applications of crowdsourcing in health: an overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840433/)
 * 2018 - [Enter the Matrix: Factorization Uncovers Knowledge from Omics](https://www.cell.com/trends/genetics/fulltext/S0168-9525(18)30124-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952518301240%3Fshowall%3Dtrue) `#scRNA`
 
+# 2017
 * 2017 - [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) `#pdf`
 * 2017 - [Should biomedical research be like Airbnb?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001818)
 * 2017 - [Toil enables reproducible, open source, big biomedical data analyses](https://www.nature.com/articles/nbt.3772#author-information)
