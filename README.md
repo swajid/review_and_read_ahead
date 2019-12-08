@@ -818,6 +818,8 @@ General Software Development
 * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 * ["Design is not optimization."](https://twitter.com/fchollet/status/1177338131474857984?s=20)
 * [Faster Group Statistics](https://www.brodieg.com/2019/02/24/a-strategy-for-faster-group-statisitics/) `#rstats`
+* [Why software engineering processes and tools don’t work for machine learning](https://www.kdnuggets.com/2019/12/comet-software-engineering-machine-learning.html)
+
 
 Data Backup
 * [[example from bioinformatics]](https://twitter.com/jacobphd/status/1139206934324604928?s=21)
