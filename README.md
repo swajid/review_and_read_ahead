@@ -5,7 +5,7 @@
 * Table of contents
 * List of papers related to topics I'm interested in on the other page
 
-- [ ] Add Twitter likes/RTs during Winter Break + [[Annual Review of Biomedical Data Science]](https://www.annualreviews.org/toc/biodatasci/current)
+- [ ] Add Twitter likes/RTs during Winter Break + [[Annual Review of Biomedical Data Science]](https://www.annualreviews.org/toc/biodatasci/current) + bring flash drive to print stuff on campus before break
 - [ ] Calendar
 - [ ] [What's the easiest solution to create software architecture diagrams?](https://www.quora.com/Whats-the-easiest-solution-to-create-software-architecture-diagrams)
 
