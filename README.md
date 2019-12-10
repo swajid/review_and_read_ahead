@@ -76,7 +76,12 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 * Reviewing and keeping meeting minutes is boring but you'll have more productive and focused meetings
 
-* Print out a copy of your presentation beforehand and give everyone a copy -- so it doesn't get lost in email etc.
+* Print out a copy of your presentation beforehand and give everyone a copy -- so it doesn't 
+   get lost in email etc and people can write notes.
+
+* Senator Elizabeth Warren is the Kennedy of our time
+
+* Start your day early, finish early
 
 - my dad
 ```
@@ -743,6 +748,25 @@ AWS
 [Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
 * [Lambda usecases](https://www.simform.com/serverless-examples-aws-lambda-use-cases/)
 * ["But is Lambda really providing enough value to make such major rewrites worthwhile?"](https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147)
+```
+I did a Twitter poll recently asking how many times people have rewritten basic user 
+registration functions. And from that poll I extrapolate that the basic user registration 
+function has been written at least a million times.
+
+Within organizations, the level of duplication you get is astoundingly high. <-- !!!!
+
+People think government is inefficient — well, the worst example I’ve seen of duplication 
+in government was 118 systems doing pretty much exactly the same thing.
+In the private sector, I’ve seen banks with up to a thousand risk management systems all 
+doing the same thing. Multiply that out across the world and you have millions, tens of 
+millions, of duplicated systems. 
+
+A lot of what we do in IT, I’m sorry to say, is waste. But radically changing your 
+architecture to focus on the functions that actually provide value is a big shift, and it’s 
+not as comfortable as saying: “Hey, I’ve got a container! I can move it around between 
+providers, and it’s more similar to the environments I’m used to.”
+```
+
 
 Real-time prediction/forecasting/machine learning
 * [Real-time poverty](https://youtu.be/oixPBvfdjws?t=1391)
