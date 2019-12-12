@@ -23,3 +23,8 @@ Source
 ## Systems / Network Diagrams
 
 - [ ] find source of `IMG_7223.JPG`
+
+
+Presentations
+
+* [The viridis color palettes](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
