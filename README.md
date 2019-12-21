@@ -694,6 +694,11 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * :bar_chart: [`ggpointdensity` "provides a #ggplot2 geom that is a cross between a 2D density plot and a scatter plot: `geom_pointdensity()`. Useful to deal with overplotting without hiding outlier points."](https://twitter.com/lpmkremer/status/1168912680767447040?s=21)
 * [`santoku` - R package for cutting data](https://twitter.com/dataandme/status/1174143258265640960)
 * [:bar_chart: `trelliscopeJS` easier multiplots](https://twitter.com/rbloggers/status/1180452786619736064?s=21)
+* [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html#Factor-plots)
+
+Data Shaping
+* split-combine stuff
+
 
 :globe_with_meridians: Geo stuff
 
@@ -927,13 +932,20 @@ Developing Workshops/Bioinformatics/Process Of/etc
 * [Aaron's single-cell thoughts](https://ltla.github.io/SingleCellThoughts/)
 * [To impute or not to impute scRNA-seq datasets?](https://www.michaelchimenti.com/2019/01/to-impute-or-not-to-impute-scrna-seq-datasets/)
 
-Dataviz
+# Dataviz
 * [types of charts](https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a)
 * [report](https://twitter.com/nytgraphics/status/1119332817446625281)
 * :globe_with_meridians: [mapping segregation](https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * :tv: [How We Lie to Ourselves With Charts - PyData Miami 2019](https://www.youtube.com/watch?v=3QYsc48zzgs)
 * [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
 * :globe_with_meridians: [coloring streets by their suffix](https://twitter.com/NadiehBremer/status/1176763452783833088?s=20)
+
+## Correlation
+* [A new visualization to beautifully explore correlations](https://www.oreilly.com/learning/a-new-visualization-to-beautifully-explore-correlations)
+* 
+
+## Regression
+* 
 
 Novel/emerging dataviz (that is also open source)
 * [rayrender](https://www.rayshader.com/)
