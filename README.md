@@ -101,9 +101,11 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] find article about abstraction in programming
 
 
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M -->
+<!--  too shy to keep emailing -->
+<!-- https://www.wikihow.com/Start-a-Garage-Band -->
 
 
-???
 
 `"Just do some practice problems - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
 - [ ] [1. review calc](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) + [book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
@@ -452,6 +454,7 @@ April 2nd -->
 * [Mining Twitter with R](https://www.tidytextmining.com/twitter.html) `#crowdsource`
 * [Comparison of deep-learning frameworks](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
 * "The best first step is understanding the data characteristics in depth" - notes, 10/14/19
+* [Anomaly Detection with R](https://github.com/pridiltal/ctv-AnomalyDetection)
 
 
 ## Project Structure
