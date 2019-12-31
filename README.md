@@ -101,7 +101,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] find article about abstraction in programming
 
 
-<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 -->
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinw -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w -->
@@ -780,6 +780,7 @@ providers, and it’s more similar to the environments I’m used to.”
 
 Real-time prediction/forecasting/machine learning
 * [Real-time poverty](https://youtu.be/oixPBvfdjws?t=1391)
+- [ ] other examples and why am I now just learning about [amazon forecast](https://aws.amazon.com/forecast/) -_-
 
 AWS Lambda + unit testing
 * [Unit Test & TDD Lambda Functions](http://joshuaballoch.github.io/testing-lambda-functions/)
@@ -842,7 +843,7 @@ Public Speaking / Presentations
 * [marp: markdown presentation](https://github.com/marp-team/marp)
 * [The Skill of Humor | Andrew Tarvin](https://www.youtube.com/watch?v=MdZAMSyn_As)
 * :tv: [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [ ] write notes from this here
+- [ ] write notes from this here (18 mins in)
 
 General Software Development
 * [Software sustainability + good discussion](https://twitter.com/lh3lh3/status/1125622809630334976)
