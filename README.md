@@ -101,9 +101,10 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] find article about abstraction in programming
 
 
-<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M -->
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
+<!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w -->
 
 
 
@@ -592,6 +593,7 @@ Data Science in Python
 * [Combining the power of R and Python with `reticulate`](https://www.programmingwithr.com/combining-the-power-of-r-and-python-with-reticulate/)
 * [2019 - Advanced Data Reshaping in Python and R](http://www.win-vector.com/blog/2019/09/advanced-data-reshaping-in-python-and-r/)
 * [2017 - Forecasting at Scale](https://peerj.com/preprints/3190.pdf) `#pdf`
+* :tv: [Lambda Calculus: PyCon 2019 Tutorial ](https://www.youtube.com/watch?v=5C6sv7-eTKg)
 
 Pipelines / batch job submission
 * [ngless](https://github.com/ngless-toolkit/ngless)
@@ -839,6 +841,8 @@ Public Speaking / Presentations
 * [11 tips to stop saying 'um' forever](https://www.businessinsider.com/steps-to-stop-saying-um-forever-2015-11) :owl: :speak_no_evil: :sweat_smile: 
 * [marp: markdown presentation](https://github.com/marp-team/marp)
 * [The Skill of Humor | Andrew Tarvin](https://www.youtube.com/watch?v=MdZAMSyn_As)
+* :tv: [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [ ] write notes from this here
 
 General Software Development
 * [Software sustainability + good discussion](https://twitter.com/lh3lh3/status/1125622809630334976)
@@ -977,6 +981,7 @@ Dashboards
 * [phyloseq: Analyze microbiome census data using R + Shiny](http://joey711.github.io/phyloseq/)
 * [Introducing Dash Bio for R](https://www.r-bloggers.com/introducing-dash-bio-for-r/) `#plotly`
 * [Streamlit is the first app framework specifically for Machine Learning and Data Science teams](https://streamlit.io/) `#oss`
+* [Creating interactive dashboards from Jupyter notebooks](https://pbpython.com/interactive-dashboards.html)
 
 API/documentation
 * [evol: A Python grammar for evolutionary algorithms and heuristics](https://evol.readthedocs.io/en/latest/quickstart.html)
