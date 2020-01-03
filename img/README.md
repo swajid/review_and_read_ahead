@@ -14,6 +14,8 @@ Source
 
 * [`pandas_groupby.png`](https://towardsdatascience.com/how-to-use-the-split-apply-combine-strategy-in-pandas-groupby-29e0eb44b62e)
 
+* [`data_sci_analysis.jpg`](https://twitter.com/EpiEllie/status/1212767990531477504)
+
 ## Pipeline Diagrams
 
 * [`segmented_pipeline_1.png`](https://www.bioconductor.org/help/course-materials/2019/CMCM/01-Workshop.html)

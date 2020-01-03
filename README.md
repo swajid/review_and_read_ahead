@@ -105,7 +105,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinw -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
-<!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'t2KxAm83bwU'} -->
+<!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
 
 
 `"Just do some practice problems - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
