@@ -955,6 +955,13 @@ Developing Workshops/Bioinformatics/Process Of/etc
 ## Regression
 * 
 
+## Time-Series
+* [An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
+* [Implementing Facebook Prophet efficiently](https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3)
+  * [Use-case: energy consumption](https://www.kaggle.com/rohanrao/ashrae-prophet-s-prophecy)
+* [Time-Series Visualization](https://mlcourse.ai/articles/topic9-part2-prophet/#3.6-Visualization)
+* [How to Deploy Prophet by Facebook on AWS Lambda](https://medium.com/@marc.a.metz/docker-run-rm-it-v-pwd-var-task-lambci-lambda-build-python3-7-bash-c7d53f3b7eb2)
+
 Novel/emerging dataviz (that is also open source)
 * [rayrender](https://www.rayshader.com/)
   * [getting started with rayrender](https://www.tylermw.com/getting-started-with-rayrender/)
