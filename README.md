@@ -1,6 +1,7 @@
 # swajid_intro
 
-@ myself!!! must update this page!!!!
+@ myself!!! must update this page!!!! [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
+
 * Each heading goes into a wiki/tl;dr page
 * Table of contents
 * List of papers related to topics I'm interested in on the other page
@@ -104,8 +105,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinw -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
-<!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w -->
-
+<!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'t2KxAm83bwU'} -->
 
 
 `"Just do some practice problems - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
@@ -758,9 +758,12 @@ AWS
 * [How To Build Your First Serverless API with AWS Lambda and API Gateway](https://medium.com/better-programming/how-to-build-your-first-serverless-api-with-aws-lambda-and-api-gateway-c7149c2e8d23)
 
 [Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
+* [2019 - Rapid RNA sequencing data analysis using serverless computing](https://www.biorxiv.org/content/10.1101/576199v1)
+* [2018 - Serverless computing provides on-demand high performance computing for biomedical research](https://arxiv.org/abs/1807.11659)
 * [Lambda usecases](https://www.simform.com/serverless-examples-aws-lambda-use-cases/)
 * ["But is Lambda really providing enough value to make such major rewrites worthwhile?"](https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147)
 ```
+"
 I did a Twitter poll recently asking how many times people have rewritten basic user 
 registration functions. And from that poll I extrapolate that the basic user registration 
 function has been written at least a million times.
@@ -777,6 +780,7 @@ A lot of what we do in IT, I’m sorry to say, is waste. But radically changing 
 architecture to focus on the functions that actually provide value is a big shift, and it’s 
 not as comfortable as saying: “Hey, I’ve got a container! I can move it around between 
 providers, and it’s more similar to the environments I’m used to.”
+"
 ```
 
 
