@@ -700,6 +700,8 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [`santoku` - R package for cutting data](https://twitter.com/dataandme/status/1174143258265640960)
 * [:bar_chart: `trelliscopeJS` easier multiplots](https://twitter.com/rbloggers/status/1180452786619736064?s=21)
 * [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html#Factor-plots)
+* [:bar_chart: Create Time Series Heat Maps Using A Pandas Extension](https://medium.com/pandex-journal/create-time-series-heat-maps-using-a-pandas-extension-dff41df1d393)
+* [:bar_chart: `calmap` Calendar heatmaps from Pandas time-series data](https://pythonhosted.org/calmap/)
 
 Data Shaping
 * split-combine stuff
@@ -961,6 +963,7 @@ Developing Workshops/Bioinformatics/Process Of/etc
   * [Use-case: energy consumption](https://www.kaggle.com/rohanrao/ashrae-prophet-s-prophecy)
 * [Time-Series Visualization](https://mlcourse.ai/articles/topic9-part2-prophet/#3.6-Visualization)
 * [How to Deploy Prophet by Facebook on AWS Lambda](https://medium.com/@marc.a.metz/docker-run-rm-it-v-pwd-var-task-lambci-lambda-build-python3-7-bash-c7d53f3b7eb2)
+
 
 Novel/emerging dataviz (that is also open source)
 * [rayrender](https://www.rayshader.com/)
