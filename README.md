@@ -106,7 +106,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
-
+<!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby -->
 
 `"Just do some practice problems - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
 - [ ] [1. review calc](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) + [book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
@@ -255,6 +255,7 @@ LATER
 * [How to motivate yourself when you don’t have a deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) [`ln`](https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
 * ["Keep your eye on the prize" - Dad"](https://twitter.com/kdpsinghlab/status/1183228785702903809)
 * [How to Not Get Distracted](https://www.lifehack.org/articles/productivity/10-critical-tips-prevent-distraction-and-sharpen-your-focus.html)
+* [Troubleshooting lessons I guess I'll just relearn forever: take a break, it's almost certainly not a bug, extra eyes are awesome, spelling](https://twitter.com/allison_horst/status/1213275783675822080)
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -594,6 +595,7 @@ Data Science in Python
 * [2019 - Advanced Data Reshaping in Python and R](http://www.win-vector.com/blog/2019/09/advanced-data-reshaping-in-python-and-r/)
 * [2017 - Forecasting at Scale](https://peerj.com/preprints/3190.pdf) `#pdf`
 * :tv: [Lambda Calculus: PyCon 2019 Tutorial ](https://www.youtube.com/watch?v=5C6sv7-eTKg)
+* [Getting started with Python `datatable`](https://www.kaggle.com/sudalairajkumar/getting-started-with-python-datatable#Introduction)
 
 Pipelines / batch job submission
 * [ngless](https://github.com/ngless-toolkit/ngless)
@@ -745,6 +747,7 @@ Very large data(sets,bases,projects)
 * :tv: [`disk.frame` an R package for manipulating with larger-than-RAM data + tweets](https://twitter.com/evalparse/status/1168131624011087872?s=21)
 * [SO: How to read a 6 GB csv file with pandas](https://stackoverflow.com/questions/25962114/how-to-read-a-6-gb-csv-file-with-pandas)
 * [How to Load a Massive File as small chunks in Pandas?](https://cmdlinetips.com/2018/01/how-to-load-a-massive-file-as-small-chunks-in-pandas/)
+- [ ] link comparing datatable vs. pandas
 
 Types of studies in biostatistics
 * 2012 - [A brief discussion of statistics and experimental design](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321166/)
