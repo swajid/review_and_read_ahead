@@ -761,8 +761,10 @@ AWS
 * [How To Build Your First Serverless API with AWS Lambda and API Gateway](https://medium.com/better-programming/how-to-build-your-first-serverless-api-with-aws-lambda-and-api-gateway-c7149c2e8d23)
 
 [Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
-* [2019 - Rapid RNA sequencing data analysis using serverless computing](https://www.biorxiv.org/content/10.1101/576199v1)
-* [2018 - Serverless computing provides on-demand high performance computing for biomedical research](https://arxiv.org/abs/1807.11659)
+
+<!-- * [2019 - Rapid RNA sequencing data analysis using serverless computing](https://www.biorxiv.org/content/10.1101/576199v1)
+* [2018 - Serverless computing provides on-demand high performance computing for biomedical research](https://arxiv.org/abs/1807.11659) https://github.com/BioDepot/RNA-seq-lambda <-- !!!!! -->
+
 * [Lambda usecases](https://www.simform.com/serverless-examples-aws-lambda-use-cases/)
 * ["But is Lambda really providing enough value to make such major rewrites worthwhile?"](https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147)
 ```
