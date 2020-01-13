@@ -1,5 +1,9 @@
 # swajid_intro
 
+## README.md and other *.md files are open source, free to use, redistribute and modify
+## Project archived 1/8/2020
+
+
 @ myself!!! must update this page!!!! [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
 
 * Each heading goes into a wiki/tl;dr page
@@ -83,6 +87,8 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 * Senator Elizabeth Warren is the Kennedy of our time
 
 * Start your day early, finish early
+
+* My first job after college had a library for tech books and they had an official book on COBOL by IBM that was imported, but they kept it on a bookshelf that was behind glass and it was locked so no one could read it and you could only look at it (the cover of the book). Now, anyone can learn whatever they want. (Hopefully useful stuff)
 
 - my dad
 ```
