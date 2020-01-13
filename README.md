@@ -1,6 +1,6 @@
 # swajid_intro
 
-## README.md and other *.md files are open source, free to use, redistribute and modify
+## README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify
 ## Project archived 1/8/2020
 
 
@@ -88,7 +88,10 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 * Start your day early, finish early
 
-* My first job after college had a library for tech books and they had an official book on COBOL by IBM that was imported, but they kept it on a bookshelf that was behind glass and it was locked so no one could read it and you could only look at it (the cover of the book). Now, anyone can learn whatever they want. (Hopefully useful stuff)
+* My first job after college had a library for tech books and they had an official book on 
+  COBOL by IBM that was imported, but they kept it on a bookshelf that was behind glass and 
+  it was locked so no one could read it and you could only look at it (the cover of the book). 
+  Now, anyone can learn whatever they want. (Hopefully useful stuff)
 
 - my dad
 ```
