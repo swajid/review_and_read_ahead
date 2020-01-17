@@ -111,7 +111,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] find article about abstraction in programming
 
 
-<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinw -->
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinw https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -959,6 +959,10 @@ Developing Workshops/Bioinformatics/Process Of/etc
   * _side note_ why twitter is useful: I'm not the only one who thinks the formats are a bit confusing 
 * [Aaron's single-cell thoughts](https://ltla.github.io/SingleCellThoughts/)
 * [To impute or not to impute scRNA-seq datasets?](https://www.michaelchimenti.com/2019/01/to-impute-or-not-to-impute-scrna-seq-datasets/)
+
+Peak Calling
+* [`Graph Peak Caller` - ChIP-seq peak caller for reads mapped to a graph-based reference genome](https://github.com/uio-bmi/graph_peak_caller) `#py` + `#pytest`
+<!-- self todo: read code https://github.com/uio-bmi/graph_peak_caller/tree/master/graph_peak_caller --> 
 
 # Dataviz
 * [types of charts](https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a)
