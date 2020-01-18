@@ -1,7 +1,6 @@
 # swajid_intro
 
-## README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify
-## Project archived 1/8/2020
+_README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
 
 
 @ myself!!! must update this page!!!! [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
@@ -111,7 +110,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] find article about abstraction in programming
 
 
-<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinw https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinxa https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -265,6 +264,7 @@ LATER
 * ["Keep your eye on the prize" - Dad"](https://twitter.com/kdpsinghlab/status/1183228785702903809)
 * [How to Not Get Distracted](https://www.lifehack.org/articles/productivity/10-critical-tips-prevent-distraction-and-sharpen-your-focus.html)
 * [Troubleshooting lessons I guess I'll just relearn forever: take a break, it's almost certainly not a bug, extra eyes are awesome, spelling](https://twitter.com/allison_horst/status/1213275783675822080)
+
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -864,6 +864,7 @@ Public Speaking / Presentations
 * [The Skill of Humor | Andrew Tarvin](https://www.youtube.com/watch?v=MdZAMSyn_As)
 * :tv: [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [ ] write notes from this here (18 mins in)
+* [Explain how to make something that is really difficult: tell a story, add cultural/relevant history (the why) along the way, incremental steps, explain the effects of missing a step or variations etc.](https://www.youtube.com/watch?v=lMo34CPxICs&feature=youtu.be&t=13)
 
 General Software Development
 * [Software sustainability + good discussion](https://twitter.com/lh3lh3/status/1125622809630334976)
