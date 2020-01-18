@@ -864,7 +864,7 @@ Public Speaking / Presentations
 * [The Skill of Humor | Andrew Tarvin](https://www.youtube.com/watch?v=MdZAMSyn_As)
 * :tv: [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [ ] write notes from this here (18 mins in)
-* [Explain how to make something that is really difficult: tell a story, add cultural/relevant history (the why) along the way, incremental steps, explain the effects of missing a step or variations etc.](https://www.youtube.com/watch?v=lMo34CPxICs&feature=youtu.be&t=13)
+* [Explain how to make something that is really difficult: tell a story, add cultural/relevant history (the why) along the way, incremental steps, explain the effects of missing a step or variations etc.](https://www.youtube.com/watch?v=lMo34CPxICs&feature=youtu.be&t=13) [[background]](https://en.wikipedia.org/wiki/Nihari)
 
 General Software Development
 * [Software sustainability + good discussion](https://twitter.com/lh3lh3/status/1125622809630334976)
