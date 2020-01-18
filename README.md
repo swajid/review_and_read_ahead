@@ -1119,6 +1119,10 @@ w/o deadlines
     10. Ask for help (experts, stackoverflow)
 ```
 # 2020
+2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full)
+ - [ ] ? [protospacer](https://en.wikipedia.org/wiki/Protospacer_adjacent_motif)
+ - [ ] fig 4a - neural network predictions of sgRNA activity
+ - [ ] ? ["UMIs per cell gene expression"](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/algorithms/overview)
 
 # 2019
 * 2019 - [Massive single-cell RNA-seq analysis and imputation via deep learning](https://www.biorxiv.org/content/10.1101/315556v4)
