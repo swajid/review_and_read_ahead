@@ -651,6 +651,10 @@ Papers/Posters
     ```
 * :green_book: [Tidy tools for supporting fluent workflow in temporal data analysis -> "A new tidy data structure ..."](https://thesis.earo.me/3-ch-tsibble.html)
 
+Data Structures in R
+* [data.tree (finally!!)](https://github.com/gluc/data.tree)
+
+
 
 (Newer) Data Analysis/Tidyverse stuff in R
 * 2019 - [Tools for analyzing R code the tidy way](https://arxiv.org/abs/1905.08327)
@@ -1052,7 +1056,7 @@ _add link of TOC_
 # Tech Conventions + Videos
 * [Find your next tech conference](https://confs.tech/)
 * [The Bioconductor 2018 Workshop Compilation](https://bioconductor.github.io/BiocWorkshops/)
-* [rstudio::conf](https://www.youtube.com/channel/UC3xfbCMLCw1Hh4dWop3XtHg/videos?view=0&sort=dd&flow=grid)
+* [rstudio::conf 2020 1/27-30 stream](https://www.youtube.com/channel/UC3xfbCMLCw1Hh4dWop3XtHg/videos?view=0&sort=dd&flow=grid)
 * [PyCon](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ/videos?view=0&sort=p&flow=grid)
 * [DjangoCon](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos?view=0&sort=p&flow=grid)
 * [New York R Conference](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos) + [`rstatsnyc`](https://twitter.com/hashtag/rstatsnyc?src=hash&lang=en)
