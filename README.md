@@ -2,6 +2,10 @@
 
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
 
+Talks/Stream
+- [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
+- [ ] [1/27-30 rstudio::conf](https://rstudio.com/conference/) 
+
 
 @ myself!!! must update this page!!!! [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
 
@@ -110,7 +114,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] find article about abstraction in programming
 
 
-<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinxa https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinxa IqTRBY1pILE  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
