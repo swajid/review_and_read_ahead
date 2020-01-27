@@ -114,7 +114,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] find article about abstraction in programming
 
 
-<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinxa IqTRBY1pILE  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinxa IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -471,7 +471,6 @@ April 2nd -->
 * "The best first step is understanding the data characteristics in depth" - notes, 10/14/19
 * [Anomaly Detection with R](https://github.com/pridiltal/ctv-AnomalyDetection)
 
-
 ## Project Structure
 ### Reproducibility
 * [R Best Practices](https://kdestasio.github.io/post/r_best_practices/)
@@ -495,6 +494,7 @@ April 2nd -->
 * [Imagine your Data Before You Collect It](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/)
 * [How Do You Organise Your R Project? This Is What We Do.](https://telethonkids.wordpress.com/2019/07/24/how-do-you-organise-your-r-project-this-is-what-we-do/)
 * [Everything a Data Scientist Should Know About Data Management](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42) `#databases`
+* [Technical debt for data scientists](https://twitter.com/KKulma/status/1221467257227767809?s=20)
 
 ### Best Practices
 * [Guidelines for data analysis scripts](https://arxiv.org/abs/1904.06163)
@@ -954,7 +954,8 @@ General Bioconductor
 * [2019 - `Tximeta`: reference sequence checksums for provenance identification in RNA-seq](https://www.biorxiv.org/content/biorxiv/early/2019/09/25/777888.full.pdf) 
   * "The correct reference transcriptome is identified via a hashed checksum stored in the quantification output, and key transcript databases are downloaded and cached locally."
 
-SCS / single-cell (completely unfamiliar) [[Articles by Nikolay Oskolkov]](https://towardsdatascience.com/@nikolay.oskolkov) (add links + give credit to author's tweets)
+SCS / single-cell 
+* [[Articles by Nikolay Oskolkov]](https://towardsdatascience.com/@nikolay.oskolkov) (add links + give credit to author's tweets)
 * :tv: [Single Cell Analysis Club @ NYU - vimeo](https://vimeo.com/user33294891)
 * [2019 - How to Batch Correct Single Cell](https://twitter.com/NikolayOskolkov/status/1169610566895329280)
 * [2019 - Overview of single cell bioinformatics (slides)](https://twitter.com/petehaitch/status/1152717037048778752?s=21)
@@ -968,7 +969,9 @@ Developing Workshops/Bioinformatics/Process Of/etc
   * _side note_ why twitter is useful: I'm not the only one who thinks the formats are a bit confusing 
 * [Aaron's single-cell thoughts](https://ltla.github.io/SingleCellThoughts/)
 * [To impute or not to impute scRNA-seq datasets?](https://www.michaelchimenti.com/2019/01/to-impute-or-not-to-impute-scrna-seq-datasets/)
-
+* [`MAESTRO` (Model-based AnalysEs of Single-cell Transcriptome and RegulOme) is a comprehensive single-cell RNA-seq and ATAC-seq analysis suit built using snakemake.](https://github.com/liulab-dfci/MAESTRO)
+  * see [proj structure](https://github.com/liulab-dfci/MAESTRO/tree/master/MAESTRO)
+  
 Peak Calling
 * [`Graph Peak Caller` - ChIP-seq peak caller for reads mapped to a graph-based reference genome](https://github.com/uio-bmi/graph_peak_caller) `#py` + `#pytest`
 <!-- self todo: read code https://github.com/uio-bmi/graph_peak_caller/tree/master/graph_peak_caller --> 
@@ -1154,6 +1157,8 @@ w/o deadlines
 * 2019 - [Wearable biosensors for healthcare monitoring](https://www.nature.com/articles/s41587-019-0045-y)
 * 2019 - [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 * 2019 - [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
+* 2019 - [Assessment of computational methods for the analysis of single-cell ATAC-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1854-5)
+
 
 # 2018
 * 2018 - [Biomedical informatics meets data science: current state and future directions for interaction](https://academic.oup.com/jamiaopen/article/1/2/136/5068667)
