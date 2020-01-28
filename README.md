@@ -776,6 +776,7 @@ AWS
 * [Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 * :tv: [Analyzing Data Streams in Real Time with Amazon Kinesis](https://www.youtube.com/watch?v=dNp1emFFGbU)
 * [How To Build Your First Serverless API with AWS Lambda and API Gateway](https://medium.com/better-programming/how-to-build-your-first-serverless-api-with-aws-lambda-and-api-gateway-c7149c2e8d23)
+* :tv: [This is My Architecture Videos from AWS](https://aws.amazon.com/blogs/architecture/binge-watch-live-videos-from-aws-reinvent-2019/?sc_channel=sm&sc_campaign=AWS_reInvent,This_is_My_Architecture&sc_publisher=TWITTER&sc_country=Global&sc_outcome=awareness&trk=This_is_My_Architecture_TWITTER&linkId=81320430)
 
 [Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
 
@@ -971,10 +972,16 @@ Developing Workshops/Bioinformatics/Process Of/etc
 * [To impute or not to impute scRNA-seq datasets?](https://www.michaelchimenti.com/2019/01/to-impute-or-not-to-impute-scrna-seq-datasets/)
 * [`MAESTRO` (Model-based AnalysEs of Single-cell Transcriptome and RegulOme) is a comprehensive single-cell RNA-seq and ATAC-seq analysis suit built using snakemake.](https://github.com/liulab-dfci/MAESTRO)
   * see [proj structure](https://github.com/liulab-dfci/MAESTRO/tree/master/MAESTRO)
-  
+* ["current list is 31 scRNA-seq (analysis method) benchmarks:"](https://twitter.com/markrobinsonca/status/1221903274678333441?s=21)
+
 Peak Calling
 * [`Graph Peak Caller` - ChIP-seq peak caller for reads mapped to a graph-based reference genome](https://github.com/uio-bmi/graph_peak_caller) `#py` + `#pytest`
 <!-- self todo: read code https://github.com/uio-bmi/graph_peak_caller/tree/master/graph_peak_caller --> 
+* ["what tools are good for predicting scATAC peaks' target genes? `#scATAC`"](https://twitter.com/tangming2005/status/1221868274356408320?s=21)
+
+List of different types of * omes
+* [Reactome](https://en.wikipedia.org/wiki/Reactome) + [bioarxiv search, 1,140 Results](https://www.biorxiv.org/search/Reactome)
+
 
 # Dataviz
 * [types of charts](https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a)
@@ -1090,6 +1097,7 @@ w/o deadlines
   * [`#tidyverse`](https://twitter.com/search?q=%23tidyverse&src=typd)
   * [`#useR2019`](https://twitter.com/hashtag/UseR2019?src=hash)
 * [`#singlecell`](https://twitter.com/search?q=%23singlecell&src=typd)
+  * [`#scATAC`](https://twitter.com/hashtag/scATAC)
 * [`#bookdown`](https://twitter.com/search?q=%23bookdown&src=typd)
 * [`#pandastricks`](https://twitter.com/search?q=%23pandastricks&src=typd)
 * #paperADay
