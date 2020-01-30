@@ -115,6 +115,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinxa IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
+<!-- Ln6ya0xahG0 XPHJYarhWQ8 cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -1138,10 +1139,14 @@ w/o deadlines
     10. Ask for help (experts, stackoverflow)
 ```
 # 2020
-2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full)
+
+* 
+* 2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full)
  - [ ] ? [protospacer](https://en.wikipedia.org/wiki/Protospacer_adjacent_motif)
  - [ ] fig 4a - neural network predictions of sgRNA activity
  - [ ] ? ["UMIs per cell gene expression"](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/algorithms/overview)
+
+
 
 # 2019
 * 2019 - [Massive single-cell RNA-seq analysis and imputation via deep learning](https://www.biorxiv.org/content/10.1101/315556v4)
@@ -1189,7 +1194,9 @@ w/o deadlines
 * 2016 - [Crowdsourcing biomedical research: leveraging communities as innovation engines](https://www.nature.com/articles/nrg.2016.69)
 * 2016 - [Secure cloud computing for genomic data](https://www.nature.com/articles/nbt.3496)
 * 2016 - [CrimeStand](https://dl.acm.org/citation.cfm?id=2997006) `#Faiz`
-
+* 2016 - [On the Dependency of Cellular Protein Levels on mRNA Abundance](https://www.cell.com/cell/pdf/S0092-8674(16)30270-7.pdf) `#interesting`
+ - [ ] Figure 4. Protein Level Buffering of Expression Variability at Multiple Scales
+ - [ ] Measurements of Whole-Tissue versus Individual Cell Types
 
 * 2014 - [Evolutionary history of redox metal-binding domains across the tree of life](https://www.pnas.org/content/early/2014/04/25/1403676111.short)
 
