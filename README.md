@@ -584,6 +584,7 @@ Unit Testing/Logging/CI/[[debugging]](https://twitter.com/fogus/status/117691159
 * [R package development using Gitlab CI/CD](https://twitter.com/dataandme/status/1152526127229034498?s=21)
 * [Gerrit -> Rebase](https://www.gerritcodereview.com/intro-user.html#rebase-a-change)
 * [Unit Testing with Pytest and Mocks](https://realpython.com/python-cli-testing/#unit-testing-with-pytest-and-mocks)
+* ["Object of type 'closure' is not subsettable", finally a good review of this error!!](https://github.com/jennybc/debugging)
 
 Jupyter Notebooks
 * [Embedding Youtube](https://gist.github.com/christopherlovell/e3e70880c0b0ad666e7b5fe311320a62)
