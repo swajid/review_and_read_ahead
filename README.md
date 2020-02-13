@@ -114,7 +114,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] find article about abstraction in programming
 
 
-<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 zGMT_ymUinxa IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
 <!-- Ln6ya0xahG0 XPHJYarhWQ8 cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
@@ -269,7 +269,7 @@ LATER
 * ["Keep your eye on the prize" - Dad"](https://twitter.com/kdpsinghlab/status/1183228785702903809)
 * [How to Not Get Distracted](https://www.lifehack.org/articles/productivity/10-critical-tips-prevent-distraction-and-sharpen-your-focus.html)
 * [Troubleshooting lessons I guess I'll just relearn forever: take a break, it's almost certainly not a bug, extra eyes are awesome, spelling](https://twitter.com/allison_horst/status/1213275783675822080)
-
+* ["look for (the) positive" - my ophthalmologist (for 2/3 of my life)](https://youtu.be/8Cn2k1AyI1Y?t=105) <!-- it's 5 am and I just realized I forgot to reschedule my appointment -->
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
@@ -673,7 +673,8 @@ Data Structures in R
 * :green_book: [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
 * :green_book: [Data Analysis in Genome Biology](https://girke.bioinformatics.ucr.edu/GEN242/mydoc_Rbasics_12.html)
 * [Lesser known dplyr functions](https://statisticaloddsandends.wordpress.com/2019/08/30/lesser-known-dplyr-functions/)
-  
+- [ ] [`slider` provides a family of general purpose sliding window functions, which can be used to compute moving averages, cumulatives sums, rolling regressions, and any other sliding operation.](https://www.tidyverse.org/blog/2020/02/slider-0-1-0/) 
+
 (Newer) OOP in R
 * [Bioconductor S4 classes for high-throughput omics data](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b) -> __`Designated R class to contain specific data`__
 * [Meta analysis of multiple multi-omics data… Oy Vey](https://medium.com/@drorberel/meta-analysis-of-multiple-multi-omic-oy-vey-a45a9533e68d)
