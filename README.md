@@ -4,8 +4,7 @@ _README.md and other *.md files have been and will continue to be open source, f
 
 Talks/Stream
 - [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
-- [ ] [1/27-30 rstudio::conf](https://rstudio.com/conference/) 
-
+- [ ] [1/27-30 rstudio::conf](https://rstudio.com/conference/) [slides](https://github.com/rstudio-conf-2020) [? awaiting talks, I guess they will go here](https://www.youtube.com/channel/UC3xfbCMLCw1Hh4dWop3XtHg/videos)
 
 @ myself!!! must update this page!!!! [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
 
@@ -115,7 +114,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 XPHJYarhWQ8 cool riff -->
+<!-- Ln6ya0xahG0 XPHJYarhWQ8 P5wn3DXW8js cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -1043,6 +1042,12 @@ API/documentation
 * [RnBeads - Comprehensive analysis of DNA methylation data](https://rnbeads.org/tutorial.html)
 * [`ggparty` package wiki - aims to extend ggplot2 functionality to the partykit package](https://github.com/martin-borkovec/ggparty/wiki)
 * [Presentation on `santoku` an R package for cutting data, using clever gifs and etc.](https://rpubs.com/dash2/santoku)
+
+Experienced-based debugging
+* [R Inferno](https://www.burns-stat.com/documents/books/the-r-inferno/)
+* [The Hitchhiker’s Guide to Python - Common Gotchas](https://docs.python-guide.org/writing/gotchas/)
+* [:tv: Learning from eight years of data science mistakes - Caitlin Hudon](https://www.youtube.com/watch?v=O5lP6XcopdQ)
+
 
 # O'Reilly / Reference Books
 _add link of TOC_
