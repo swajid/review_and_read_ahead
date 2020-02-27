@@ -114,7 +114,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 XPHJYarhWQ8 P5wn3DXW8js hWtY1t_8Y_M cool riff -->
+<!-- Ln6ya0xahG0 XPHJYarhWQ8 P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -673,6 +673,7 @@ Data Structures in R
 * :green_book: [Data Analysis in Genome Biology](https://girke.bioinformatics.ucr.edu/GEN242/mydoc_Rbasics_12.html)
 * [Lesser known dplyr functions](https://statisticaloddsandends.wordpress.com/2019/08/30/lesser-known-dplyr-functions/)
 - [ ] [`slider` provides a family of general purpose sliding window functions, which can be used to compute moving averages, cumulatives sums, rolling regressions, and any other sliding operation.](https://www.tidyverse.org/blog/2020/02/slider-0-1-0/) 
+* [`TwoFunctionsMostDays`](https://twitter.com/hashtag/TwoFunctionsMostDays?src=hashtag_click)
 
 (Newer) OOP in R
 * [Bioconductor S4 classes for high-throughput omics data](https://medium.com/@drorberel/bioconductor-s4-classes-for-high-throughput-omic-data-fd6c304d569b) -> __`Designated R class to contain specific data`__
@@ -726,7 +727,7 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 
 Data Shaping
 * split-combine stuff
-
+* [Translating an analysis from R to Python](https://twitter.com/chowthedog/status/1229801452354330625?s=20)
 
 :globe_with_meridians: Geo stuff
 
