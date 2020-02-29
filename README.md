@@ -114,7 +114,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 XPHJYarhWQ8 P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA cool riff -->
+<!-- Ln6ya0xahG0 XPHJYarhWQ8 P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -610,6 +610,7 @@ Data Science in Python
 * [2017 - Forecasting at Scale](https://peerj.com/preprints/3190.pdf) `#pdf`
 * :tv: [Lambda Calculus: PyCon 2019 Tutorial ](https://www.youtube.com/watch?v=5C6sv7-eTKg)
 * [Getting started with Python `datatable`](https://www.kaggle.com/sudalairajkumar/getting-started-with-python-datatable#Introduction)
+* [parallelize DataFrames, good use of '%time'](https://twitter.com/radekosmulski/status/1233337156883615744?s=21)
 
 Pipelines / batch job submission
 * [ngless](https://github.com/ngless-toolkit/ngless)
