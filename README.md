@@ -211,6 +211,7 @@ LATER
   * [[example 44: if correlation does not imply causation, then what does?](https://medium.com/gradiant-talks/if-correlation-does-not-imply-causation-then-what-does-8fa462943b84)
   * [[example 45: `git` internals]](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/)
   * [[example 46: an end-to-end analysis of missing data using `autoimpute` ]](https://kearnz.github.io/autoimpute-tutorials/)
+  * [[example 47: a half-hour to learn rust]](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
@@ -891,7 +892,11 @@ General Software Development
 * ["Design is not optimization."](https://twitter.com/fchollet/status/1177338131474857984?s=20)
 * [Faster Group Statistics](https://www.brodieg.com/2019/02/24/a-strategy-for-faster-group-statisitics/) `#rstats`
 * [Why software engineering processes and tools don’t work for machine learning](https://www.kdnuggets.com/2019/12/comet-software-engineering-machine-learning.html)
-
+* [a half-hour to learn rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+  * the point is really: `And with that, we hit the 30-minute estimated reading time mark, and you should be able to read most of the Rust code you find online`
+  * great example of writing notes (to self or for others) on how to expertly explain a programming language/concept `#designDocument`
+  * way better than this format [[Learn X in Y minutes, where X = rust]](https://learnxinyminutes.com/docs/rust/)
+  * tell time constraint team members, "this really long thing is going to take ~30 mins to read"
 
 Data Backup
 * [[example from bioinformatics]](https://twitter.com/jacobphd/status/1139206934324604928?s=21)
