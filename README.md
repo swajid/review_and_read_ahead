@@ -114,7 +114,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 XPHJYarhWQ8 P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c cool riff -->
+<!-- Ln6ya0xahG0 XPHJYarhWQ8 P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -681,6 +681,7 @@ Data Structures in R
 * [Meta analysis of multiple multi-omics data… Oy Vey](https://medium.com/@drorberel/meta-analysis-of-multiple-multi-omic-oy-vey-a45a9533e68d)
 * [Building a package that lasts](https://github.com/ColinFay/erum2018)
 - [ ] [2018 - Bio/Recursion](https://leanpub.com/biorecursion)
+- [ ] [Rcpp, newer updates using RcppArmadillo and LR benchmarks](https://twitter.com/eddelbuettel/status/1233330022213210117?s=21)
 
 Text (mining) in R
 * [Text Mining with R](https://www.tidytextmining.com/)
