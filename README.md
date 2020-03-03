@@ -114,7 +114,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -727,6 +727,7 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html#Factor-plots)
 * [:bar_chart: Create Time Series Heat Maps Using A Pandas Extension](https://medium.com/pandex-journal/create-time-series-heat-maps-using-a-pandas-extension-dff41df1d393)
 * [:bar_chart: `calmap` Calendar heatmaps from Pandas time-series data](https://pythonhosted.org/calmap/)
+* [:bar_chart: `ggridges` + print example 2](https://twitter.com/duc_qn/status/1234425406847148032?s=20) <!-- good for energy & meter data -->
 
 Data Shaping
 * split-combine stuff
