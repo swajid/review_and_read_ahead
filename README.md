@@ -218,7 +218,7 @@ LATER
 * [[Finish early]](https://twitter.com/jenheemstra/status/1103318602206375936?s=21) = early feedback
 * [be super realistic](https://seths.blog/2011/05/hard-work-vs-long-work/) <-> get early feedback + keep improving
 * Short [realistic](https://twitter.com/jenheemstra/status/1101092397403070464?s=21) goals -> results
-* "It's a marathon not a sprint" 
+* "It's a marathon not a sprint" & [:tv: "you're too into this / you care too much" -> by and large, the work will outlast  gossip/unnecessary criticism/imposter syndrome](https://www.youtube.com/watch?v=3MpfBn_gmNM)
   * [[["Go where you will be challenged, intellectually and creatively."]]](https://twitter.com/dynamicwebpaige/status/1050126083863924736?s=21) 
   * [[longterm 2]](https://twitter.com/cbirunda/status/1086370308016222208?s=21) [[The unreasonable effectiveness of public work]](https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work)
   * [[longterm 3]](https://twitter.com/fchollet/status/1086330334679945217?s=21) 
@@ -1119,6 +1119,7 @@ w/o deadlines
   * [`#scATAC`](https://twitter.com/hashtag/scATAC)
 * [`#bookdown`](https://twitter.com/search?q=%23bookdown&src=typd)
 * [`#pandastricks`](https://twitter.com/search?q=%23pandastricks&src=typd)
+* [`#TwoFunctionsMostDays`](https://twitter.com/hashtag/TwoFunctionsMostDays)
 * #paperADay
 * #100daysOfCode
 * #100DaysOfMLCode
