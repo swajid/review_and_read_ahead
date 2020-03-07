@@ -6,6 +6,10 @@ Talks/Stream
 - [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
 - [ ] [1/27-30 rstudio::conf](https://rstudio.com/conference/) [slides](https://github.com/rstudio-conf-2020) [videos -- will watch Feb/17-21 && add important ones](https://twitter.com/imsanaw/status/1228473547770781698?s=20)
 
+Books
+- [ ] [Bio/Recursion - An Exploration in R](https://leanpub.com/biorecursion) `#March`
+
+
 @ myself!!! must update this page!!!! [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
 
 * Each heading goes into a wiki/tl;dr page
@@ -114,11 +118,11 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
-<!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby -->
+<!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
 
 `"Just do some practice problems - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
 - [ ] [1. review calc](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) + [book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
@@ -234,12 +238,12 @@ LATER
   * [[longterm 7]](https://twitter.com/gauthier_gidel/status/1168970421649203200?s=21)
   * [[longterm 8]](https://twitter.com/aureliengeron/status/1168394684969832449)
   * [[longterm 9]](https://twitter.com/shaohua0116/status/1169003130333384706?s=21)
-* Persistence & manageability [[document the process 1]](https://twitter.com/wearerladies/status/1067877347490115584?s=21) [[document the process 2]](https://twitter.com/ethanwhite/status/1087727841771438081)
+* Persistence & manageability [[document the process 1]](https://twitter.com/wearerladies/status/1067877347490115584?s=21) [[document the process 2]](https://twitter.com/ethanwhite/status/1087727841771438081) [[(why/sometimes full-disclosure/"it unlocked something") document the process 3]](https://www.youtube.com/watch?v=pU4ytgsBW9I)
 * Be [[interesting]](https://twitter.com/togelius/status/1088679404937625600) -> [[build]](https://twitter.com/jessfraz/status/1089590130212589570?s=21) & [[make]](https://www.youtube.com/watch?v=OZ01MH9BQqk) things
 * Making [[ordered]](https://twitter.com/fatima_ahdash/status/1171153620525600771?s=21) [[lists]](https://www.toodledo.com/)
 * [Time block / organization](https://twitter.com/sexchrlab/status/1089937322450202624) [[How I develop]](http://www.bioinformaticszen.com/post/how-i-develop/) [[`termdown`]](https://github.com/trehn/termdown) [["Stop Not Writing...Just one bad sentence after another."]](https://twitter.com/annelamott/status/1109477463015325696?s=21)
 * Focus on strengths, [tries](https://twitter.com/jenheemstra/status/1095313296230539265) & [past successes](https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html)
-* [Ask for feedback / understand why](https://ed.ted.com/featured/VdQTGGdx)
+* [Ask for feedback / understand why](https://ed.ted.com/featured/VdQTGGdx) 
 * [It is not personal](https://www.forbes.com/sites/glennllopis/2013/02/25/4-reasons-rejection-shouldnt-be-taken-personally/#685a0637180f)
 * `"the quote about the table of contents in a book"`
 * "find patterns and organize them" - my dad | [[How Bill Gates remembers what he reads]](https://www.youtube.com/watch?v=8xwh88cI_d8)
@@ -272,7 +276,7 @@ LATER
 * ["look for (the) positive" - my ophthalmologist (for 2/3 of my life)](https://youtu.be/8Cn2k1AyI1Y?t=105) <!-- it's 5 am and I just realized I forgot to reschedule my appointment -->
 * [Clear up what is missing in the project feedback/criticism](https://twitter.com/ZoeAncion/status/1107955823781781504)
   * vision+skills+incentives+ressources+action plan
-  * if it's "confusing" -> state the vision
+  * if it's "confusing" -> restate the vision
   * etc.
 - [ ] make new sub-heading on handling criticism + stuff FW said (e.g. "it's not always the technical stuff (code and etc)")
 
@@ -1124,7 +1128,7 @@ w/o deadlines
   * [`#scATAC`](https://twitter.com/hashtag/scATAC)
 * [`#bookdown`](https://twitter.com/search?q=%23bookdown&src=typd)
 * [`#pandastricks`](https://twitter.com/search?q=%23pandastricks&src=typd)
-* [`#TwoFunctionsMostDays`](https://twitter.com/hashtag/TwoFunctionsMostDays)
+* [`#TwoFunctionsMostDays`](https://twitter.com/hashtag/TwoFunctionsMostDays) 
 * #paperADay
 * #100daysOfCode
 * #100DaysOfMLCode
