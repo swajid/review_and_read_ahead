@@ -270,6 +270,11 @@ LATER
 * [How to Not Get Distracted](https://www.lifehack.org/articles/productivity/10-critical-tips-prevent-distraction-and-sharpen-your-focus.html)
 * [Troubleshooting lessons I guess I'll just relearn forever: take a break, it's almost certainly not a bug, extra eyes are awesome, spelling](https://twitter.com/allison_horst/status/1213275783675822080)
 * ["look for (the) positive" - my ophthalmologist (for 2/3 of my life)](https://youtu.be/8Cn2k1AyI1Y?t=105) <!-- it's 5 am and I just realized I forgot to reschedule my appointment -->
+* [Clear up what is missing in the project feedback/criticism](https://twitter.com/ZoeAncion/status/1107955823781781504)
+  * vision+skills+incentives+ressources+action plan
+  * if it's "confusing" -> state the vision
+  * etc.
+- [ ] make new sub-heading on handling criticism + stuff FW said (e.g. "it's not always the technical stuff (code and etc)")
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
