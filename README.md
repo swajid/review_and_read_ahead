@@ -118,7 +118,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -622,6 +622,10 @@ Data Science in Python
 * [Getting started with Python `datatable`](https://www.kaggle.com/sudalairajkumar/getting-started-with-python-datatable#Introduction)
 * [parallelize DataFrames, good use of '%time'](https://twitter.com/radekosmulski/status/1233337156883615744?s=21)
 
+Julia
+* [Interacting with nested data - Andy Ferris, JuliaCon 2018](https://www.youtube.com/watch?v=vWZzmV7mHiw)
+  * "strategies and tools for dealing with more complex nested data structures, the split-apply-combine paradigm, and working with relational data (tables)."
+
 Pipelines / batch job submission
 * [ngless](https://github.com/ngless-toolkit/ngless)
 * [luigi](https://github.com/spotify/luigi)
@@ -1108,6 +1112,7 @@ _add link of TOC_
 * [datacouncil.ai](https://www.youtube.com/user/g33ktalktv/videos)
 * [pydata](https://www.youtube.com/user/PyDataTV/videos)
 * [IEEE VGTC](https://vimeo.com/vgtcommunity)
+* [Julia](https://www.youtube.com/user/JuliaLanguage/videos)
 
 # Fellowships
 w/ deadlines
