@@ -118,7 +118,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -216,6 +216,7 @@ LATER
   * [[example 45: `git` internals]](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/)
   * [[example 46: an end-to-end analysis of missing data using `autoimpute` ]](https://kearnz.github.io/autoimpute-tutorials/)
   * [[example 47: a half-hour to learn rust]](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+  * [[example 48: scikit columntransformer]](https://twitter.com/justmarkham/status/1239900312862953473?s=21)
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
@@ -911,6 +912,10 @@ General Software Development
   * great example of writing notes (to self or for others) on how to expertly explain a programming language/concept `#designDocument`
   * way better than this format [[Learn X in Y minutes, where X = rust]](https://learnxinyminutes.com/docs/rust/)
   * tell time constraint team members, "this really long thing is going to take ~30 mins to read"
+
+Building/Leading (effective) Data Science Teams
+* [[On building effective data science teams]](https://twitter.com/kdnuggets/status/1237861113611468801?s=21)
+* [[2020 - Sofware Engineering at Google]](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 
 Data Backup
 * [[example from bioinformatics]](https://twitter.com/jacobphd/status/1139206934324604928?s=21)
