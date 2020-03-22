@@ -118,7 +118,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -164,7 +164,7 @@ LATER
 * [Deep work](https://www.youtube.com/watch?v=ZD7dXfdDPfg)
 * [[Good advice]](https://twitter.com/jenheemstra/status/1089147958757638144?s=21)
 * Following up
-* __1-page of notes__
+* __1-page of notes__ [[draw it out 1]](https://twitter.com/b0rk/status/1239566715790462977?s=20)
 * Expository notes/summaries - intended to explain informally, intuitive [["_Write the explanation you wish you’d found._"]](https://twitter.com/_brohrer_/status/1110526400933609472?s=21) / different ways of explaining/thinking about things / [[step-by-step explaination]](https://www.youtube.com/watch?v=Szi6Q7MBS8E&feature=youtu.be)
   * [[example 1: poisson distribution]](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
   * [[example 2: algorithms]](http://research.engineering.nyu.edu/~greg/algorithms/scribbles.pdf)
@@ -1262,4 +1262,15 @@ and tragedy, we can thank God for Bavarian sugar cookies. ... And we must rememb
 things, the nuances, the anomalies, the subtleties, which we assume only accessorize our days are, 
 in fact, here for a much larger and nobler cause." 
 - `Stranger than fiction (2006)`
+```
+
+
+```
+"Combine flour, sugar, baking powder and salt.
+In separate bowl, mix together egg, milk, vegetable oil and bananas.
+Stir flour mixture into banana mixture; batter will be a little lumpy.
+Heat a lightly oiled griddle or frying pan over medium high heat.
+Pour or scoop batter onto pan, using about 1/4 cup for each pancake.
+Cook until pancakes are golden brown on both sides."
+- comment on YT, recipe work in progress
 ```
