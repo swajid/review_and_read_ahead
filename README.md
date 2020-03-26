@@ -219,6 +219,8 @@ LATER
   * [[example 47: a half-hour to learn rust]](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
   * [[example 48: scikit columntransformer]](https://twitter.com/justmarkham/status/1239900312862953473?s=21)
   * [[example 49: container images - best explaination so far]](https://twitter.com/b0rk/status/1237464479811633154?s=21)
+  * [[example 50: visualizing a markov chain]](https://willhipson.netlify.com/post/markov-sim/markov_chain/)
+  * [[example 51: the elements of choosing colors for great data visualization in R]](http://www.sthda.com/english/wiki/the-elements-of-choosing-colors-for-great-data-visualization-in-r)
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
@@ -1243,7 +1245,7 @@ w/o deadlines
  - [ ] Measurements of Whole-Tissue versus Individual Cell Types
 
 * 2014 - [Evolutionary history of redox metal-binding domains across the tree of life](https://www.pnas.org/content/early/2014/04/25/1403676111.short)
-
+* 2011 - <!-- ln 18 in new private repos, pg 5, section 2.2.1 of ACM paper  -->
 * 2010 - [A Pipeline for Computational Historical Linguistics](https://www.bioinf.uni-leipzig.de/Publications/PREPRINTS/10-038.pdf) 
   * Not directly related to bio* but super interesting writing, figures, methods and references
   * [what is a cognate vs loan word](https://linguistics.stackexchange.com/questions/4667/is-a-loanword-also-a-cognate-or-are-the-two-terms-mutually-exclusive)
