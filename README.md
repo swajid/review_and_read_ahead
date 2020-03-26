@@ -5,12 +5,13 @@ _README.md and other *.md files have been and will continue to be open source, f
 Talks/Stream
 - [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
 - [ ] [1/27-30 rstudio::conf](https://rstudio.com/conference/) [slides](https://github.com/rstudio-conf-2020) [videos -- will watch Feb/17-21 && add important ones](https://twitter.com/imsanaw/status/1228473547770781698?s=20)
+- [ ] [3/28 DC satRday stream @ 8:30 am - 5pm](http://dc2020.netlify.com/)
 
 Books
-- [ ] [Bio/Recursion - An Exploration in R](https://leanpub.com/biorecursion) `#March`
+- [ ] [Bio/Recursion - An Exploration in R](https://leanpub.com/biorecursion) `#March` - `#April`
 
 
-@ myself!!! must update this page!!!! [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
+**@ myself!!! must update this page!!!!** [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
 
 * Each heading goes into a wiki/tl;dr page
 * Table of contents
@@ -896,6 +897,10 @@ Public Speaking / Presentations
 * :tv: [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [ ] write notes from this here (18 mins in)
 * [Explain how to make something that is really difficult: tell a story, add cultural/relevant history (the why) along the way, incremental steps, explain the effects of missing a step or variations etc.](https://www.youtube.com/watch?v=lMo34CPxICs&feature=youtu.be&t=13) [[background]](https://en.wikipedia.org/wiki/Nihari)
+
+Sci-art
+* <img src="./icons/svg/logo-twitter.svg" width="15" height="15"> [biorender](https://twitter.com/iamscicomm/status/1242903749896687617?s=21)
+* [R & stats illustrations by @allison_horst](https://github.com/allisonhorst/stats-illustrations)
 
 General Software Development
 * [Software sustainability + good discussion](https://twitter.com/lh3lh3/status/1125622809630334976)
