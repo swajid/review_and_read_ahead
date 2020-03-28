@@ -5,7 +5,7 @@ _README.md and other *.md files have been and will continue to be open source, f
 Talks/Stream
 - [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
 - [ ] [1/27-30 rstudio::conf](https://rstudio.com/conference/) [slides](https://github.com/rstudio-conf-2020) [videos -- will watch Feb/17-21 && add important ones](https://twitter.com/imsanaw/status/1228473547770781698?s=20)
-- [ ] [3/28 DC satRday stream @ 8:30 am - 5pm](http://dc2020.netlify.com/)
+- [ ] [3/28 DC satRday stream @ 8:30 am - 5pm](http://dc2020.netlify.com/) -- too busy, will miss this, hopefully slides/videos will be up
 
 Books
 - [ ] [Bio/Recursion - An Exploration in R](https://leanpub.com/biorecursion) `#March` - `#April`
@@ -746,6 +746,8 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [:bar_chart: Create Time Series Heat Maps Using A Pandas Extension](https://medium.com/pandex-journal/create-time-series-heat-maps-using-a-pandas-extension-dff41df1d393)
 * [:bar_chart: `calmap` Calendar heatmaps from Pandas time-series data](https://pythonhosted.org/calmap/)
 * [:bar_chart: `ggridges` + print example 2](https://twitter.com/duc_qn/status/1234425406847148032?s=20) <!-- good for energy & meter data -->
+* [Find the interaction of overlapping histograms](https://twitter.com/rbloggers/status/1243712976571564032?s=21)
+* [Plot outliers and their values](https://www.r-bloggers.com/plot-outliers-and-their-values/)
 
 Data Shaping
 * split-combine stuff
