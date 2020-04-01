@@ -1219,7 +1219,6 @@ w/o deadlines
 * 2019 - [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 * 2019 - [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 * 2019 - [Assessment of computational methods for the analysis of single-cell ATAC-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1854-5)
-* 2019 - [Calling Variants in the Clinic: Informed Variant Calling Decisions Based on Biological, Clinical, and Laboratory Variables](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6482431/) <!-- note to self, cite this and other paper in email answers -->
 
 # 2018
 * 2018 - [Biomedical informatics meets data science: current state and future directions for interaction](https://academic.oup.com/jamiaopen/article/1/2/136/5068667)
