@@ -1,6 +1,7 @@
 # swajid_intro
 
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
+<details>
 
 Talks/Stream
 - [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
@@ -37,6 +38,7 @@ Books
 (11/)
 - [ ] [kaggle etc + R](https://twitter.com/kearneymw/status/1179624013305221120?s=21)
 
+</details>
 
 
 ~ Icon Rules:
@@ -112,11 +114,13 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 // [[__To Do__]](https://twitter.com/erinfranmc/status/1151885447712387073?s=21)
 
+<details>
 
 - [ ] (test these:) [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) && [bash-it](https://github.com/Bash-it/bash-it)
 - [ ] make notes/cheat sheet like this (good article:[3 tidyverse tricks for most commonly used Excel Features](https://www.programmingwithr.com/3-tidyverse-tricks-for-most-commonly-used-excel-features/)) [[perl one liners]](https://gist.github.com/joyrexus/7328094) [[bash one liners]](http://www.bashoneliners.com/) [[python one liners]](https://blog.finxter.com/10-python-one-liners/)
 - [ ] find article about abstraction in programming
 
+</details>
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
 <!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY cool riff -->
@@ -124,6 +128,9 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
+
+
+<details>
 
 `"Just do some practice problems - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
 - [ ] [1. review calc](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) + [book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
@@ -146,6 +153,8 @@ LATER
 - [ ] __Good end of chapter exercises__ :dart: [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) && :dart: * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/)
 
 - [ ] ? Update old coding projects
+
+</details>
 
 
 # What works
