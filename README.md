@@ -1097,6 +1097,9 @@ Experienced-based debugging
 JavaScript (one day, noticing community and uses are more interesting now but no need yet, but one day)
 * [motivation](https://twitter.com/vboykis/status/1234200283493826563?s=21)
 
+Cool stuff to make one day
+* [pacific crest trail, 360](https://youtu.be/dvBum8G4fts)
+
 # O'Reilly / Reference Books
 _add link of TOC_
 * [Classic Shell Scripting]()
