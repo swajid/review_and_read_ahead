@@ -902,6 +902,7 @@ Teamwork & Diversity
 * [utopia](https://twitter.com/alexwilliams/status/1125939709199491073)
 * [Sustainability of open source (in R)](https://twitter.com/juliasilge/status/1134156659721244673)
 * [The anti-CEO playbook](https://www.ted.com/talks/hamdi_ulukaya_the_anti_ceo_playbook/transcript?language=en#t-1023746)
+* [Take on hard projects](https://twitter.com/b0rk/status/1249024380874752001?s=20)
 
 Public Speaking / Presentations
 * [How to Speak in Public](https://www.nytimes.com/guides/year-of-living-better/how-to-speak-in-public)
@@ -932,6 +933,8 @@ General Software Development
   * great example of writing notes (to self or for others) on how to expertly explain a programming language/concept `#designDocument`
   * way better than this format [[Learn X in Y minutes, where X = rust]](https://learnxinyminutes.com/docs/rust/)
   * tell time constraint team members, "this really long thing is going to take ~30 mins to read"
+* [Software Licenses](https://twitter.com/Rbloggers/status/1250973315377901570?s=20)
+
 
 Building/Leading (effective) Data Science Teams
 * [[On building effective data science teams]](https://twitter.com/kdnuggets/status/1237861113611468801?s=21)
@@ -1101,6 +1104,10 @@ JavaScript (one day, noticing community and uses are more interesting now but no
 Cool stuff to make one day
 * [pacific crest trail, 360](https://youtu.be/dvBum8G4fts)
 
+Non-programming or science related super interesting or super rare perspectives + good (speech) writing
+* [Dave Grohl South By Southwest (SXSW) 2013 Keynote Speech (49 mins)](https://www.youtube.com/watch?v=Efv0Y5Fs7m4)
+
+
 # O'Reilly / Reference Books
 _add link of TOC_
 * [Classic Shell Scripting]()
@@ -1198,7 +1205,8 @@ w/o deadlines
     8. Evaluate with MCC or PR curve
     9. Use open source tooling
     10. Ask for help (experts, stackoverflow)
-```
+``
+
 # 2020
 
 * 
