@@ -1097,6 +1097,7 @@ Experienced-based debugging
 * [R Inferno](https://www.burns-stat.com/documents/books/the-r-inferno/)
 * [The Hitchhiker’s Guide to Python - Common Gotchas](https://docs.python-guide.org/writing/gotchas/)
 * [:tv: Learning from eight years of data science mistakes - Caitlin Hudon](https://www.youtube.com/watch?v=O5lP6XcopdQ)
+* ["from learning what other people once discovered to making your own discoveries. The more comfortable we become with being stupid, the deeper we will wade into the unknown and the more likely we are to make big discoveries."](https://jcs.biologists.org/content/121/11/1771)
 
 JavaScript (one day, noticing community and uses are more interesting now but no need yet, but one day)
 * [motivation](https://twitter.com/vboykis/status/1234200283493826563?s=21)
@@ -1104,7 +1105,7 @@ JavaScript (one day, noticing community and uses are more interesting now but no
 Cool stuff to make one day
 * [pacific crest trail, 360](https://youtu.be/dvBum8G4fts)
 
-Non-programming or science related super interesting or super rare perspectives + good (speech) writing
+Non-programming or non-science related super interesting or super rare perspectives + good (speech) writing
 * [Dave Grohl South By Southwest (SXSW) 2013 Keynote Speech (49 mins)](https://www.youtube.com/watch?v=Efv0Y5Fs7m4)
 
 
