@@ -1178,6 +1178,7 @@ w/o deadlines
 <!-- (>>>> jxi17F3z0Xw <<<<) (zxg8zHmJ32o?t=162 kXY8o-fGcQY thiXTX7Fm9w?t=148 xulQbwSygfI mK1009lg4iY LHb95DdjcEg) -->
 
 # Papers
+
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
 * [[CS papers]](https://github.com/papers-we-love/papers-we-love) 
 * [[medRxiv]](http://medrxiv.org) [[twitter bot]](https://twitter.com/medrxivpreprint)
@@ -1191,6 +1192,7 @@ w/o deadlines
 * [[Statistics for Biologists]](https://www.nature.com/collections/qghhqm)
 * [[IEEE Journal of Biomedical and Health Informatics]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8752487&punumber=6221020)
 * [[IEEE Transactions on Visualization and Computer Graphics]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+* [[Briefings in Bioinformatics]](https://academic.oup.com/bib)
 
 //Turn this into a table with emojis+notes or shading: CS, Bioinfo, etc.
 
@@ -1206,7 +1208,7 @@ w/o deadlines
     8. Evaluate with MCC or PR curve
     9. Use open source tooling
     10. Ask for help (experts, stackoverflow)
-``
+```
 
 # 2020
 
@@ -1219,6 +1221,7 @@ w/o deadlines
 
 
 # 2019
+
 * 2019 - [Massive single-cell RNA-seq analysis and imputation via deep learning](https://www.biorxiv.org/content/10.1101/315556v4)
 * 2019 - [Single-Cell Multi-omics: An Engine for New Quantitative Models of Gene Regulation](https://www.ncbi.nlm.nih.gov/pubmed/30007833)
 * 2019 - [The Role of Non-coding RNAs in Oncology](https://www.cell.com/cell/fulltext/S0092-8674(19)31167-5)
@@ -1252,6 +1255,7 @@ w/o deadlines
 * 2018 - [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 * 2018 - [Applications of crowdsourcing in health: an overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840433/)
 * 2018 - [Enter the Matrix: Factorization Uncovers Knowledge from Omics](https://www.cell.com/trends/genetics/fulltext/S0168-9525(18)30124-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952518301240%3Fshowall%3Dtrue) `#scRNA`
+* 2018 - [BioGraph: a web application and a graph database for querying and analyzing bioinformatics resources](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0616-4)
 
 # 2017
 * 2017 - [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) `#pdf`
@@ -1267,6 +1271,8 @@ w/o deadlines
  - [ ] Figure 4. Protein Level Buffering of Expression Variability at Multiple Scales
  - [ ] Measurements of Whole-Tissue versus Individual Cell Types
 
+
+* 2015 - [A primer on precision medicine informatics](https://academic.oup.com/bib/article/17/1/145/1742822)
 * 2014 - [Evolutionary history of redox metal-binding domains across the tree of life](https://www.pnas.org/content/early/2014/04/25/1403676111.short)
 * 2011 - <!-- ln 18 in new private repos, pg 5, section 2.2.1 of ACM paper  -->
 * 2010 - [A Pipeline for Computational Historical Linguistics](https://www.bioinf.uni-leipzig.de/Publications/PREPRINTS/10-038.pdf) 
