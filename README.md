@@ -758,6 +758,9 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [:bar_chart: `ggridges` + print example 2](https://twitter.com/duc_qn/status/1234425406847148032?s=20) <!-- good for energy & meter data -->
 * [Find the interaction of overlapping histograms](https://twitter.com/rbloggers/status/1243712976571564032?s=21)
 * [Plot outliers and their values](https://www.r-bloggers.com/plot-outliers-and-their-values/)
+* [Decision tree results heatmap](https://twitter.com/moorejh/status/1252319501888126976?s=20)
+* [Interactive ggridges + ggiraph (tooltip) + ggtext (pic and annotations)](https://twitter.com/duc_qn/status/1234419505494970368?s=20)
+* [Interaction plot in ggplot2 using `geom_diagonal_wide`](https://twitter.com/spren9er/status/1251825439330500609?s=20)
 
 Data Shaping
 * split-combine stuff
