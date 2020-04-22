@@ -915,6 +915,7 @@ Public Speaking / Presentations
 * :tv: [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [ ] write notes from this here (18 mins in)
 * [Explain how to make something that is really difficult: tell a story, add cultural/relevant history (the why) along the way, incremental steps, explain the effects of missing a step or variations etc.](https://www.youtube.com/watch?v=lMo34CPxICs&feature=youtu.be&t=13) [[background]](https://en.wikipedia.org/wiki/Nihari)
+* [Show examples of test cases and complexities - "The simple task of recognizing a stop sign is harder than we can imagine"](https://twitter.com/hardmaru/status/1252768723976335360?s=21)
 
 Sci-art
 * <img src="./icons/svg/logo-twitter.svg" width="15" height="15"> [biorender](https://twitter.com/iamscicomm/status/1242903749896687617?s=21)
@@ -1029,7 +1030,7 @@ Developing Workshops/Bioinformatics/Process Of/etc
   * see [proj structure](https://github.com/liulab-dfci/MAESTRO/tree/master/MAESTRO)
 * ["current list is 31 scRNA-seq (analysis method) benchmarks:"](https://twitter.com/markrobinsonca/status/1221903274678333441?s=21)
 
-Peak Calling
+Peak Calling '* see stop sign example*
 * [`Graph Peak Caller` - ChIP-seq peak caller for reads mapped to a graph-based reference genome](https://github.com/uio-bmi/graph_peak_caller) `#py` + `#pytest`
 <!-- self todo: read code https://github.com/uio-bmi/graph_peak_caller/tree/master/graph_peak_caller --> 
 * ["what tools are good for predicting scATAC peaks' target genes? `#scATAC`"](https://twitter.com/tangming2005/status/1221868274356408320?s=21)
@@ -1111,6 +1112,8 @@ Cool stuff to make one day
 Non-programming or non-science related super interesting or super rare perspectives + good (speech) writing
 * [Dave Grohl South By Southwest (SXSW) 2013 Keynote Speech (49 mins)](https://www.youtube.com/watch?v=Efv0Y5Fs7m4)
 
+[Illustrations](https://twitter.com/nathanwpyle/status/1252249727556636673?s=21) '* book stuff'
+* [k-means](https://twitter.com/allison_horst/status/1250477975130140672?s=21)
 
 # O'Reilly / Reference Books
 _add link of TOC_
