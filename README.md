@@ -1096,6 +1096,7 @@ API/documentation
 * [RnBeads - Comprehensive analysis of DNA methylation data](https://rnbeads.org/tutorial.html)
 * [`ggparty` package wiki - aims to extend ggplot2 functionality to the partykit package](https://github.com/martin-borkovec/ggparty/wiki)
 * [Presentation on `santoku` an R package for cutting data, using clever gifs and etc.](https://rpubs.com/dash2/santoku)
+* [ComplexHeatmap Complete Reference](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
 
 Experienced-based debugging
 * [R Inferno](https://www.burns-stat.com/documents/books/the-r-inferno/)
@@ -1228,6 +1229,7 @@ w/o deadlines
 
 # 2019
 
+* 2019 - [Cloudy with a Chance of Insights: Context Dependent Gene Regulation and Implications for Evolutionary Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6678813/)
 * 2019 - [Massive single-cell RNA-seq analysis and imputation via deep learning](https://www.biorxiv.org/content/10.1101/315556v4)
 * 2019 - [Single-Cell Multi-omics: An Engine for New Quantitative Models of Gene Regulation](https://www.ncbi.nlm.nih.gov/pubmed/30007833)
 * 2019 - [The Role of Non-coding RNAs in Oncology](https://www.cell.com/cell/fulltext/S0092-8674(19)31167-5)
