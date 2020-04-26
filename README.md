@@ -1289,6 +1289,14 @@ w/o deadlines
   * [cognate in biology: "A term borrowed from linguistics, signifying a correspondence; e.g. a receptor and its cognate ligand, a tRNA and its cognate amino acid."](https://biology.stackexchange.com/questions/55620/meaning-of-cognate-genes-encode-the-basic-biological-functions-of-proteins)
   * [Review: sequence alignment algorithms in bioinformatics](https://en.wikipedia.org/wiki/Sequence_alignment)
 
+* 2009 - [Evolution of Genome Architecture](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272702/)
+```
+Fig. 4. The evolutionary forces affecting genome architecture
+Entropy of genome architecture
+Forces increasing disorder: recombination, deletion, HGT
+Forces increasing order: selection for clustering of functionally clustered genes, global trends (fig is cut off)
+```
+
 * 2008 - [On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
 
 * 2008 - [Seeking a New Biology through Text Mining (!!)](https://www.sciencedirect.com/science/article/pii/S0092867408008167)
