@@ -294,6 +294,8 @@ LATER
   * etc.
 - [ ] make new sub-heading on handling criticism + stuff FW said (e.g. "it's not always the technical stuff (code and etc)")
 * [Outline of best practices 1](https://twitter.com/rbloggers/status/1250147871938265088?s=21)
+* ["Read old books no one talks about."](https://twitter.com/orangebook_/status/1229093575453036546?s=21) <!-- see references read/cited in the homology paper -->
+
 
 # What doesn't
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
