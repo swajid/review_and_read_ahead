@@ -136,7 +136,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 - [ ] [1. review calc](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) + [book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
 - [ ] [2. review stats](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/) _also see stats links_
 - [ ] [~~3. math for programmers~~](https://www.manning.com/books/math-for-programmers)
-- [ ] 3. [principles of data science -- best math review book ever IMO](https://www.packtpub.com/big-data-and-business-intelligence/principles-data-science)
+- [ ] 3. [principles of data science -- best math review book ever IMO](https://www.packtpub.com/big-data-and-business-intelligence/principles-data-science) [keras doc](https://twitter.com/fchollet/status/1255634957931704321?s=21)
 - [ ] 4. [a programmer's introduction to mathematics](https://gumroad.com/l/pim-book)
 - [ ] [others](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics&subcat=probabilityandstatistics)
 
@@ -551,6 +551,9 @@ April 2nd -->
  - [ ] YT -> [Pythonic Objects: implementing productive APIs with the Python Data Model](https://www.youtube.com/watch?v=k55d3ZUF3ZQ)
  
 - [ ] "method order resolution" "C3"
+
+Rstudio IDE, related, what makes R unique
+* [datapasta](https://twitter.com/icymi_r/status/1255599264039866369?s=21)
 
 
 # Newer un/familar stuff
@@ -1079,7 +1082,7 @@ Color/UI
 * [Star Wars: Rogue One UI design](https://www.hudsandguis.com/home/2017/3/7/rogue-one-ui)
 * [uiGradients](https://github.com/Ghosh/uiGradients)
 
-Dashboards
+Dashboards [super quick, shinybones](https://twitter.com/drob/status/1255577778231050249?s=21)
 * :tv: [InfoVis 2018: What Do We Talk About When We Talk About Dashboards?](https://vimeo.com/299862354)
 * [Panel: A high-level app and dashboarding solution for the PyData ecosystem.](https://twitter.com/pwang/status/1135607322112405504) -> ["Comparison to other dashboarding and widget libraries"](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)
 * ["Any recommendations for books about creating effective dashboards?"](https://twitter.com/hadleywickham/status/1133813298502279168)
