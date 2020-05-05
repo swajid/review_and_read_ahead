@@ -7,6 +7,7 @@ Talks/Stream
 - [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
 - [ ] [1/27-30 rstudio::conf](https://rstudio.com/conference/) [slides](https://github.com/rstudio-conf-2020) [videos -- will watch Feb/17-21 && add important ones](https://twitter.com/imsanaw/status/1228473547770781698?s=20)
 - [ ] [3/28 DC satRday stream @ 8:30 am - 5pm](http://dc2020.netlify.com/) -- too busy, will miss this, hopefully slides/videos will be up
+- [ ] [7/6 SciPy 2020](https://www.scipy2020.scipy.org/schedule)
 
 Books
 - [ ] [Bio/Recursion - An Exploration in R](https://leanpub.com/biorecursion) `#March` - `#April`
@@ -1140,7 +1141,7 @@ _add link of TOC_
 * :green_book:[Orchestrating Single-Cell Analysis with Bioconductor (2019)](https://osca.bioconductor.org/)
 * :green_book:[Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 * :green_book:[ggplot2 3rd Edition](https://twitter.com/hadleywickham/status/1164977547660017664?s=21)
-
+* :green_book:[Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)
 
 # Meetups, Groups and Communities
 * [RLadies](https://rladies.org/)
