@@ -775,6 +775,9 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [Interactive ggridges + ggiraph (tooltip) + ggtext (pic and annotations)](https://twitter.com/duc_qn/status/1234419505494970368?s=20)
 * [Interaction plot in ggplot2 using `geom_diagonal_wide`](https://twitter.com/spren9er/status/1251825439330500609?s=20)
 
+Heatmaps
+* [Translate from pheatmap to ComplexHeatmap](https://jokergoo.github.io/2020/05/06/translate-from-pheatmap-to-complexheatmap/)
+
 Data Shaping
 * split-combine stuff
 * [Translating an analysis from R to Python](https://twitter.com/chowthedog/status/1229801452354330625?s=20)
