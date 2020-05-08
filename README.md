@@ -1182,6 +1182,9 @@ w/o deadlines
 * [Graduate Student Fellowships & Aid](http://www.cis.upenn.edu/prospective-students/graduate/aid.php)
 * [External Fellowships for Doctoral Students](https://cs.nyu.edu/home/phd/fellowships.html)
 
+# Packages
+* [Bioconductor::CRISPR](https://www.google.com/search?q=crispr%20site%3Abioconductor.org&oq=biocon&aqs=chrome.1.69i57j0l5j69i60l2.3359j0j7&sourceid=chrome&ie=UTF-8&ved=2ahUKEwiEgJXK_6PpAhXYlnIEHf-sDZ0Q2wF6BAgMEAg&ei=LCy1XoS6C9itytMP_9m26Ak)
+
 # Slides
 
 # Science/Programming/Bioinformatics Hashtags
@@ -1298,7 +1301,11 @@ w/o deadlines
 
 * 2015 - [A primer on precision medicine informatics](https://academic.oup.com/bib/article/17/1/145/1742822)
 * 2014 - [Evolutionary history of redox metal-binding domains across the tree of life](https://www.pnas.org/content/early/2014/04/25/1403676111.short)
-* 2011 - <!-- ln 18 in new private repos, pg 5, section 2.2.1 of ACM paper  -->
+
+* 2012 - [A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity](https://www.ncbi.nlm.nih.gov/pubmed/22745249) <!-- original CRISPR paper I think -->
+
+
+* 2011 - <!-- ln 18 in new private repos, pg 5, section 2.2.1 of ACM paper;  -->
 * 2010 - [A Pipeline for Computational Historical Linguistics](https://www.bioinf.uni-leipzig.de/Publications/PREPRINTS/10-038.pdf) 
   * Not directly related to bio* but super interesting writing, figures, methods and references
   * [what is a cognate vs loan word](https://linguistics.stackexchange.com/questions/4667/is-a-loanword-also-a-cognate-or-are-the-two-terms-mutually-exclusive)
