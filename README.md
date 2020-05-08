@@ -1294,7 +1294,7 @@ w/o deadlines
 * 2016 - [On the Dependency of Cellular Protein Levels on mRNA Abundance](https://www.cell.com/cell/pdf/S0092-8674(16)30270-7.pdf) `#interesting`
  - [ ] Figure 4. Protein Level Buffering of Expression Variability at Multiple Scales
  - [ ] Measurements of Whole-Tissue versus Individual Cell Types
-
+* 2016 - [Tracking translation one mRNA at a time](https://www.nature.com/articles/nbt.3632?proof=trueNov)
 
 * 2015 - [A primer on precision medicine informatics](https://academic.oup.com/bib/article/17/1/145/1742822)
 * 2014 - [Evolutionary history of redox metal-binding domains across the tree of life](https://www.pnas.org/content/early/2014/04/25/1403676111.short)
