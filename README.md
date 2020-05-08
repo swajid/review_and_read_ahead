@@ -10,7 +10,7 @@ Talks/Stream
 - [ ] [7/6 SciPy 2020](https://www.scipy2020.scipy.org/schedule)
 
 Books
-- [ ] [Bio/Recursion - An Exploration in R](https://leanpub.com/biorecursion) `#March` - `#April`
+- [ ] [Bio/Recursion - An Exploration in R](https://leanpub.com/biorecursion) `#April` - `#May`
 
 
 **@ myself!!! must update this page!!!!** [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
@@ -176,7 +176,14 @@ LATER
 * [[Good advice]](https://twitter.com/jenheemstra/status/1089147958757638144?s=21)
 * Following up
 * __1-page of notes__ [[draw it out 1]](https://twitter.com/b0rk/status/1239566715790462977?s=20)
-* Expository notes/summaries - intended to explain informally, intuitive [["_Write the explanation you wish you’d found._"]](https://twitter.com/_brohrer_/status/1110526400933609472?s=21) / different ways of explaining/thinking about things / [[step-by-step explaination]](https://www.youtube.com/watch?v=Szi6Q7MBS8E&feature=youtu.be)
+* Expository notes/summaries - intended to explain informally, intuitive [["_Write the explanation you wish you’d found._"]](https://twitter.com/_brohrer_/status/1110526400933609472?s=21) 
+```
+   1. Find some thing that confuses you.
+   2. Look for a clear explanation and fail to find one.
+   3. Learn about the thing by using it.
+   4. Write the explanation you wish you’d found.
+```
+* different ways of explaining/thinking about things / [[step-by-step explaination]](https://www.youtube.com/watch?v=Szi6Q7MBS8E&feature=youtu.be)
   * [[example 1: poisson distribution]](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
   * [[example 2: algorithms]](http://research.engineering.nyu.edu/~greg/algorithms/scribbles.pdf)
   * [[example 3: code documentation]](https://twitter.com/dan_abramov/status/1101408462901334016?s=21)
