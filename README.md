@@ -1155,6 +1155,8 @@ Cool stuff to make one day
 
 Non-programming or non-science related super interesting or super rare perspectives + good (speech) writing
 * [Dave Grohl South By Southwest (SXSW) 2013 Keynote Speech (49 mins)](https://www.youtube.com/watch?v=Efv0Y5Fs7m4)
+<!-- non-sh*tty fun things -->
+* [Adventure Time quotes](https://github.com/agudulin/at-quotes)
 
 [Illustrations](https://twitter.com/nathanwpyle/status/1252249727556636673?s=21) '* book stuff'
 * [k-means](https://twitter.com/allison_horst/status/1250477975130140672?s=21)
