@@ -732,6 +732,33 @@ Text (mining) in R
 * [`RVerbalExpressions` - building regex in R using `%>%`](https://twitter.com/strnr/status/1173736067532558342)
 * [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/)
 
+Optimization in R (usually using Rcpp)
+* [Creating a data.table from C++](https://gallery.rcpp.org//articles/creating-a-datatable-in-rcpp/)
+```
+Essentially two steps have to be taken:
+
+set the S3 class of the object to "data.table", "data.frame" in Rcpp
+
+  Rcpp::List create_data_table() {
+      Rcpp::List res;
+
+      // Populate the list
+      // ...
+
+      res.attr("class") = Rcpp::CharacterVector::create("data.table", "data.frame");
+      return res;
+  }
+
+in R call the data.table::setalloccol(df) function on the “partial” data.table
+
+  foo <- function() {
+      dt <- create_data_table()
+      dt <- data.table::setalloccol(dt)
+      return(dt)
+  }
+
+```
+
 Units of measurement
 * [`units`: Measurement Units for R Vectors](https://cran.r-project.org/web/packages/units/vignettes/measurement_units_in_R.html)
 * [`pint`: makes units easy](https://pint.readthedocs.io/en/0.9/) `#py`
@@ -1131,6 +1158,7 @@ Non-programming or non-science related super interesting or super rare perspecti
 
 [Illustrations](https://twitter.com/nathanwpyle/status/1252249727556636673?s=21) '* book stuff'
 * [k-means](https://twitter.com/allison_horst/status/1250477975130140672?s=21)
+* [`ggrepel`](https://twitter.com/allison_horst/status/1258600276098871296?s=20)
 
 # O'Reilly / Reference Books
 _add link of TOC_
