@@ -1328,6 +1328,7 @@ w/o deadlines
  - [ ] Figure 4. Protein Level Buffering of Expression Variability at Multiple Scales
  - [ ] Measurements of Whole-Tissue versus Individual Cell Types
 * 2016 - [Tracking translation one mRNA at a time](https://www.nature.com/articles/nbt.3632?proof=trueNov)
+* 2016 - [Dissecting Immune Circuits by Linking CRISPR-Pooled Screens with Single-Cell RNA-Seq](https://www.sciencedirect.com/science/article/pii/S0092867416316117)
 
 * 2015 - [A primer on precision medicine informatics](https://academic.oup.com/bib/article/17/1/145/1742822)
 * 2014 - [Evolutionary history of redox metal-binding domains across the tree of life](https://www.pnas.org/content/early/2014/04/25/1403676111.short)
