@@ -1331,6 +1331,7 @@ w/o deadlines
 
 * 2015 - [A primer on precision medicine informatics](https://academic.oup.com/bib/article/17/1/145/1742822)
 * 2014 - [Evolutionary history of redox metal-binding domains across the tree of life](https://www.pnas.org/content/early/2014/04/25/1403676111.short)
+* 2014 - [The grammar of transcriptional regulation](https://link.springer.com/article/10.1007/s00439-013-1413-1)
 
 * 2012 - [A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity](https://www.ncbi.nlm.nih.gov/pubmed/22745249) <!-- original CRISPR paper I think -->
 
