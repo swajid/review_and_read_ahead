@@ -809,6 +809,10 @@ Data Shaping
 * split-combine stuff
 * [Translating an analysis from R to Python](https://twitter.com/chowthedog/status/1229801452354330625?s=20)
 
+Data Validation (not SQL)
+* [`pointblank` - enables are data quality reporting and pipeline-based data validations (Rstats)](https://github.com/rich-iannone/pointblank)
+* [`cerberus` - simply invoke the validate() to validate a dictionary against the schema (Python)](https://docs.python-cerberus.org/en/stable/)
+
 :globe_with_meridians: Geo stuff
 
 Projecting ggplot2 from 2D to 3D
