@@ -68,7 +68,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 * Be yourself (don't stay the same)
 
-* You just have to be the best representation of yourself (the rest you can't worry about too much)
+* ---> You just have to be the best representation of yourself <--- (the rest you can't worry about too much)
 
 * Set a deadline for yourself and after that passes, move on to the next thing (in context of working 
   on multiple projects/things at one time)
@@ -1157,10 +1157,11 @@ JavaScript (one day, noticing community and uses are more interesting now but no
 Cool stuff to make one day
 * [pacific crest trail, 360](https://youtu.be/dvBum8G4fts)
 
-Non-programming or non-science related super interesting or super rare perspectives + good (speech) writing
-* [Dave Grohl South By Southwest (SXSW) 2013 Keynote Speech (49 mins)](https://www.youtube.com/watch?v=Efv0Y5Fs7m4)
+Non-programming or non-science related super interesting or super rare perspectives + good (speech) writing, super important
+* [Dave Grohl South By Southwest (SXSW) 2013 Keynote Speech (49 mins)](https://www.youtube.com/watch?v=Efv0Y5Fs7m4) <!-- * -->
 <!-- non-sh*tty fun things -->
 * [Adventure Time quotes](https://github.com/agudulin/at-quotes)
+* 
 
 [Illustrations](https://twitter.com/nathanwpyle/status/1252249727556636673?s=21) '* book stuff'
 * [k-means](https://twitter.com/allison_horst/status/1250477975130140672?s=21)
