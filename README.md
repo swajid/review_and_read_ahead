@@ -126,7 +126,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 </details>
 
-<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
+<!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance sudais <3 -->
 <!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
@@ -667,6 +667,7 @@ Pipelines / batch job submission
 * [`snakePipes` facilitating flexible, scalable and integrative epigenomic analysis](https://twitter.com/strnr/status/1150759428204957698?s=21)
 * [Multi Process Task Queue in 100 Lines of R Code](https://twitter.com/GaborCsardi/status/1171052506060918784)
 * [Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.](https://flyte.org/)
+* [`tidylog`](https://www.r-bloggers.com/tidylog-logging-your-pipelines/)
 
 Webcrawlers
 * [Open source web crawlers](https://en.wikipedia.org/wiki/Web_crawler#Open-source_crawlers)
@@ -1247,8 +1248,8 @@ w/o deadlines
 
 <!-- (>>>> jxi17F3z0Xw <<<<) (zxg8zHmJ32o?t=162 kXY8o-fGcQY thiXTX7Fm9w?t=148 xulQbwSygfI mK1009lg4iY LHb95DdjcEg) -->
 
-# Papers
-R - review
+# Papers/Projects
+R - review, P - paper, D - dashboard, C - code, P - plot
 
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
 * [[CS papers]](https://github.com/papers-we-love/papers-we-love) 
@@ -1398,6 +1399,7 @@ testing format
 </details>
 
 ## Python
+* Ch5 from Python for Bioinformatics: Predicates, Action, Action Support (types of functions)
 * Iterators
 
 ```
