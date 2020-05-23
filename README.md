@@ -20,7 +20,7 @@ Stuff
 I will keep this as one long document because that is what works for ME (the author and reader of this document) ; 
 duplicated lines are also OKAY ;  
 although it is open source, it is stuff that I ENJOY ; 
-otherwise, here is a more official one: https://github.com/harvardinformatics/learning-bioinformatics-at-home 
+otherwise, here is a more official one: https://github.com/harvardinformatics/learning-bioinformatics-at-home or build/make your own list of resources
 --->
 
 **@ myself!!! must update this page!!!!** [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
@@ -119,7 +119,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 ![Asking Questions](img/asking_questions.jpeg)
 
 
-[[Venn Diagram of everything]](https://twitter.com/DocUrbs/status/1007375834347376642) | [[Another visualization]](https://dcl-2018-04.github.io/curriculum/) | [[Data science is different now: "Concentrate on a single bird"]](https://veekaybee.github.io/2019/02/13/data-science-is-different/) | [The Modern Open-Source Data Science/Machine Learning Ecosystem](https://www.kdnuggets.com/2019/06/top-data-science-machine-learning-tools.html)
+[[<img src="./icons/svg/logo-twitter.svg" width="15" height="15"> Venn Diagram of everything (6/14/18)]](https://twitter.com/DocUrbs/status/1007375834347376642) | [[Another visualization]](https://dcl-2018-04.github.io/curriculum/) | [[Data science is different now: "Concentrate on a single bird"]](https://veekaybee.github.io/2019/02/13/data-science-is-different/) | [The Modern Open-Source Data Science/Machine Learning Ecosystem](https://www.kdnuggets.com/2019/06/top-data-science-machine-learning-tools.html)
 
 [[Learn X in Y minutes]](https://learnxinyminutes.com/) | [[101 Machine Learning Algorithms for Data Science (in R)]](https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/)
 
@@ -1159,6 +1159,9 @@ API/documentation
 * [Presentation on `santoku` an R package for cutting data, using clever gifs and etc.](https://rpubs.com/dash2/santoku)
 * [ComplexHeatmap Complete Reference](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
 
+Data Compression
+* 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
+
 Experienced-based debugging
 * [R Inferno](https://www.burns-stat.com/documents/books/the-r-inferno/)
 * [The Hitchhiker’s Guide to Python - Common Gotchas](https://docs.python-guide.org/writing/gotchas/)
@@ -1291,12 +1294,10 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 
 # 2020
 
-* 
 * 2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full)
  - [ ] ? [protospacer](https://en.wikipedia.org/wiki/Protospacer_adjacent_motif)
  - [ ] fig 4a - neural network predictions of sgRNA activity
  - [ ] ? ["UMIs per cell gene expression"](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/algorithms/overview)
-
 
 
 # 2019
