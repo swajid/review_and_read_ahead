@@ -14,7 +14,14 @@ Books
 
 Stuff
 - [ ] [make own `%>%`'s for stuff like this project, `tidybulk`](https://github.com/stemangiola/tidybulk) <!-- (no offense to the author(s)'s hard work) soapbox: great idea for intro but I personally wouldn't use the tidyverse with bioinformatics b/c bioconductor is already complicated enough BUT this is a good way to write WRAPPER functions/pipes to "tidyize" (i.e. make the code cleaner to read) BASE (non-tidyverse) R code --> 
-- [ ] add to code chunks/templates on bottom (old/new code, notes on Perl from bioinfo etc.) <!-- keep as one long document because that is what works for ME ; duplicated lines are also OKAY -->
+- [ ] add to code chunks/templates on bottom (old/new code, notes on Perl from bioinfo etc.) 
+
+<!-- 
+I will keep this as one long document because that is what works for ME (the author and reader of this document) ; 
+duplicated lines are also OKAY ;  
+although it is open source, it is stuff that I ENJOY ; 
+otherwise, here is a more official one: https://github.com/harvardinformatics/learning-bioinformatics-at-home 
+--->
 
 **@ myself!!! must update this page!!!!** [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
 
