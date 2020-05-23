@@ -14,6 +14,7 @@ Books
 
 Stuff
 - [ ] [make own `%>%`'s for stuff like this project, `tidybulk`](https://github.com/stemangiola/tidybulk) <!-- (no offense to the author(s)'s hard work) soapbox: great idea for intro but I personally wouldn't use the tidyverse with bioinformatics b/c bioconductor is already complicated enough BUT this is a good way to write WRAPPER functions/pipes to "tidyize" (i.e. make the code cleaner to read) BASE (non-tidyverse) R code --> 
+- [ ] add to code chunks/templates on bottom (old/new code, notes on Perl from bioinfo etc.) <!-- keep as one long document bc that's what works for me. -->
 
 **@ myself!!! must update this page!!!!** [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
 
@@ -126,7 +127,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 </details>
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -161,7 +162,7 @@ LATER
 
 
 # What works
-* Writing [is important](https://twitter.com/amazingrando/status/1020370126661718016?s=21) [[Writing is _personal_]](https://www.thecut.com/2019/06/why-does-writing-suck.html) [[Structuring Papers]](https://twitter.com/joelmcglothlin/status/923874487556280320?s=21) [[Writing a Paper 1]](http://www.tulane.edu/~lamp/whiteside.pdf) [[Writing a Paper 2]](https://github.com/jtleek/firstpaper) [[Puzzle]](https://twitter.com/jenheemstra/status/1089508218932469760) [[Writing Well in Science]](https://www.brainpickings.org/2015/05/27/william-zinsser-on-writing-well-science/) [[Writing is hard]](https://twitter.com/lucastheis/status/1106155283829739522?s=21) [[Writing is like baking a cake]](https://twitter.com/paul_grealish/status/1126107021172826112?s=21) [[A Guide to Thesis-Writing and a Guide to Life]](https://www.newyorker.com/books/page-turner/a-guide-to-thesis-writing-that-is-a-guide-to-life)
+* Writing [is important](https://twitter.com/amazingrando/status/1020370126661718016?s=21) [[Writing is _personal_]](https://www.thecut.com/2019/06/why-does-writing-suck.html) [[Structuring Papers]](https://twitter.com/joelmcglothlin/status/923874487556280320?s=21) [[Writing a Paper 1]](http://www.tulane.edu/~lamp/whiteside.pdf) [[Writing a Paper 2]](https://github.com/jtleek/firstpaper) [[Puzzle]](https://twitter.com/jenheemstra/status/1089508218932469760) [[Writing Well in Science]](https://www.brainpickings.org/2015/05/27/william-zinsser-on-writing-well-science/) [[Writing is hard]](https://twitter.com/lucastheis/status/1106155283829739522?s=21) [[Writing is like baking a cake]](https://twitter.com/paul_grealish/status/1126107021172826112?s=21) [[A Guide to Thesis-Writing and a Guide to Life]](https://www.newyorker.com/books/page-turner/a-guide-to-thesis-writing-that-is-a-guide-to-life) [[I write so that I can understand]](https://twitter.com/Grady_Booch/status/1262094582939967489?s=20)
 * ["To learn, you need to care. You need intrinsic drive."](https://twitter.com/fchollet/status/1114665838534172678?s=21)
   * ["Remember that there are emotional peaks and valleys when you're learning something new. There are highs when you get the material. Then there are really tough lows when it gets hard. It's really hard to grapple with when you're in a low. But you'll get through it!"](https://twitter.com/aspittel/status/1095864806245126150?s=21) : 
 * [Notecards](https://www.muji.us/store/key-ring-memo-block-square.html)
@@ -1173,18 +1174,20 @@ Non-programming or non-science related super interesting or super rare perspecti
 * [`ggrepel`](https://twitter.com/allison_horst/status/1258600276098871296?s=20)
 
 # O'Reilly / Reference Books
+B = bethesda, J = new jersey
+
 _add link of TOC_
 * [Classic Shell Scripting]()
 * [sed and awk]()
 * [R]()
 * [Practical Statistics for Data Scientists]()
 * [Bioinformatics Data Skills]()
-* [Python Cookbook]()
-* [Fluent Python]()
+* [B - Python Cookbook]()
+* [B - Fluent Python]()
 * [R for Data Science]()
-* [Machine Learning for Python Cookbook]()
+* [B - Machine Learning for Python Cookbook]()
 * [The Linux Programming Interface](http://man7.org/tlpi/)
-* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/#toc-start)
+* [B - Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/#toc-start)
 * [Understanding Machine Learning: from theory to algorithms](https://twitter.com/davide__cirillo/status/1146683608456998918?s=21)
 * :green_book:[Foundations of Machine Learning, 2nd edition](https://twitter.com/davide__cirillo/status/1146683608456998918?s=21)
 * :green_book:[Functional Data Structures in R](https://medium.com/@ThomasMailund/functional-data-structures-in-r-is-out-a63a64806350)
@@ -1192,6 +1195,7 @@ _add link of TOC_
 * :green_book:[Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 * :green_book:[ggplot2 3rd Edition](https://twitter.com/hadleywickham/status/1164977547660017664?s=21)
 * :green_book:[Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)
+* :green_book:[J - High Performance Python, 2nd Edition](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
 
 # Meetups, Groups and Communities
 * [RLadies](https://rladies.org/)
@@ -1244,6 +1248,7 @@ w/o deadlines
 <!-- (>>>> jxi17F3z0Xw <<<<) (zxg8zHmJ32o?t=162 kXY8o-fGcQY thiXTX7Fm9w?t=148 xulQbwSygfI mK1009lg4iY LHb95DdjcEg) -->
 
 # Papers
+R - review
 
 * [[Genomics papers]](https://github.com/jtleek/genomicspapers) 
 * [[CS papers]](https://github.com/papers-we-love/papers-we-love) 
@@ -1288,6 +1293,15 @@ w/o deadlines
 
 # 2019
 
+* 2019R - [RNA Sequencing Data: Hitchhiker’s Guide to Expression Analysis](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021255) 
+```
+I’m a scientist and I know what constitutes proof. But the reason I call myself by my childhood name
+is to remind myself that a scientist must also be absolutely like a child. If [they] see a thing, [they] must
+say that [they] see it, whether it was what [they] thought [they] were going to see or not. See first,
+think later, then test. But always see first. Otherwise you will only see what you were expecting. Most
+scientists forget that.
+–adapted from The Ultimate Hitchhiker’s Guide to the Galaxy by Douglas Adams
+```
 * 2019 - [Cloudy with a Chance of Insights: Context Dependent Gene Regulation and Implications for Evolutionary Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6678813/)
 * 2019 - [Massive single-cell RNA-seq analysis and imputation via deep learning](https://www.biorxiv.org/content/10.1101/315556v4)
 * 2019 - [Single-Cell Multi-omics: An Engine for New Quantitative Models of Gene Regulation](https://www.ncbi.nlm.nih.gov/pubmed/30007833)
@@ -1372,6 +1386,19 @@ Forces increasing order: selection for clustering of functionally clustered gene
 
 * 1998 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 
+
+# Code Chunks/Templates
+testing format 
+
+## R/tidyverse
+
+<details>
+* [[Conditional pipes]](https://www.r-bloggers.com/conditional-pipes/)
+ * `df %>% { if(apply_filter == TRUE) filter(., condition) else . } %>% ...`
+</details>
+
+## Python
+* Iterators
 
 ```
 "Sometimes, when we lose ourselves, in fear and despair, in routine and constancy, in hopelessness 
