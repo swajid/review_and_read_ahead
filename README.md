@@ -817,6 +817,8 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 Heatmaps
 * [Translate from pheatmap to ComplexHeatmap](https://jokergoo.github.io/2020/05/06/translate-from-pheatmap-to-complexheatmap/)
 * [`pkgndep` heatmap of package dependencies](https://github.com/jokergoo/pkgndep)
+* [<img src="./icons/svg/logo-twitter.svg" width="15" height="15"> `circos.heatmap()`](https://twitter.com/jokergoo/status/1264186235129679872?s=20)
+ * [Make circular heatmaps](https://jokergoo.github.io/2020/05/21/make-circular-heatmaps/)
 
 Data Shaping
 * split-combine stuff
@@ -1161,6 +1163,7 @@ API/documentation
 
 Data Compression
 * 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
+<!-- I have an idea for this, rt related, sort of mentioned in the article -->
 
 Experienced-based debugging
 * [R Inferno](https://www.burns-stat.com/documents/books/the-r-inferno/)
