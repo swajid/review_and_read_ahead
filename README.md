@@ -126,7 +126,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 </details>
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ cool riff -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -177,7 +177,7 @@ LATER
 * [Deep work](https://www.youtube.com/watch?v=ZD7dXfdDPfg)
 * [[Good advice]](https://twitter.com/jenheemstra/status/1089147958757638144?s=21)
 * Following up
-* __1-page of notes__ [[draw it out 1]](https://twitter.com/b0rk/status/1239566715790462977?s=20)
+* __1-page of notes__ [[draw it out 1]](https://twitter.com/b0rk/status/1239566715790462977?s=20) [[draw it out 2]](https://twitter.com/webbshasta/status/1263894431268106241?s=21)
 * Expository notes/summaries - intended to explain informally, intuitive [["_Write the explanation you wish you’d found._"]](https://twitter.com/_brohrer_/status/1110526400933609472?s=21) 
 ```
    1. Find some thing that confuses you.
@@ -283,7 +283,7 @@ LATER
  * [:tv: how I code so fast - TechLead](https://www.youtube.com/watch?v=ODaq-JEiIKg)
  * [101 Tips For Being A Great Programmer](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [“debugging is an engineering superpower”](https://twitter.com/mattklein123/status/1138896205239291904?s=21)
-* [`praise()`](https://twitter.com/WeAreRLadies/status/1139527099423875072)
+* [`praise()`](https://twitter.com/WeAreRLadies/status/1139527099423875072) [arch](https://twitter.com/randyshoup/status/1262087110409904130?s=21)
 * download long youtube videos to remove ads/surveys -> VLC to change speed/add bookmarks: [keepvid](https://keepvid.pro/) [pytube](https://github.com/nficano/pytube)
 * "I don't do anything different, I just read my notes right before I fall asleep and when I wake up, it's just easier to recall the next day (I don't know why)" - (my friend's) strategy from organic chemistry
 * `Your future is here." -FW`
@@ -406,6 +406,7 @@ LATER
 * :green_book: [Learning Statistics with R](https://learningstatisticswithr.com/)
 * [What’s the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17)
 * [Data Preprocessing in Python](https://towardsdatascience.com/data-preprocessing-in-python-b52b652e37d5)
+* [Statistical Inference via Data Science](https://moderndive.com/)
 
 ## Genetics
 * __Some (way) newer textbook for Genetics__
@@ -452,7 +453,7 @@ LATER
 * [review of R loop efficiency + figures](https://www.tylermw.com/theres-no-need-to-apply-yourself/)
 * [R: `rank` vs. `order`](https://towardsdatascience.com/r-rank-vs-order-753cc7665951)
 * [Creating factors and re-ordering factor levels in R](https://medium.com/@HollyEmblem/creating-factors-and-re-ordering-factor-levels-in-r-8cad2edba915)
-
+* [new quicker R exception throwing via `stopifnot()`](https://twitter.com/hrbrmstr/status/1262710151674503168?s=21)
 
 ### awk & sed
 * [`awk` 10 examples to group data in a CSV or text file](http://www.theunixschool.com/2012/06/awk-10-examples-to-group-data-in-csv-or.html)
@@ -970,6 +971,7 @@ Public Speaking / Presentations
 Sci-art
 * <img src="./icons/svg/logo-twitter.svg" width="15" height="15"> [biorender](https://twitter.com/iamscicomm/status/1242903749896687617?s=21)
 * [R & stats illustrations by @allison_horst](https://github.com/allisonhorst/stats-illustrations)
+* [git illustrations](https://twitter.com/mappletons/status/1263930045850103817?s=21)
 
 General Software Development
 * [Software sustainability + good discussion](https://twitter.com/lh3lh3/status/1125622809630334976)
