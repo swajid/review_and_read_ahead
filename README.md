@@ -14,7 +14,7 @@ Books
 
 Stuff
 - [ ] [make own `%>%`'s for stuff like this project, `tidybulk`](https://github.com/stemangiola/tidybulk) <!-- (no offense to the author(s)'s hard work) soapbox: great idea for intro but I personally wouldn't use the tidyverse with bioinformatics b/c bioconductor is already complicated enough BUT this is a good way to write WRAPPER functions/pipes to "tidyize" (i.e. make the code cleaner to read) BASE (non-tidyverse) R code --> 
-- [ ] add to code chunks/templates on bottom (old/new code, notes on Perl from bioinfo etc.) <!-- keep as one long document bc that's what works for me. -->
+- [ ] add to code chunks/templates on bottom (old/new code, notes on Perl from bioinfo etc.) <!-- keep as one long document because that is what works for ME ; duplicated lines are also OKAY -->
 
 **@ myself!!! must update this page!!!!** [[super good thread with ideas]](https://twitter.com/ChelseaParlett/status/1212566782436761600) [[+ this heatmap]](https://twitter.com/IyueSung/status/1212781280724766720)
 
@@ -1396,6 +1396,36 @@ testing format
 <details>
 * [[Conditional pipes]](https://www.r-bloggers.com/conditional-pipes/)
  * `df %>% { if(apply_filter == TRUE) filter(., condition) else . } %>% ...`
+</details>
+
+## R/Rcpp
+* [Creating a data.table from C++](https://gallery.rcpp.org//articles/creating-a-datatable-in-rcpp/)
+<details>
+
+```
+Essentially two steps have to be taken:
+
+set the S3 class of the object to "data.table", "data.frame" in Rcpp
+
+  Rcpp::List create_data_table() {
+      Rcpp::List res;
+
+      // Populate the list
+      // ...
+
+      res.attr("class") = Rcpp::CharacterVector::create("data.table", "data.frame");
+      return res;
+  }
+
+in R call the data.table::setalloccol(df) function on the “partial” data.table
+
+  foo <- function() {
+      dt <- create_data_table()
+      dt <- data.table::setalloccol(dt)
+      return(dt)
+  }
+
+```
 </details>
 
 ## Python
