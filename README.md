@@ -541,6 +541,8 @@ April 2nd -->
 * [How Do You Organise Your R Project? This Is What We Do.](https://telethonkids.wordpress.com/2019/07/24/how-do-you-organise-your-r-project-this-is-what-we-do/)
 * [Everything a Data Scientist Should Know About Data Management](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42) `#databases`
 * [Technical debt for data scientists](https://twitter.com/KKulma/status/1221467257227767809?s=20)
+* [Draw out plot in advance 1](https://twitter.com/imsanaw/status/1264373442461212673?s=20) [Draw out plot in advance 2](https://twitter.com/webbshasta/status/1263894431268106241?s=20)
+
 
 ### Best Practices
 * [Guidelines for data analysis scripts](https://arxiv.org/abs/1904.06163)
