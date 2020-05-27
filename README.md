@@ -177,6 +177,8 @@ LATER
 * [[Repetition / "iterative refinement"]](https://twitter.com/fchollet/status/1176468552796164096?s=20)
 * Rewriting
 * "You have to protect your work" - former adviser
+<details>
+
 ```
  The process:
      1. Have design document __open__ and visible, always get a written approval
@@ -198,6 +200,9 @@ LATER
              women & underrepresented people in STEM
          Stay away from lousy people who draw lines, gatekeep, build hoops for talented 
              people to jump through <- tribalism / crab mentality -> could even become dishonest (hence 1,2,3)
+         Try to not correct a lousy person (they will always remember it and use it against you one day)
+             keep it in email and as positive as possible, but delegate as much as possible
+                e.g. here is software that does that check for you
          
      Talk out loud
 
@@ -212,6 +217,9 @@ LATER
      Work with everyone.
 
 ```
+
+</details>
+
 * ["In an effort to read more papers this year, I’m going to read a paper (or something paper-like) each day for the remainder of the year, and post each paper below as I go."](https://twitter.com/imsanaw/status/1179510917102493696)
 * [[Memory Palace]]()
 * ["How do they write the right stuff? The answer is, `it’s the process`. The group’s most important creation is not the perfect software they write — it’s the process they invented that writes the perfect software." (12.31.96)](https://www.fastcompany.com/28121/they-write-right-stuff)
