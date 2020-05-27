@@ -189,6 +189,8 @@ LATER
      
      3. Password protect original research, encrypt emails to advisers/everyone
      
+     "It's a box of chocolates, you never know what will happen, but protect your work" - dad
+     
      "Stay away from envious (lousy) people" - dad (~2011)
          Or one if cannot, minimize their influence over work/life (1,2,3)
          Keep their garbage comments / negativity in email as much as possible
@@ -214,8 +216,9 @@ LATER
      
      "Lousy people can do a lot of damage, you'd be surprised, they find other lousy people and before you know it" - dad
 
-     Work with everyone.
+     Work with everyone / "the more the merrier" - undergrad research adviser 3
 
+     (Not directed at or a response to anything, I just realized I have to get my work done and this is the process-ish)
 ```
 
 </details>
