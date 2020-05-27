@@ -178,7 +178,7 @@ LATER
 * Rewriting
 * "You have to protect your work" - former adviser
 ```
- Process:
+ The process:
      1. Have design document __open__ and visible, always get a written approval
      2. Reproducible research that is __open__ and visible
      
@@ -194,8 +194,11 @@ LATER
             Send out meeting minutes afterwards (takes 5-10 minutes but makes a big difference)
          Make hard copy of presentations, date it, file it in a folder
          Remember to use privacy screen in public places
-         Stay away from lousy people who don't support/cite/follow the work of underrepresented people in STEM
-    
+         Stay away from lousy people who don't support/cite/follow the work of 
+             women & underrepresented people in STEM
+         Stay away from lousy people who draw lines, gatekeep, build hoops for talented 
+             people to jump through <- tribalism / crab mentality -> could even become dishonest (hence 1,2,3)
+         
      Talk out loud
 
      "Don't respond to the negativity, focus on your own work, always" - dad
