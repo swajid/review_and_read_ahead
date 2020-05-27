@@ -1032,6 +1032,7 @@ Dynamic Documents
 * [`equatiomatic` Convert models to LaTeX equations, `lm()` `glm()`](https://github.com/datalorax/equatiomatic)
 * [Mastering R Presentations](https://twitter.com/Rbloggers/status/1176502902443167744?s=20)
 * [Dynamic CV using R](https://twitter.com/NicholasStrayer/status/1177258660260544512?s=20)
+* [Dynamic flowchart, scikitlearn + jupyter](https://twitter.com/justmarkham/status/1265278072674279424?s=20)
 
 Healthcare / AI + Health / [[Amazon Echo]]()
 * [Invisible Middlemen Are Slowing Down American Health Care](https://www.theatlantic.com/health/archive/2019/04/pbms-health-care-drug-delays-prices/586711/)
