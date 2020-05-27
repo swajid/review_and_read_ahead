@@ -188,8 +188,10 @@ LATER
      3. Password protect original research, encrypt emails to advisers/everyone
      
      "Stay away from envious (lousy) people" - dad
-     Or one if cannot, minimize their influence over work/life (1,2,3)
-
+         Or one if cannot, minimize their influence over work/life (1,2,3)
+         Keep their garbage in email as much as possible, stay away from in person meetings or make them as short as possible
+         Use hard copy of presentations, date it, file it in a folder
+     
      Talk out loud
 
      Focus on your own work, always
