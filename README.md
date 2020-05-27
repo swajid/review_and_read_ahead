@@ -209,6 +209,8 @@ LATER
      
      "Lousy people can do a lot of damage, you'd be surprised, they find other lousy people and before you know it" - dad
 
+     Work with everyone.
+
 ```
 * ["In an effort to read more papers this year, I’m going to read a paper (or something paper-like) each day for the remainder of the year, and post each paper below as I go."](https://twitter.com/imsanaw/status/1179510917102493696)
 * [[Memory Palace]]()
