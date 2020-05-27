@@ -169,13 +169,31 @@ LATER
 
 
 # What works
-* Writing [is important](https://twitter.com/amazingrando/status/1020370126661718016?s=21) [[Writing is _personal_]](https://www.thecut.com/2019/06/why-does-writing-suck.html) [[Structuring Papers]](https://twitter.com/joelmcglothlin/status/923874487556280320?s=21) [[Writing a Paper 1]](http://www.tulane.edu/~lamp/whiteside.pdf) [[Writing a Paper 2]](https://github.com/jtleek/firstpaper) [[Puzzle]](https://twitter.com/jenheemstra/status/1089508218932469760) [[Writing Well in Science]](https://www.brainpickings.org/2015/05/27/william-zinsser-on-writing-well-science/) [[Writing is hard]](https://twitter.com/lucastheis/status/1106155283829739522?s=21) [[Writing is like baking a cake]](https://twitter.com/paul_grealish/status/1126107021172826112?s=21) [[A Guide to Thesis-Writing and a Guide to Life]](https://www.newyorker.com/books/page-turner/a-guide-to-thesis-writing-that-is-a-guide-to-life) [[I write so that I can understand]](https://twitter.com/Grady_Booch/status/1262094582939967489?s=20)
+* Writing [is important](https://twitter.com/amazingrando/status/1020370126661718016?s=21) [[Writing is _personal_]](https://www.thecut.com/2019/06/why-does-writing-suck.html) [[Structuring Papers]](https://twitter.com/joelmcglothlin/status/923874487556280320?s=21) [[Writing a Paper 1]](http://www.tulane.edu/~lamp/whiteside.pdf) [[Writing a Paper 2]](https://github.com/jtleek/firstpaper) [[Puzzle]](https://twitter.com/jenheemstra/status/1089508218932469760) [[Writing Well in Science]](https://www.brainpickings.org/2015/05/27/william-zinsser-on-writing-well-science/) [[Writing is hard]](https://twitter.com/lucastheis/status/1106155283829739522?s=21) [[Writing is like baking a cake]](https://twitter.com/paul_grealish/status/1126107021172826112?s=21) [[A Guide to Thesis-Writing and a Guide to Life]](https://www.newyorker.com/books/page-turner/a-guide-to-thesis-writing-that-is-a-guide-to-life) [[I write so that I can understand]](https://twitter.com/Grady_Booch/status/1262094582939967489?s=20) [main ideas go in the headings](https://twitter.com/b0rk/status/1262756496162476033?s=20)
 * ["To learn, you need to care. You need intrinsic drive."](https://twitter.com/fchollet/status/1114665838534172678?s=21)
   * ["Remember that there are emotional peaks and valleys when you're learning something new. There are highs when you get the material. Then there are really tough lows when it gets hard. It's really hard to grapple with when you're in a low. But you'll get through it!"](https://twitter.com/aspittel/status/1095864806245126150?s=21) : 
 * [Notecards](https://www.muji.us/store/key-ring-memo-block-square.html)
 * [Asking questions](http://www.incidentalcomics.com/2015/08/asking-questions.html) - [something](https://twitter.com/jbeda/status/1087869217322332160?s=21)
 * [[Repetition / "iterative refinement"]](https://twitter.com/fchollet/status/1176468552796164096?s=20)
 * Rewriting
+* "You have to protect your work" - former adviser
+```
+ Process:
+     1. Have design document __open__ and visible, always get a written approval
+     2. Reproducible research that is open
+
+     Code comments
+     Git
+     
+     3. Password protect original research, encrypt emails to advisers/everyone
+     
+     "Stay away from envious (lousy) people" - dad
+     Or one if cannot, minimize their influence over work/life (1,2,3)
+
+     Talk out loud
+
+     Focus on your own work, always
+```
 * ["In an effort to read more papers this year, I’m going to read a paper (or something paper-like) each day for the remainder of the year, and post each paper below as I go."](https://twitter.com/imsanaw/status/1179510917102493696)
 * [[Memory Palace]]()
 * ["How do they write the right stuff? The answer is, `it’s the process`. The group’s most important creation is not the perfect software they write — it’s the process they invented that writes the perfect software." (12.31.96)](https://www.fastcompany.com/28121/they-write-right-stuff)
