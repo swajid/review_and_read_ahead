@@ -219,6 +219,7 @@ LATER
      Work with everyone / "the more the merrier" - undergrad research adviser 3
 
      (Not directed at or a response to anything, I just realized I have to get my work done and this is the process-ish)
+     (Really for me because I don't want to end up becoming a lousy person ¯\_(ツ)_/¯ )
 ```
 
 </details>
@@ -1103,6 +1104,8 @@ Good examples of comparisons/documentation/UML
 * [Why should I use `ripgrep`?](https://github.com/BurntSushi/ripgrep)
 * [Stacks modules and RADseq typical workflow](https://github.com/thierrygosselin/stackr#stacks-modules-and-radseq-typical-workflow)
 * [R code walkthrough flipbook -> tweet as a gif](https://twitter.com/evamaerey/status/1167085280580558849?s=21)
+* [Managing environments with conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
 
 # Examples
 ## Novel approach using data visualization and/or user interaction
@@ -1148,7 +1151,7 @@ Peak Calling '* see stop sign example*
 <!-- self todo: read code https://github.com/uio-bmi/graph_peak_caller/tree/master/graph_peak_caller --> 
 * ["what tools are good for predicting scATAC peaks' target genes? `#scATAC`"](https://twitter.com/tangming2005/status/1221868274356408320?s=21)
 
-List of different types of * omes
+List of different types of * omes <!-- todo!! -->
 * [Reactome](https://en.wikipedia.org/wiki/Reactome) + [bioarxiv search, 1,140 Results](https://www.biorxiv.org/search/Reactome)
 
 
