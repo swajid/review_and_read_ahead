@@ -180,21 +180,23 @@ LATER
 ```
  Process:
      1. Have design document __open__ and visible, always get a written approval
-     2. Reproducible research that is open
-
+     2. Reproducible research that is __open__ and visible
+     
      Code comments
      Git
      
      3. Password protect original research, encrypt emails to advisers/everyone
      
-     "Stay away from envious (lousy) people" - dad
+     "Stay away from envious (lousy) people" - dad (~2011)
          Or one if cannot, minimize their influence over work/life (1,2,3)
-         Keep their garbage in email as much as possible, stay away from in person meetings or make them as short as possible
-         Use hard copy of presentations, date it, file it in a folder
+         Keep their garbage comments / negativity in email as much as possible
+         Stay away from in person meetings or make them as short as possible 
+            Send out meeting minutes afterwards (takes 5-10 minutes but makes a big difference)
+         Make hard copy of presentations, date it, file it in a folder
      
      Talk out loud
 
-     Focus on your own work, always
+     "Don't respond to the negativity, focus on your own work, always" - dad
 ```
 * ["In an effort to read more papers this year, I’m going to read a paper (or something paper-like) each day for the remainder of the year, and post each paper below as I go."](https://twitter.com/imsanaw/status/1179510917102493696)
 * [[Memory Palace]]()
