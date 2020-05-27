@@ -193,10 +193,19 @@ LATER
          Stay away from in person meetings or make them as short as possible 
             Send out meeting minutes afterwards (takes 5-10 minutes but makes a big difference)
          Make hard copy of presentations, date it, file it in a folder
-     
+         Remember to use privacy screen in public places
+         Stay away from lousy people who don't support/cite/follow the work of underrepresented people in STEM
+    
      Talk out loud
 
      "Don't respond to the negativity, focus on your own work, always" - dad
+     
+     "Don't give people with too much time on their hands something to do" - undergrad research adviser 1
+     
+     "It is your legacy" - undergrad research adviser 2
+     
+     "Lousy people can do a lot of damage, you'd be surprised, they find other lousy people and before you know it" - dad
+
 ```
 * ["In an effort to read more papers this year, I’m going to read a paper (or something paper-like) each day for the remainder of the year, and post each paper below as I go."](https://twitter.com/imsanaw/status/1179510917102493696)
 * [[Memory Palace]]()
