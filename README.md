@@ -176,36 +176,40 @@ LATER
 * [Asking questions](http://www.incidentalcomics.com/2015/08/asking-questions.html) - [something](https://twitter.com/jbeda/status/1087869217322332160?s=21)
 * [[Repetition / "iterative refinement"]](https://twitter.com/fchollet/status/1176468552796164096?s=20)
 * Rewriting
-* "You have to protect your work" - former adviser
+* "You have to protect your work"
 <details>
 
 ```
  The process:
-     1. Have design document __open__ and visible, always get a written approval
+ 
+     1. Have design document __open__ and visible:
+        always get a written approval
+        
      2. Reproducible research that is __open__ and visible
-     
-     Code comments
-     Git
+        Code comments
+        Git
+        Containerization (Docker)
+        Dynamic documents (Jupyter, markdown)
      
      3. Password protect original research, encrypt emails to advisers/everyone
      
-     "It's a box of chocolates, you never know what will happen, but protect your work" - dad
+        "It's a box of chocolates, you never know what will happen, but protect your work" - dad
      
-     "Stay away from envious (lousy) people" - dad (~2011)
-         Or one if cannot, minimize their influence over work/life (1,2,3)
-         Keep their garbage comments / negativity in email as much as possible
-         Stay away from in person meetings or make them as short as possible 
-            Send out meeting minutes afterwards (takes 5-10 minutes but makes a big difference)
-         Make hard copy of presentations, date it, file it in a folder
-         Remember to use privacy screen in public places
-         Stay away from lousy people who don't support/cite/follow the work of 
-             women & underrepresented people in STEM
-         Stay away from lousy people who draw lines, gatekeep, build hoops for talented 
-             people to jump through <- tribalism / crab mentality -> could even become dishonest (hence 1,2,3)
-         Try to not correct a lousy person (they will always remember it and use it against you one day)
-             keep it in email and as positive as possible, but delegate as much as possible
-                e.g. here is software that does that check for you
-         
+     "Stay away from difficult/mean people" - dad (~2011)
+         Or one if cannot, minimize their influence over work/life (1,2,3) subprocess:
+             Keep their criticism / comments / negativity in email as much as possible
+             Stay away from in person meetings or make them as short as possible 
+                Send out meeting minutes afterwards (takes 5-10 minutes but makes a big difference)
+             Make hard copy of presentations, date it, file it in a folder
+             Remember to use privacy screen in public places
+             Stay away from difficult people who don't support/cite the work of 
+                 women & underrepresented people in STEM
+             Stay away from difficult people who draw lines, gatekeep, build hoops for talented 
+                 people to jump through <- tribalism / crab mentality -> could even become dishonest (hence 1,2,3)
+             Try to not correct a difficult person (they will always remember it and use it against you one day)
+                 keep it in email and as positive as possible, but delegate as much as possible
+                    e.g. here is software that does that check for you or here is a paper that explains this stuff
+
      Talk out loud
 
      "Don't respond to the negativity, focus on your own work, always" - dad
@@ -218,8 +222,11 @@ LATER
 
      Work with everyone / "the more the merrier" - undergrad research adviser 3
 
-     (Not directed at or a response to anything, I just realized I have to get my work done and this is the process-ish)
-     (Really for me because I don't want to end up becoming a lousy person ¯\_(ツ)_/¯ )
+     (Literally not directed at or a response to anything, 
+        I just realized I have to get my work done and this is the process-ish)
+        
+     (Really for me because I don't want to end up becoming a difficult/lousy person ¯\_(ツ)_/¯ )
+     
 ```
 
 </details>
@@ -327,7 +334,7 @@ LATER
 * [It is not personal](https://www.forbes.com/sites/glennllopis/2013/02/25/4-reasons-rejection-shouldnt-be-taken-personally/#685a0637180f)
 * `"the quote about the table of contents in a book"`
 * "find patterns and organize them" - my dad | [[How Bill Gates remembers what he reads]](https://www.youtube.com/watch?v=8xwh88cI_d8)
-* [`I’d rather be weird than boring`](https://twitter.com/jessfraz/status/1149038005006434304?s=21)
+* [__`I’d rather be weird than boring`__](https://twitter.com/jessfraz/status/1149038005006434304?s=21)
 * ["Creativity is, and always will be, a human endeavor"](https://www.technologyreview.com/s/612913/a-philosopher-argues-that-an-ai-can-never-be-an-artist/)
 * ["overcome it if you persevere"](https://twitter.com/math_rachel/status/1080655600143323137) 
 * ["Ask the questions until you understand"](https://twitter.com/maddiestone/status/1107343534548357120?s=21)
@@ -869,6 +876,7 @@ Heatmaps
 * [`pkgndep` heatmap of package dependencies](https://github.com/jokergoo/pkgndep)
 * [<img src="./icons/svg/logo-twitter.svg" width="15" height="15"> `circos.heatmap()`](https://twitter.com/jokergoo/status/1264186235129679872?s=20)
  * [Make circular heatmaps](https://jokergoo.github.io/2020/05/21/make-circular-heatmaps/)
+* [Hexagon tessellation using the great `geogrid` package.](http://r.iresmi.net/2020/05/26/polygons-to-hexagons/)
 
 Data Shaping
 * split-combine stuff
@@ -1350,6 +1358,7 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 
 # 2020
 
+* 2020 - [A Reproducible Data Analysis Workflow with R Markdown, Git, Make, and Docker](https://twitter.com/brandmaier/status/1265565091501608961?s=20)
 * 2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full)
  - [ ] ? [protospacer](https://en.wikipedia.org/wiki/Protospacer_adjacent_motif)
  - [ ] fig 4a - neural network predictions of sgRNA activity
