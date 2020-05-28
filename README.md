@@ -176,7 +176,9 @@ LATER
 * [Asking questions](http://www.incidentalcomics.com/2015/08/asking-questions.html) - [something](https://twitter.com/jbeda/status/1087869217322332160?s=21)
 * [[Repetition / "iterative refinement"]](https://twitter.com/fchollet/status/1176468552796164096?s=20)
 * Rewriting
-* "You have to protect your work"
+* "You have to protect your work" 
+   & also [[:book: Software Engineering at Google Lessons Learned from Programming Over Time]](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) -> code review, documentation etc. <!-- good to have a process, even google has a process, see book -->
+
 <details>
 
 ```
