@@ -338,7 +338,7 @@ LATER
 * `"the quote about the table of contents in a book"`
 * "find patterns and organize them" - my dad | [[How Bill Gates remembers what he reads]](https://www.youtube.com/watch?v=8xwh88cI_d8)
 * [__`I’d rather be weird than boring`__](https://twitter.com/jessfraz/status/1149038005006434304?s=21)
-* ["Creativity is, and always will be, a human endeavor"](https://www.technologyreview.com/s/612913/a-philosopher-argues-that-an-ai-can-never-be-an-artist/)
+* ["Creativity is, and always will be, a human endeavor"](https://www.technologyreview.com/s/612913/a-philosopher-argues-that-an-ai-can-never-be-an-artist/) [[tools for better thinking]](https://untools.co/)
 * ["overcome it if you persevere"](https://twitter.com/math_rachel/status/1080655600143323137) 
 * ["Ask the questions until you understand"](https://twitter.com/maddiestone/status/1107343534548357120?s=21)
 * ["I'm just growing up in stages"](https://www.youtube.com/watch?v=rUmV-MorIKc)
@@ -1018,7 +1018,7 @@ Shells/etc
 * [Vim: Lessons from 3-years of intensive learning](https://dev.to/omerxx/vim-from-foe-to-friend-in-9-minutes-2np0)
   * `"Gradual learning: After a few days of reading, I slowly started getting the grasp of movement in Vim using the famous hjkl, and learned to search and save keystrokes. I began understanding how Vim operates. What's the fastest and most elegant way for doing every single change. I started finding myself getting out of bed after reading a tip to try it out and writing it down in my notebook."`
   
-Teamwork & Diversity / Culture
+Teamwork & Diversity
 * [How to Deliver Constructive Feedback in Difficult Situations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
   * [Deep listening to simply observe](https://twitter.com/jessfraz/status/1121900277353865218)
 * [Empathy](img/path_to_empathy.jpg)
@@ -1029,8 +1029,13 @@ Teamwork & Diversity / Culture
 * [Sustainability of open source (in R)](https://twitter.com/juliasilge/status/1134156659721244673)
 * [The anti-CEO playbook](https://www.ted.com/talks/hamdi_ulukaya_the_anti_ceo_playbook/transcript?language=en#t-1023746)
 * [Take on hard projects](https://twitter.com/b0rk/status/1249024380874752001?s=20)
-* [[Egoless programming 1]](https://twitter.com/old_sound/status/1254736216966205440?s=21) [[Egoless programming 2]](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 
+Culture/Inclusivity -> technical documentation (e.g. API, software documentation, books, talks etc.)
+* [[Egoless programming 1]](https://twitter.com/old_sound/status/1254736216966205440?s=21) [[Egoless programming 2]](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+* [[Google Style Guide]]
+  * [Ambiguous pronoun references](https://developers.google.com/style/pronouns#ambiguous-pronoun-references)
+* [[Microsoft Style Guide]]
+  * [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
 
 Public Speaking / Presentations
 * [How to Speak in Public](https://www.nytimes.com/guides/year-of-living-better/how-to-speak-in-public)
