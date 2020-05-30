@@ -135,6 +135,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance sudais <3 -->
 <!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 cool riff -->
+<!-- https://twitter.com/archillect/status/1266462722188861446?s=21 -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
@@ -1017,7 +1018,7 @@ Shells/etc
 * [Vim: Lessons from 3-years of intensive learning](https://dev.to/omerxx/vim-from-foe-to-friend-in-9-minutes-2np0)
   * `"Gradual learning: After a few days of reading, I slowly started getting the grasp of movement in Vim using the famous hjkl, and learned to search and save keystrokes. I began understanding how Vim operates. What's the fastest and most elegant way for doing every single change. I started finding myself getting out of bed after reading a tip to try it out and writing it down in my notebook."`
   
-Teamwork & Diversity
+Teamwork & Diversity / Culture
 * [How to Deliver Constructive Feedback in Difficult Situations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
   * [Deep listening to simply observe](https://twitter.com/jessfraz/status/1121900277353865218)
 * [Empathy](img/path_to_empathy.jpg)
@@ -1028,6 +1029,8 @@ Teamwork & Diversity
 * [Sustainability of open source (in R)](https://twitter.com/juliasilge/status/1134156659721244673)
 * [The anti-CEO playbook](https://www.ted.com/talks/hamdi_ulukaya_the_anti_ceo_playbook/transcript?language=en#t-1023746)
 * [Take on hard projects](https://twitter.com/b0rk/status/1249024380874752001?s=20)
+* [[Egoless programming 1]](https://twitter.com/old_sound/status/1254736216966205440?s=21) [[Egoless programming 2]](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+
 
 Public Speaking / Presentations
 * [How to Speak in Public](https://www.nytimes.com/guides/year-of-living-better/how-to-speak-in-public)
@@ -1244,7 +1247,7 @@ Non-programming or non-science related super interesting or super rare perspecti
 * [Dave Grohl South By Southwest (SXSW) 2013 Keynote Speech (49 mins)](https://www.youtube.com/watch?v=Efv0Y5Fs7m4) <!-- * -->
 <!-- non-sh*tty fun things -->
 * [Adventure Time quotes](https://github.com/agudulin/at-quotes)
-* 
+* :sunny: [`poolside.fm`](https://poolside.fm/)
 
 [Illustrations](https://twitter.com/nathanwpyle/status/1252249727556636673?s=21) '* book stuff'
 * [k-means](https://twitter.com/allison_horst/status/1250477975130140672?s=21)
