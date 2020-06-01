@@ -1306,6 +1306,7 @@ _add link of TOC_
 w/ deadlines
 * [Graduate Fellowship Opportunities for the 2018-2019 Academic Year](https://www.cs.cmu.edu/~gradfellowships/)
 * [Fellowship and Award Deadlines, 2018-2019](https://www.cs.umd.edu/grad/fellowships)
+* [Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) <!-- I like Microsoft, they seem to now be doing stuff that is similar to google genomics https://github.com/microsoftgenomics-->
 
 w/o deadlines
 * [Graduate Student Fellowships & Aid](http://www.cis.upenn.edu/prospective-students/graduate/aid.php)
