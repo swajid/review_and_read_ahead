@@ -144,7 +144,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 <details>
 
-`"Just do some practice problems - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
+`"Just do some practice problems & linear programming was my favorite class - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
 - [ ] [1. review calc](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) + [book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
 - [ ] [2. review stats](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/) _also see stats links_
 - [ ] [~~3. math for programmers~~](https://www.manning.com/books/math-for-programmers)
@@ -183,13 +183,15 @@ LATER
 <details>
 
 ```
- The process: 
+ The process:
+     0. Work/Life/Family balance -> enjoy stuff!!! -> build cool stuff
+ 
      1. Have design document __open__ and visible:
         always get a written approval
         
      2. Reproducible research that is __open__ and visible (add stuff from new paper)
         Code comments
-        Git
+        GitLab (+ personal backup too)
         Containerization (Docker)
         Dynamic documents (Jupyter, markdown)
      
@@ -198,7 +200,7 @@ LATER
         "It's a box of chocolates, you never know what will happen, but protect your work" - dad
      
      "Stay away from difficult/mean people" - dad (~2011)
-         Or one if cannot, minimize their influence over work/life (1,2,3) subprocess:
+         3a. Or one if cannot, minimize their influence over work/life (1,2,3) subprocess:
              Keep their criticism / comments / negativity in email as much as possible
              Stay away from in person meetings or make them as short as possible 
                 Send out meeting minutes afterwards (takes 5-10 minutes but makes a big difference)
@@ -212,14 +214,16 @@ LATER
                  keep it in email and as positive as possible, but delegate as much as possible
                     e.g. here is software that does that check for you or here is a paper that explains this stuff
 
-             If one cannot stay away from the difficult/lousy person/people subprocess:
+         3b. If one cannot stay away from the difficult/lousy person/people subprocess:
                  Work around them (extremely important)
                  Keep work reproducible and keep their comments on record 
                      (e.g. Jupyter notebook code review
-                      if it's really necessary, keep notes on OneNote 
+                   3c. if it's really necessary, keep notes on OneNote 
                           (that has a audio recording feature, ask before meeting starts if that's ok)
                      Don't fall for excuses (can't find link or whatever) / use gantt chart if needed
                  Share sections of work only (use chmod for folder permissions)
+                 * Difficult/lousy person will be most difficult during sick/parental leave/vacation, so recognize the
+                   pattern in advance for (0) which is why steps 1,2,3 are important and esp 3b & 3c
                  
      Talk out loud
 
