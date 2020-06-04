@@ -183,12 +183,11 @@ LATER
 <details>
 
 ```
- The process:
- 
+ The process: 
      1. Have design document __open__ and visible:
         always get a written approval
         
-     2. Reproducible research that is __open__ and visible
+     2. Reproducible research that is __open__ and visible (add stuff from new paper)
         Code comments
         Git
         Containerization (Docker)
@@ -213,6 +212,15 @@ LATER
                  keep it in email and as positive as possible, but delegate as much as possible
                     e.g. here is software that does that check for you or here is a paper that explains this stuff
 
+             If one cannot stay away from the difficult/lousy person/people subprocess:
+                 Work around them (extremely important)
+                 Keep work reproducible and keep their comments on record 
+                     (e.g. Jupyter notebook code review
+                      if it's really necessary, keep notes on OneNote 
+                          (that has a audio recording feature, ask before meeting starts if that's ok)
+                     Don't fall for excuses (can't find link or whatever) / use gantt chart if needed
+                 Share sections of work only (use chmod for folder permissions)
+                 
      Talk out loud
 
      "Don't respond to the negativity, focus on your own work, always" - dad
@@ -1369,6 +1377,7 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 
 # 2020
 
+* 2020 - [Reproducible computing for your own benifit](https://divingintogeneticsandgenomics.rbind.io/talk/2020-reproducible-computing/)
 * 2020 - [A Reproducible Data Analysis Workflow with R Markdown, Git, Make, and Docker](https://twitter.com/brandmaier/status/1265565091501608961?s=20)
 * 2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full)
  - [ ] ? [protospacer](https://en.wikipedia.org/wiki/Protospacer_adjacent_motif)
