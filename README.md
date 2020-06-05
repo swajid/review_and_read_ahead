@@ -352,6 +352,7 @@ LATER
 * "find patterns and organize them" - my dad | [[How Bill Gates remembers what he reads]](https://www.youtube.com/watch?v=8xwh88cI_d8)
 * [__`I’d rather be weird than boring`__](https://twitter.com/jessfraz/status/1149038005006434304?s=21)
 * ["Creativity is, and always will be, a human endeavor"](https://www.technologyreview.com/s/612913/a-philosopher-argues-that-an-ai-can-never-be-an-artist/) [[tools for better thinking]](https://untools.co/)
+* __`"Hey! I'm young. You're young. Case closed."`__ - Lorelai Gilmore
 * ["overcome it if you persevere"](https://twitter.com/math_rachel/status/1080655600143323137) 
 * ["Ask the questions until you understand"](https://twitter.com/maddiestone/status/1107343534548357120?s=21)
 * ["I'm just growing up in stages"](https://www.youtube.com/watch?v=rUmV-MorIKc)
