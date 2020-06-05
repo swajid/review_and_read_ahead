@@ -135,17 +135,17 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 </details>
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance sudais <3 -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 DGDLbSCOM0c cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 DGDLbSCOM0c 1pADqYjvV7M (the drums!!) cool riff -->
 <!-- https://twitter.com/archillect/status/1266462722188861446?s=21 -->
 <!--  too shy to keep emailing -->
-<!-- https://www.wikihow.com/Start-a-Garage-Band -->
+<!-- https://www.wikihow.com/Start-a-Garage-Band !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
 
 
 <details>
 
-`"Just do some practice problems & linear programming was my favorite class - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
+`"Just do some practice problems & linear optimization was my favorite class - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
 - [ ] [1. review calc](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) + [book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
 - [ ] [2. review stats](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/) _also see stats links_
 - [ ] [~~3. math for programmers~~](https://www.manning.com/books/math-for-programmers)
@@ -1173,7 +1173,7 @@ General Bioconductor
 * [2019 - `Tximeta`: reference sequence checksums for provenance identification in RNA-seq](https://www.biorxiv.org/content/biorxiv/early/2019/09/25/777888.full.pdf) 
   * "The correct reference transcriptome is identified via a hashed checksum stored in the quantification output, and key transcript databases are downloaded and cached locally."
 
-SCS / single-cell 
+SCS / single-cell / [["demultiplex" as a search term on biorxiv]](https://www.biorxiv.org/search/demultiplex)
 * [[Articles by Nikolay Oskolkov]](https://towardsdatascience.com/@nikolay.oskolkov) (add links + give credit to author's tweets)
 * :tv: [Single Cell Analysis Club @ NYU - vimeo](https://vimeo.com/user33294891)
 * [2019 - How to Batch Correct Single Cell](https://twitter.com/NikolayOskolkov/status/1169610566895329280)
@@ -1191,6 +1191,8 @@ Developing Workshops/Bioinformatics/Process Of/etc
 * [`MAESTRO` (Model-based AnalysEs of Single-cell Transcriptome and RegulOme) is a comprehensive single-cell RNA-seq and ATAC-seq analysis suit built using snakemake.](https://github.com/liulab-dfci/MAESTRO)
   * see [proj structure](https://github.com/liulab-dfci/MAESTRO/tree/master/MAESTRO)
 * ["current list is 31 scRNA-seq (analysis method) benchmarks:"](https://twitter.com/markrobinsonca/status/1221903274678333441?s=21)
+
+
 
 Peak Calling '* see stop sign example*
 * [`Graph Peak Caller` - ChIP-seq peak caller for reads mapped to a graph-based reference genome](https://github.com/uio-bmi/graph_peak_caller) `#py` + `#pytest`
