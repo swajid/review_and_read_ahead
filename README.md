@@ -58,6 +58,7 @@ otherwise, here is a more official one: https://github.com/harvardinformatics/le
 * Link content: cs/db/bio etc : outline <img src="./icons/svg/server-outline.svg" width="15" height="15">
 * Section or Link difficulty/amount I've read through - color (maybe green, yellow, red)
 * Icon size - something
+* SEG = Software Engineering at Google
 
 Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/gmailr)
 
@@ -134,7 +135,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 </details>
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance sudais <3 -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 DGDLbSCOM0c cool riff -->
 <!-- https://twitter.com/archillect/status/1266462722188861446?s=21 -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band -->
@@ -383,6 +384,10 @@ LATER
 - [ ] make new sub-heading on handling criticism + stuff FW said (e.g. "it's not always the technical stuff (code and etc)")
 * [Outline of best practices 1](https://twitter.com/rbloggers/status/1250147871938265088?s=21)
 * ["Read old books no one talks about."](https://twitter.com/orangebook_/status/1229093575453036546?s=21) <!-- see references read/cited in the homology paper -->
+* Intrinsic Versus Extrinsic Motivation (SEG p104)
+```
+add later
+```
 
 
 # What doesn't
@@ -399,6 +404,16 @@ LATER
 * ["You are not the work you do; you are the person you are." - Toni Morrison](https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are)
 * [HBR: How to Be Resilient in the Face of Harsh Criticism](https://hbr.org/2019/06/how-to-be-resilient-in-the-face-of-harsh-criticism)
 * [“One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time.”](https://twitter.com/nardine_g/status/1178416559313821697)
+* Antipattern: Treat Your Team Like Children: (
+```
+   "The best way to show your team that you don't trust them is to treat 
+   members like kids -- people tend to act like the way you treat them,
+   so if you treat them like children or prisoners, don't be surprised
+   when that's how they behave."
+   
+   - Software Engineering at Google
+```
+
 
 # :hourglass_flowing_sand: Review
 ## Bioinformatics
