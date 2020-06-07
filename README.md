@@ -901,6 +901,7 @@ Data Visualization/Tables (eventually will be tables -> "data shaping")
 * [Decision tree results heatmap](https://twitter.com/moorejh/status/1252319501888126976?s=20)
 * [Interactive ggridges + ggiraph (tooltip) + ggtext (pic and annotations)](https://twitter.com/duc_qn/status/1234419505494970368?s=20)
 * [Interaction plot in ggplot2 using `geom_diagonal_wide`](https://twitter.com/spren9er/status/1251825439330500609?s=20)
+* [:bar_chart: `ggtext` Improved text rendering support for ggplot2](https://twitter.com/ClausWilke/status/1268554333790130176?s=20)
 
 Heatmaps
 * [Translate from pheatmap to ComplexHeatmap](https://jokergoo.github.io/2020/05/06/translate-from-pheatmap-to-complexheatmap/)

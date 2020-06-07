@@ -12,3 +12,7 @@
 
 * ["Understanding the process of developing aquatic biomass energy through the domestication of algae"](swajid-2010-Final_paper_Plants_for_Bioenergy.pdf) _cross-listed as first year Graduate level course_ ; _(unedited)_
 
+* ["A look at the United States voter turnout"](swajid-2012-American_Government_final_Paper.pdf) ; _(unedited)_
+
+<!-- I don't plagiarize or ever mean to, 100% my own work -->
+<!-- There are a couple more but I can't find them -->
