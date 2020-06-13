@@ -1,4 +1,4 @@
-# swajid_intro
+# swajid_nest
 
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
 <details>
@@ -314,11 +314,12 @@ LATER
   * [[example 44: if correlation does not imply causation, then what does?](https://medium.com/gradiant-talks/if-correlation-does-not-imply-causation-then-what-does-8fa462943b84)
   * [[example 45: `git` internals]](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/)
   * [[example 46: an end-to-end analysis of missing data using `autoimpute` ]](https://kearnz.github.io/autoimpute-tutorials/)
-  * [[example 47: a half-hour to learn rust]](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+  * [[example 47: a half-hour to learn rust]](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/) 
   * [[example 48: scikit columntransformer]](https://twitter.com/justmarkham/status/1239900312862953473?s=21)
   * [[example 49: container images - best explaination so far]](https://twitter.com/b0rk/status/1237464479811633154?s=21)
   * [[example 50: visualizing a markov chain]](https://willhipson.netlify.com/post/markov-sim/markov_chain/)
   * [[example 51: the elements of choosing colors for great data visualization in R]](http://www.sthda.com/english/wiki/the-elements-of-choosing-colors-for-great-data-visualization-in-r)
+  * [[example 52: factors in R]](https://rstatisticsblog.com/r-beginners/working-with-factors-in-r-tutorial-forcats-package/)
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
