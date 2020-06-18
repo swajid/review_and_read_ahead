@@ -239,6 +239,8 @@ LATER
      4. Have 1 or 2 committee members not be from the same grant & University, to make sure thesis gets
         completed on time and there aren't any new surprises -- should avoid a lot of off-putting 
         University politics, keeps thesis directions novel & open and diffuses possible future schemes
+        1. very senior + ML/Stats
+        2. in/from Epigenetics (Institute)
 
      5. Apply to as many PhD fellowships as possible:
         "The reason this person recieved the grant is __simply__ because they applied to a lot of grants." 
@@ -553,7 +555,7 @@ add later
 * <img src="./icons/svg/server-outline.svg" width="20" height="20"> <img src="./icons/svg/server-outline.svg" width="20" height="20">[JSON - Computerphile](https://www.youtube.com/watch?v=A0hoqSkyY7o)
 * <img src="./icons/svg/server-outline.svg" width="25" height="25"> <img src="./icons/svg/server-outline.svg" width="25" height="25">[R package for visualising data transformation using animations](https://github.com/chrk623/dataAnim)
 * [A complete guide to PostgreSQL](https://medium.com/@heyPrabhu/a-complete-guide-to-postgresql-e4d1cefb9866)
-
+* [Readings in Database Systems](http://www.redbook.io/)
 
 ### C/C++
 ### Java
