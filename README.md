@@ -236,13 +236,13 @@ LATER
                  * Difficult/lousy person will be most difficult during sick/parental leave/vacation, so recognize the
                    pattern in advance for (0) which is why steps 1,2,3 are important and esp 3b & 3c
                  
-     4. Have 1 or 2 committee members not be from the same grant & University, to make sure thesis gets
+    *4. Have 1 or 2 committee members not be from the same grant & University, to make sure thesis gets
         completed on time and there aren't any new surprises -- should avoid a lot of off-putting 
         University politics, keeps thesis directions novel & open and diffuses possible future schemes
         1. very senior + ML/Stats
         2. in/from Epigenetics (Institute)
 
-     5. Apply to as many PhD fellowships as possible:
+    *5. Apply to as many PhD fellowships as possible:
         "The reason this person recieved the grant is __simply__ because they applied to a lot of grants." 
         - advice from an undergrad Prof
         
@@ -257,7 +257,7 @@ LATER
             I use it in a few Stack  Overflow answers Like #tidytuesday, SO is good at providing a 
             stream of novel challenges"
            
-            In other words, use StackOverflow (SO) to find new challenging problems outside personal
+     *      In other words, use StackOverflow (SO) to find new challenging problems outside personal
             experiences, usecases or textbook -- also a good use of keeping a backup of 
             questions/answers & also "create public artifacts" 
             from this post from 2016 that I still remember http://varianceexplained.org/r/year_data_scientist/
@@ -268,7 +268,7 @@ LATER
      
      "Don't give people with too much time on their hands something to do" - undergrad research adviser 1
      
-     "It is your legacy" - undergrad research adviser 2
+ *   "It is your legacy" - undergrad research adviser 2
      
      "Lousy people can do a lot of damage, you'd be surprised, they find other lousy people and before you know it" - dad
 
