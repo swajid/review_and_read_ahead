@@ -423,6 +423,10 @@ LATER
 * [Outline of best practices 1](https://twitter.com/rbloggers/status/1250147871938265088?s=21)
 * ["Read old books no one talks about."](https://twitter.com/orangebook_/status/1229093575453036546?s=21) <!-- see references read/cited in the homology paper -->
 * Intrinsic Versus Extrinsic Motivation (SEG p104)
+* Phenomenal Explainations 
+  * [Photosynthesis](https://twitter.com/Natashatashaetc/status/1295944521893605379?s=20)
+  * [PCA](https://twitter.com/allison_horst/status/1288904459490213888?s=20)
+  
 ```
 add later
 ```
@@ -669,7 +673,7 @@ April 2nd -->
 
 ### Best Practices
 * [Guidelines for data analysis scripts](https://arxiv.org/abs/1904.06163)
-* [Design docs - A design doc](https://medium.com/dev-channel/design-docs-a-design-doc-a152f4484c6b)
+* [Design docs - A design doc](https://medium.com/dev-channel/design-docs-a-design-doc-a152f4484c6b) [Git workflow as comic](https://twitter.com/lobre8/status/1288030500301475840?s=20)
 * [Containerization; "creating a GitHub repo, RStudio project, rmarkdown file, new data, dockerfile from SCRATCH"](https://twitter.com/nj_tierney/status/1174246280748576768?s=21)
 
 ### Infrastructure
