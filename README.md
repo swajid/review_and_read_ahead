@@ -188,7 +188,7 @@ LATER
 * [Asking questions](http://www.incidentalcomics.com/2015/08/asking-questions.html) - [something](https://twitter.com/jbeda/status/1087869217322332160?s=21)
 * [[Repetition / "iterative refinement"]](https://twitter.com/fchollet/status/1176468552796164096?s=20)
 * Rewriting
-* "You have to protect your work" 
+* "You have to protect your work"
    & also [[:book: Software Engineering at Google Lessons Learned from Programming Over Time]](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) -> code review, documentation etc. <!-- good to have a process, even google has a process, see book -->
 
 <details>
@@ -382,9 +382,9 @@ LATER
 * Be [[interesting]](https://twitter.com/togelius/status/1088679404937625600) -> [[build]](https://twitter.com/jessfraz/status/1089590130212589570?s=21) & [[make]](https://www.youtube.com/watch?v=OZ01MH9BQqk) things
 * Making [[ordered]](https://twitter.com/fatima_ahdash/status/1171153620525600771?s=21) [[lists]](https://www.toodledo.com/)
 * [Time block / organization](https://twitter.com/sexchrlab/status/1089937322450202624) [[How I develop]](http://www.bioinformaticszen.com/post/how-i-develop/) [[`termdown`]](https://github.com/trehn/termdown) [["Stop Not Writing...Just one bad sentence after another."]](https://twitter.com/annelamott/status/1109477463015325696?s=21)
-* Focus on strengths, [tries](https://twitter.com/jenheemstra/status/1095313296230539265) & [past successes](https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html)
+* Focus on strengths, [tries](https://twitter.com/jenheemstra/status/1095313296230539265) & [past successes](https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html) 
 * [Ask for feedback / understand why](https://ed.ted.com/featured/VdQTGGdx) 
-* [It is not personal](https://www.forbes.com/sites/glennllopis/2013/02/25/4-reasons-rejection-shouldnt-be-taken-personally/#685a0637180f)
+* [It is not personal](https://www.forbes.com/sites/glennllopis/2013/02/25/4-reasons-rejection-shouldnt-be-taken-personally/#685a0637180f) 
 * `"the quote about the table of contents in a book"`
 * "find patterns and organize them" - my dad | [[How Bill Gates remembers what he reads]](https://www.youtube.com/watch?v=8xwh88cI_d8)
 * [__`I’d rather be weird than boring`__](https://twitter.com/jessfraz/status/1149038005006434304?s=21)
@@ -426,7 +426,7 @@ LATER
 * Phenomenal Explainations 
   * [Photosynthesis](https://twitter.com/Natashatashaetc/status/1295944521893605379?s=20)
   * [PCA](https://twitter.com/allison_horst/status/1288904459490213888?s=20)
-  
+  * [Importance of having familiarity with notation](https://twitter.com/ChelseaParlett/status/1285631693186052099?s=20)
 ```
 add later
 ```
@@ -441,12 +441,13 @@ add later
 * Bad [timing](https://vclock.com/timer/)
 * Not walking around
 * Refreshing email
-* [Getting intimidated](https://twitter.com/lic_grajales/status/1086452881710960646?s=21) [[How to teach yourself hard things]](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/) [[ Unfamiliar ]](https://twitter.com/ryanflorence/status/1005516700521885696?s=21) [[How to read a mathematics textbook]](https://www.drmaciver.com/2016/05/how-to-read-a-mathematics-textbook/)
+* [Getting intimidated 1](https://twitter.com/lic_grajales/status/1086452881710960646?s=21)
+* [[How to teach yourself hard things]](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/) [[ Unfamiliar ]](https://twitter.com/ryanflorence/status/1005516700521885696?s=21) [[How to read a mathematics textbook]](https://www.drmaciver.com/2016/05/how-to-read-a-mathematics-textbook/)
 * ["unstick" yourself and try building something on your own"](https://twitter.com/jsjoeio/status/1113988454449213440)
 * ["You are not the work you do; you are the person you are." - Toni Morrison](https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are)
 * [HBR: How to Be Resilient in the Face of Harsh Criticism](https://hbr.org/2019/06/how-to-be-resilient-in-the-face-of-harsh-criticism)
 * [“One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time.”](https://twitter.com/nardine_g/status/1178416559313821697)
-* Antipattern: Treat Your Team Like Children: (
+* Antipattern: [[Treat Your Team Like Children:]](https://www.youtube.com/watch?v=dlnmQbPGuls) (
 ```
    "The best way to show your team that you don't trust them is to treat 
    members like kids -- people tend to act like the way you treat them,
