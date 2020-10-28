@@ -1248,8 +1248,11 @@ Developing Workshops/Bioinformatics/Process Of/etc
 * [`MAESTRO` (Model-based AnalysEs of Single-cell Transcriptome and RegulOme) is a comprehensive single-cell RNA-seq and ATAC-seq analysis suit built using snakemake.](https://github.com/liulab-dfci/MAESTRO)
   * see [proj structure](https://github.com/liulab-dfci/MAESTRO/tree/master/MAESTRO)
 * ["current list is 31 scRNA-seq (analysis method) benchmarks:"](https://twitter.com/markrobinsonca/status/1221903274678333441?s=21)
-* [UMAP for Data Integration](https://twitter.com/NikolayOskolkov/status/1316089107890741249?s=20)
 
+UMAP (is not just for single-cell and genomics but also other types of data)
+[UMAP for Data Integration](https://twitter.com/NikolayOskolkov/status/1316089107890741249?s=20)
+  * [github](https://github.com/lmcinnes/umap)
+  * [UMAP readthedocs](https://umap-learn.readthedocs.io/en/latest/index.html)
 
 Peak Calling '* see stop sign example*
 * [`Graph Peak Caller` - ChIP-seq peak caller for reads mapped to a graph-based reference genome](https://github.com/uio-bmi/graph_peak_caller) `#py` + `#pytest`
