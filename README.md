@@ -1,4 +1,5 @@
 # swajid_nest
+["Planning before work protects you from regret."](https://twitter.com/jessitron/status/1296530755624087552?s=20)
 
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
 <details>
@@ -145,7 +146,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 </details>
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance sudais <3 -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 DGDLbSCOM0c 1pADqYjvV7M (the drums!!) cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 DGDLbSCOM0c 1pADqYjvV7M (the drums!!) 27nnwnL5DoA cool riff -->
 <!-- https://twitter.com/archillect/status/1266462722188861446?s=21 -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band !!! -->
@@ -506,6 +507,7 @@ Dr. Anthony Fauci lays out three ways future scientific communicators can build 
 * [<img src="./icons/svg/logo-twitter.svg" width="15" height="15"> `: in bash is a null operator so if you are stringing together a really long one liner you can comment it like so`](https://twitter.com/jessfraz/status/1154229100271112192?s=21)
 * [How to set up a fresh Ubuntu desktop using only dotfiles and bash scripts](https://dev.to/victoria/how-to-set-up-a-fresh-ubuntu-desktop-using-only-dotfiles-and-bash-scripts-31m6)
 * [<img src="./icons/svg/logo-twitter.svg" width="15" height="15">`!$ is still my favorite shortcut in bash, use the last word of the previous line`](https://twitter.com/PhilippBayer/status/1179666678872805383)
+* all the Julia Evans illustrations
 
 ### Linux
 * [The Linux Kernel](https://en.wikibooks.org/wiki/The_Linux_Kernel)
@@ -1117,6 +1119,7 @@ Culture/Inclusivity -> technical documentation (e.g. API, software documentation
   * [Ambiguous pronoun references](https://developers.google.com/style/pronouns#ambiguous-pronoun-references)
 * [[Microsoft Style Guide]]
   * [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
+* ["This is what happens I agree when we put STEM on a pedestal and forget how humanities and social science are just as necessary in developing whole beings." - Sudip](https://twitter.com/ResistRun/status/1286650728233279488?s=20)
 
 Public Speaking / Presentations
 * [How to Speak in Public](https://www.nytimes.com/guides/year-of-living-better/how-to-speak-in-public)
@@ -1244,7 +1247,7 @@ Developing Workshops/Bioinformatics/Process Of/etc
 * [`MAESTRO` (Model-based AnalysEs of Single-cell Transcriptome and RegulOme) is a comprehensive single-cell RNA-seq and ATAC-seq analysis suit built using snakemake.](https://github.com/liulab-dfci/MAESTRO)
   * see [proj structure](https://github.com/liulab-dfci/MAESTRO/tree/master/MAESTRO)
 * ["current list is 31 scRNA-seq (analysis method) benchmarks:"](https://twitter.com/markrobinsonca/status/1221903274678333441?s=21)
-
+* [UMAP for Data Integration](https://twitter.com/NikolayOskolkov/status/1316089107890741249?s=20)
 
 
 Peak Calling '* see stop sign example*
@@ -1340,6 +1343,38 @@ Non-programming or non-science related super interesting or super rare perspecti
 [Illustrations](https://twitter.com/nathanwpyle/status/1252249727556636673?s=21) '* book stuff'
 * [k-means](https://twitter.com/allison_horst/status/1250477975130140672?s=21)
 * [`ggrepel`](https://twitter.com/allison_horst/status/1258600276098871296?s=20)
+
+<!-- i will literally not stop writing about this "system" for the rest of my life -->
+
+Handling (the wrong kind of) Criticism (or what even is all that)
+* [__Normalize saying “I don’t know enough to have an opinion.”__](https://twitter.com/emmaog___/status/1315685010284974080?s=20)
+* Slander/Defamation [[Mean Tweets - President Obama Edition]](https://www.youtube.com/watch?v=RDocnbkHjhI) [[Mean Tweets - President Obama Edition #2]](https://www.youtube.com/watch?v=XvgnOqcCYCM)
+* [[Gossip]](https://www.psychologytoday.com/us/blog/feeling-it/201612/8-things-do-if-youre-the-target-hurtful-gossip) <-> [Indicators of Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience#Indicators_of_possible_pseudoscience)
+
+1. Ask who is giving the criticism
+* [[armchair expert]](https://www.urbandictionary.com/define.php?term=Armchair%20Expert) [wannabe](https://www.urbandictionary.com/define.php?term=Wannabe)
+* [[PRO TIP: Don't take criticism from someone you would never go to for advice.]](https://twitter.com/HeatherAntos/status/1146372406006751232?s=20)
+* [[peanut gallery, idiom]](https://grammarist.com/idiom/peanut-gallery/)
+* [["I don't have a dog in this fight" - An old Southern expression meaning, in essence, that you don't care about the outcome of a situation]](http://www.metaphordogs.org/Dogs/entries/donthave.html)
+* [["too many cooks in the kitchen spoil the broth"]](https://knowyourphrase.com/too-many-cooks-in-the-kitchen)
+
+2. How are they presenting it
+* :tv: [[What-about-ism]](https://www.youtube.com/watch?v=RS82JNd0YzQ)
+* ["Anyone who can make you believe absurdities can make you commit atrocities." - Voltaire](https://twitter.com/Kasparov63/status/1026917208646012929?s=20)
+
+Handling Constructive Criticism
+```
+Constructive criticism is the process of offering valid and well-reasoned opinions about 
+the work of others, usually involving both positive and negative comments, in a friendly 
+manner rather than an oppositional one.
+```
+* [How to Accept (and Make Use of) Constructive Criticism](https://medium.com/the-write-brain/how-to-accept-and-make-use-of-constructive-criticism-71dca827df0f)
+  * "Constructive criticism is how we get better at whatever it is we’re learning how to do."
+* "get criticism early" - grad student friend 
+
+Thinking Critically
+* [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
+
 
 # O'Reilly / Reference Books
 B = bethesda, J = new jersey
@@ -1449,6 +1484,12 @@ R - review, P - paper, D - dashboard, C - code, P - plot
     9. Use open source tooling
     10. Ask for help (experts, stackoverflow)
 ```
+<!--
+# 2021
+- My paper on understanding and recognizing the anti-science anti-data power-loving/cult-like strategic system of armchair expert-ism in academia, with some long-term effects that include the current (non-random) lack of diversity 
+
+open to collaborators and collaborations
+-->
 
 # 2020
 
