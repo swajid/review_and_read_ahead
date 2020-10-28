@@ -379,6 +379,7 @@ LATER
   * [[longterm 7]](https://twitter.com/gauthier_gidel/status/1168970421649203200?s=21)
   * [[longterm 8]](https://twitter.com/aureliengeron/status/1168394684969832449)
   * [[longterm 9]](https://twitter.com/shaohua0116/status/1169003130333384706?s=21)
+  * [[longterm 10 "The giving of love is an education in itself." - Eleanor Roosevelt]](https://twitter.com/Hayoweee/status/1309922549132918784?s=20)
 * Persistence & manageability [[document the process 1]](https://twitter.com/wearerladies/status/1067877347490115584?s=21) [[document the process 2]](https://twitter.com/ethanwhite/status/1087727841771438081) [[(why/sometimes full-disclosure/"it unlocked something") document the process 3]](https://www.youtube.com/watch?v=pU4ytgsBW9I)
 * Be [[interesting]](https://twitter.com/togelius/status/1088679404937625600) -> [[build]](https://twitter.com/jessfraz/status/1089590130212589570?s=21) & [[make]](https://www.youtube.com/watch?v=OZ01MH9BQqk) things
 * Making [[ordered]](https://twitter.com/fatima_ahdash/status/1171153620525600771?s=21) [[lists]](https://www.toodledo.com/)
@@ -1486,7 +1487,7 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 ```
 <!--
 # 2021
-- My paper on understanding and recognizing the anti-science anti-data power-loving/cult-like strategic system of armchair expert-ism in academia, with some long-term effects that include the current (non-random) lack of diversity 
+- My paper on understanding and recognizing the anti-science, anti-data, power-loving/cult-like/unimpartial favoring of secondary-interests strategic system of armchair expert-ism and "fake smart person" (someone who favors power over science but is also a scientist) in a position of power phenomena in academia, with some long-term effects that include the current (non-random) lack of diversity in STEM and lack of support for outliers that are unlike this current system which sometimes could turn into their coerced isolation or leaving of academia entirely. In other words, it does not have to be like this.
 
 open to collaborators and collaborations
 -->
@@ -1495,7 +1496,7 @@ open to collaborators and collaborations
 
 * 2020 - [Reproducible computing for your own benifit](https://divingintogeneticsandgenomics.rbind.io/talk/2020-reproducible-computing/)
 * 2020 - [A Reproducible Data Analysis Workflow with R Markdown, Git, Make, and Docker](https://twitter.com/brandmaier/status/1265565091501608961?s=20)
-* 2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full)
+* 2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full) <!-- ah forgot about this -->
  - [ ] ? [protospacer](https://en.wikipedia.org/wiki/Protospacer_adjacent_motif)
  - [ ] fig 4a - neural network predictions of sgRNA activity
  - [ ] ? ["UMIs per cell gene expression"](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/algorithms/overview)
