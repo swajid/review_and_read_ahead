@@ -206,7 +206,7 @@ LATER
         Containerization (Docker)
         Dynamic documents (Jupyter, markdown)
      
-     3. Password protect original research, encrypt emails to advisers/everyone
+     3. Password protect original research, encrypt emails to advisers/everyone, anonymize data by removing headers/labels (find link)
      
         "It's a box of chocolates, you never know what will happen, but protect your work" - dad
      
@@ -437,6 +437,14 @@ add later
 * [burnout](https://www.youtube.com/watch?v=Mt-YuVhsvpY) -> [does go away](https://twitter.com/jessfraz/status/1109141258201526272?s=21)
 * Overconfidence
 * Being incorrect: [["I got hacked ... by me!"]](https://twitter.com/asvpxrocky/status/1135615119059169282)
+ * [[Data FTW]](https://twitter.com/dpatil/status/1321139262977273858?s=21)
+```
+Dr. Anthony Fauci lays out three ways future scientific communicators can build trust:
+
+1) Always go by the data
+2) Admit when you don't know something
+3) The goal is not to show how smart you are. It's to get people to understand what you're talking about.
+```
 * Not writing
 * Bad [timing](https://vclock.com/timer/)
 * Not walking around
@@ -447,6 +455,7 @@ add later
 * ["You are not the work you do; you are the person you are." - Toni Morrison](https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are)
 * [HBR: How to Be Resilient in the Face of Harsh Criticism](https://hbr.org/2019/06/how-to-be-resilient-in-the-face-of-harsh-criticism)
 * [“One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time.”](https://twitter.com/nardine_g/status/1178416559313821697)
+* [[splitting hairs, idiom]](https://idioms.thefreedictionary.com/split+hairs) <-> ["it really worked out that way"](https://www.youtube.com/watch?v=8vl82FssW5k)
 * Antipattern: [[Treat Your Team Like Children:]](https://www.youtube.com/watch?v=dlnmQbPGuls) (
 ```
    "The best way to show your team that you don't trust them is to treat 
@@ -516,6 +525,7 @@ add later
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Pauls Notes](http://tutorial.math.lamar.edu/)
 * [Math for CS](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+* [Linear Algebra by Jim Hefferon](https://hefferon.net/linearalgebra/)
 * __Some newer textbook for Linear Algebra__
 
 ## MBB / Biochem
