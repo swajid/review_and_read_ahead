@@ -1445,6 +1445,7 @@ w/o deadlines
   * [`#useR2019`](https://twitter.com/hashtag/UseR2019?src=hash)
 * [`#singlecell`](https://twitter.com/search?q=%23singlecell&src=typd)
   * [`#scATAC`](https://twitter.com/hashtag/scATAC)
+* [`#cfDNA`](https://twitter.com/hashtag/cfDNA)
 * [`#bookdown`](https://twitter.com/search?q=%23bookdown&src=typd)
 * [`#pandastricks`](https://twitter.com/search?q=%23pandastricks&src=typd)
 * [`#TwoFunctionsMostDays`](https://twitter.com/hashtag/TwoFunctionsMostDays) 
@@ -1489,10 +1490,11 @@ R - review, P - paper, D - dashboard, C - code, P - plot
     10. Ask for help (experts, stackoverflow)
 ```
 <!--
-# 2021
+# 2021 (my paper ideas)
 - My paper on understanding and recognizing the anti-science, anti-data, power-loving/cult-like/unimpartial favoring of secondary-interests strategic system of armchair expert-ism and "fake smart person" (someone who favors power over science but is also a scientist) in a position of power phenomena in academia, with some long-term effects that include the current (non-random) lack of diversity in STEM and lack of support for outliers that are unlike this current system which sometimes could turn into their coerced isolation or leaving of academia entirely. In other words, it does not have to be like this.
-
 open to collaborators and collaborations
+- 10 idioms in English that are useful approaches to convey information dense topics in statistics to interdisciplinary bioinformatics and data science teams 
+(e.g. "grasping at straws", "shooting in the dark", "needle in a haystack")
 -->
 
 # 2020
