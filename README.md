@@ -1493,12 +1493,16 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 # 2021 (my paper ideas)
 - My paper on understanding and recognizing the anti-science, anti-data, power-loving/cult-like/unimpartial favoring of secondary-interests strategic system of armchair expert-ism and "fake smart person" (someone who favors power over science but is also a scientist) in a position of power phenomena in academia, with some long-term effects that include the current (non-random) lack of diversity in STEM and lack of support for outliers that are unlike this current system which sometimes could turn into their coerced isolation or leaving of academia entirely. In other words, it does not have to be like this.
 open to collaborators and collaborations
-- 10 idioms in English that are useful approaches to convey information dense topics in statistics to interdisciplinary bioinformatics and data science teams 
-(e.g. "grasping at straws", "shooting in the dark", "needle in a haystack")
+- some idioms in English that are useful approaches to convey information dense topics to interdisciplinary bioinformatics and data science teams (where domain experts are also non-programmers or non-math but important contributors (e.g. data producers/curators or front-end developers))
+(e.g. "grasping at straws", "shooting in the dark", "needle in a haystack", "square peg in round hole" = mismatches)
 -->
 
 # 2020
+* 2020 - [Opportunities and challenges in long-read sequencing data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1935-5)
+```
+** add notes here **
 
+```
 * 2020 - [Reproducible computing for your own benifit](https://divingintogeneticsandgenomics.rbind.io/talk/2020-reproducible-computing/)
 * 2020 - [A Reproducible Data Analysis Workflow with R Markdown, Git, Make, and Docker](https://twitter.com/brandmaier/status/1265565091501608961?s=20)
 * 2020 - [Titrating gene expression with series of systematically compromised CRISPR guide RNAs](https://www.biorxiv.org/content/10.1101/717389v1.full) <!-- ah forgot about this -->
