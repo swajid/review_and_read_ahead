@@ -1449,6 +1449,7 @@ w/o deadlines
 * [`#bookdown`](https://twitter.com/search?q=%23bookdown&src=typd)
 * [`#pandastricks`](https://twitter.com/search?q=%23pandastricks&src=typd)
 * [`#TwoFunctionsMostDays`](https://twitter.com/hashtag/TwoFunctionsMostDays) 
+* [`#ashg20`](https://twitter.com/hashtag/ashg20) 
 * #paperADay
 * #100daysOfCode
 * #100DaysOfMLCode
@@ -1494,7 +1495,7 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 - My paper on understanding and recognizing the anti-science, anti-data, power-loving/cult-like/unimpartial favoring of secondary-interests strategic system of armchair expert-ism and "fake smart person" (someone who favors power over science but is also a scientist) in a position of power phenomena in academia, with some long-term effects that include the current (non-random) lack of diversity in STEM and lack of support for outliers that are unlike this current system which sometimes could turn into their coerced isolation or leaving of academia entirely. In other words, it does not have to be like this.
 open to collaborators and collaborations
 - some idioms in English that are useful approaches to convey information dense topics to interdisciplinary bioinformatics and data science teams (where domain experts are also non-programmers or non-math but important contributors (e.g. data producers/curators or front-end developers))
-(e.g. "grasping at straws", "shooting in the dark", "needle in a haystack", "square peg in round hole" = mismatches)
+(e.g. "grasping at straws", "shooting in the dark", "needle in a haystack", "square peg in round hole" = {will think of a better example})
 -->
 
 # 2020
