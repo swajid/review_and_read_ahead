@@ -1474,6 +1474,7 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 * [[IEEE Journal of Biomedical and Health Informatics]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8752487&punumber=6221020)
 * [[IEEE Transactions on Visualization and Computer Graphics]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 * [[Briefings in Bioinformatics]](https://academic.oup.com/bib)
+* [[Annual Review of Biomedical Engineering]](https://www.annualreviews.org/journal/bioeng)
 
 //Turn this into a table with emojis+notes or shading: CS, Bioinfo, etc.
 
