@@ -1500,7 +1500,11 @@ open to collaborators and collaborations
 (e.g. "grasping at straws", "shooting in the dark", "needle in a haystack", "square peg in round hole" = {will think of a better example})
 -->
 
+# 2021
+
 # 2020
+* 2020 - [Highly multiplexed spatial mapping of microbial communities](https://www.nature.com/articles/s41586-020-2983-4)
+ * [Extended Data Fig. 6: Image segmentation workflow and comparison to other methods.](https://www.nature.com/articles/s41586-020-2983-4/figures/10)
 * 2020 - [Opportunities and challenges in long-read sequencing data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1935-5)
 ```
 ** add notes here **
