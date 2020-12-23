@@ -1,4 +1,4 @@
-# swajid_nest
+# swajid
 ["Planning before work protects you from regret."](https://twitter.com/jessitron/status/1296530755624087552?s=20)
 
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
@@ -435,6 +435,10 @@ add later
 
 
 # What doesn't
+* [[secretly forwarding my emails for years]](https://twitter.com/goldeneliie/status/1300861691253719041?s=21)
+```
+I think we all need to make sure before we share any personal information we always know who we are really talking to. Don’t ever tell anyone your secrets, personal stuff until you know and trust them 💗
+```
 * [unspecified+unbounded=everything+nothing=chaos](https://www.youtube.com/watch?v=arj7oStGLkU) [[also this]](https://twitter.com/sarah_edo/status/1109478984792702977?s=21)
 * [burnout](https://www.youtube.com/watch?v=Mt-YuVhsvpY) -> [does go away](https://twitter.com/jessfraz/status/1109141258201526272?s=21)
 * Overconfidence
