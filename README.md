@@ -1017,6 +1017,11 @@ Very large data(sets,bases,projects)
 * [How to Load a Massive File as small chunks in Pandas?](https://cmdlinetips.com/2018/01/how-to-load-a-massive-file-as-small-chunks-in-pandas/)
 - [ ] link comparing datatable vs. pandas
 
+Strategies for working with large data
+memoisation
+* [R using `library(memoise)`](https://twitter.com/drob/status/1337103174868611074?s=20) 
+
+
 Types of studies in biostatistics
 * 2012 - [A brief discussion of statistics and experimental design](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321166/)
 * [Longitudinal studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4669300/)
