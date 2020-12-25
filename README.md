@@ -1142,6 +1142,7 @@ Public Speaking / Presentations
 * [Explain how to make something that is really difficult: tell a story, add cultural/relevant history (the why) along the way, incremental steps, explain the effects of missing a step or variations etc.](https://www.youtube.com/watch?v=lMo34CPxICs&feature=youtu.be&t=13) [[background]](https://en.wikipedia.org/wiki/Nihari)
 * [Show examples of test cases and complexities - "The simple task of recognizing a stop sign is harder than we can imagine"](https://twitter.com/hardmaru/status/1252768723976335360?s=21)
 * [Really great example on how to present/give advice/wisdom without being an armchair/know_it_all](https://www.youtube.com/watch?v=VNvJj8MHu9g)
+  * [[first 10 minutes vs this thread]](https://twtext.com/article/1286693295112896514)
 
 Sci-art
 * <img src="./icons/svg/logo-twitter.svg" width="15" height="15"> [biorender](https://twitter.com/iamscicomm/status/1242903749896687617?s=21)
@@ -1513,7 +1514,11 @@ open to collaborators and collaborations
 
 # 2021
 
-# 2020
+* 2020 - [DeepImmuno: Deep learning-empowered prediction and generation of immunogenic peptides for T cell immunity](https://www.biorxiv.org/content/10.1101/2020.12.24.424262v1.full.pdf)
+  * [DeepImmuno](https://github.com/frankligy/DeepImmuno)
+  * [webapp](https://deepimmuno.herokuapp.com)
+  * `"Generative adversarial networks (GANs) are widely used in computer vision [12] and synthetic biology [13] to generate new images or sequences of interest (i.e. antimicrobial peptides), but have not previously used to produce synthetic models of immunogenic peptides."`
+<!-- there was an igem team that did something like this, added paper for methods & references -->
 * 2020 - [Highly multiplexed spatial mapping of microbial communities](https://www.nature.com/articles/s41586-020-2983-4)
  * [Extended Data Fig. 6: Image segmentation workflow and comparison to other methods.](https://www.nature.com/articles/s41586-020-2983-4/figures/10)
 * 2020 - [Opportunities and challenges in long-read sequencing data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1935-5)
