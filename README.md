@@ -149,8 +149,8 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 <!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 DGDLbSCOM0c 1pADqYjvV7M (the drums!!) 27nnwnL5DoA cool riff -->
 <!-- https://twitter.com/archillect/status/1266462722188861446?s=21 -->
 <!--  too shy to keep emailing -->
-<!-- https://www.wikihow.com/Start-a-Garage-Band !!! -->
-<!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc'} -->
+<!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
+<!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
 
 
@@ -357,6 +357,7 @@ LATER
   * [[example 50: visualizing a markov chain]](https://willhipson.netlify.com/post/markov-sim/markov_chain/)
   * [[example 51: the elements of choosing colors for great data visualization in R]](http://www.sthda.com/english/wiki/the-elements-of-choosing-colors-for-great-data-visualization-in-r)
   * [[example 52: factors in R]](https://rstatisticsblog.com/r-beginners/working-with-factors-in-r-tutorial-forcats-package/)
+  * [[example 53: super nice -- gives new users boilerplate python code to use package]](https://dnascent.readthedocs.io/en/latest/cookbook.html)
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
