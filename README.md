@@ -1141,6 +1141,7 @@ Public Speaking / Presentations
 - [ ] write notes from this here (18 mins in)
 * [Explain how to make something that is really difficult: tell a story, add cultural/relevant history (the why) along the way, incremental steps, explain the effects of missing a step or variations etc.](https://www.youtube.com/watch?v=lMo34CPxICs&feature=youtu.be&t=13) [[background]](https://en.wikipedia.org/wiki/Nihari)
 * [Show examples of test cases and complexities - "The simple task of recognizing a stop sign is harder than we can imagine"](https://twitter.com/hardmaru/status/1252768723976335360?s=21)
+* [Really great example on how to present/give advice/wisdom without being an armchair/know_it_all](https://www.youtube.com/watch?v=VNvJj8MHu9g)
 
 Sci-art
 * <img src="./icons/svg/logo-twitter.svg" width="15" height="15"> [biorender](https://twitter.com/iamscicomm/status/1242903749896687617?s=21)
