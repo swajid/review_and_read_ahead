@@ -1363,10 +1363,32 @@ Non-programming or non-science related super interesting or super rare perspecti
 <!-- I will literally not stop writing about this "system" for the rest of my life -->
 
 Handling (the wrong kind of) Criticism (or what even is all that)
+```
+"These two things are intrinsically connected. 
+The inability to consider a version of the world in which you’re wrong. 
+The complete disregard for a story that doesn’t match your narrative. 
+The lying. The bravado. The complete lack of introspection."
+```
+from: https://twitter.com/roseveleth/status/1344682466322259976?s=20
+
+```
+"Rob Tibshirani: if someone shows you simulations that only show the superiority of 
+their method, you should be suspicious. A good set of simulations will show where 
+the method shines but also where it breaks."
+```
+from: https://twitter.com/ByranSmucker/status/1024684578441551873?s=20
+
+```
+"Success is a lousy teacher. It seduces smart people into thinking they can’t lose.” —
+@BillGates"
+```
+from: https://twitter.com/valaafshar/status/1152394491954946048?lang=en
+
 * [__Normalize saying “I don’t know enough to have an opinion.”__](https://twitter.com/emmaog___/status/1315685010284974080?s=20)
 * Slander/Defamation [[Mean Tweets - President Obama Edition]](https://www.youtube.com/watch?v=RDocnbkHjhI) [[Mean Tweets - President Obama Edition #2]](https://www.youtube.com/watch?v=XvgnOqcCYCM)
 * [[Gossip]](https://www.psychologytoday.com/us/blog/feeling-it/201612/8-things-do-if-youre-the-target-hurtful-gossip) 
 * [Indicators of Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience#Indicators_of_possible_pseudoscience)
+* [how to (pathologically) lie with statistics: consistent over exaggeration / hype of model preformance, e.g. if your assertion or selling-point is that your model can predict an event, why did it not already predict a bigger past event?](https://www.youtube.com/watch?v=aSR-uefPmME) (e.g. "you should be suspicious" <- nicer way of calling out a scam)
 
 1. Ask who is giving the criticism
 * [[armchair expert]](https://www.urbandictionary.com/define.php?term=Armchair%20Expert) [wannabe](https://www.urbandictionary.com/define.php?term=Wannabe)
