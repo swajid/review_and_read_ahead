@@ -1520,6 +1520,7 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 * [[IEEE Transactions on Visualization and Computer Graphics]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 * [[Briefings in Bioinformatics]](https://academic.oup.com/bib)
 * [[Annual Review of Biomedical Engineering]](https://www.annualreviews.org/journal/bioeng)
+* [[Fairness, Accountability, and Transparency]](https://dl.acm.org/conference/fat)
 
 //Turn this into a table with emojis+notes or shading: CS, Bioinfo, etc.
 
@@ -1547,6 +1548,7 @@ open to collaborators and collaborations
 
 # 2021
 
+* 2020 - [Towards a critical race methodology in algorithmic fairness](https://dl.acm.org/doi/abs/10.1145/3351095.3372826)
 * 2020 - [DeepImmuno: Deep learning-empowered prediction and generation of immunogenic peptides for T cell immunity](https://www.biorxiv.org/content/10.1101/2020.12.24.424262v1.full.pdf)
   * [DeepImmuno](https://github.com/frankligy/DeepImmuno)
   * [webapp](https://deepimmuno.herokuapp.com)
@@ -1604,6 +1606,7 @@ scientists forget that.
 * 2019 - [Assessment of computational methods for the analysis of single-cell ATAC-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1854-5)
 
 # 2018
+* 2018 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
 * 2018 - [Biomedical informatics meets data science: current state and future directions for interaction](https://academic.oup.com/jamiaopen/article/1/2/136/5068667)
 * 2018 - [Deep Learning in Biomedical Data Science](https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-080917-013343) `#CS`
 * 2018 - [Visualization of Biomedical Data](https://www.annualreviews.org/doi/full/10.1146/annurev-biodatasci-080917-013424)
