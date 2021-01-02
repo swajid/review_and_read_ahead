@@ -1379,6 +1379,12 @@ the method shines but also where it breaks."
 from: https://twitter.com/ByranSmucker/status/1024684578441551873?s=20
 
 ```
+"99.99% of the time, “rockstar” engineers acquire their status by withholding information 
+from the team and setting themselves up as a bottleneck for key development work."
+```
+from https://twitter.com/captainsafia/status/1018913191823331328?s=20
+
+```
 "Success is a lousy teacher. It seduces smart people into thinking they can’t lose.” —
 @BillGates"
 ```
@@ -1388,7 +1394,8 @@ from: https://twitter.com/valaafshar/status/1152394491954946048?lang=en
 * Slander/Defamation [[Mean Tweets - President Obama Edition]](https://www.youtube.com/watch?v=RDocnbkHjhI) [[Mean Tweets - President Obama Edition #2]](https://www.youtube.com/watch?v=XvgnOqcCYCM)
 * [[Gossip]](https://www.psychologytoday.com/us/blog/feeling-it/201612/8-things-do-if-youre-the-target-hurtful-gossip) 
 * [Indicators of Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience#Indicators_of_possible_pseudoscience)
-* [how to (pathologically) lie with statistics: consistent over exaggeration / hype of model preformance, e.g. if your assertion or selling-point is that your model can predict an event, why did it not already predict a bigger past event?](https://www.youtube.com/watch?v=aSR-uefPmME) (e.g. "you should be suspicious" <- nicer way of calling out a scam)
+* [how to (pathologically) lie with statistics: consistent over exaggeration / hype of model performance, e.g. if your assertion or selling-point is that your model can predict an event, why did it not already predict bigger past events?](https://www.youtube.com/watch?v=aSR-uefPmME) (e.g. "you should be suspicious" <- nicer way of calling out a scam)
+<!-- how wag the dog meets pepe silvia did this all get? need like an entire month to understand it all one day, just unbelievable -->
 
 1. Ask who is giving the criticism
 * [[armchair expert]](https://www.urbandictionary.com/define.php?term=Armchair%20Expert) [wannabe](https://www.urbandictionary.com/define.php?term=Wannabe)
@@ -1396,6 +1403,9 @@ from: https://twitter.com/valaafshar/status/1152394491954946048?lang=en
 * [[peanut gallery, idiom]](https://grammarist.com/idiom/peanut-gallery/)
 * [["I don't have a dog in this fight" - An old Southern expression meaning, in essence, that you don't care about the outcome of a situation]](http://www.metaphordogs.org/Dogs/entries/donthave.html)
 * [["too many cooks in the kitchen spoil the broth"]](https://knowyourphrase.com/too-many-cooks-in-the-kitchen)
+What biases does the presenter already hold, who is being left out and why?
+* [Understanding the Limitations of AI: When Algorithms Fail - Timnit Gebru (WiDS 2019)](https://www.youtube.com/watch?v=Q2CSVYD7pYE)
+* [google scholar search for `"fairness in genomics and machine learning"`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C31&q=fairness+in+genomics+and+machine+learning&btnG=)
 
 2. How are they presenting it
 * :tv: [[What-about-ism]](https://www.youtube.com/watch?v=RS82JNd0YzQ)
