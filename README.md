@@ -1365,7 +1365,8 @@ Non-programming or non-science related super interesting or super rare perspecti
 Handling (the wrong kind of) Criticism (or what even is all that)
 * [__Normalize saying “I don’t know enough to have an opinion.”__](https://twitter.com/emmaog___/status/1315685010284974080?s=20)
 * Slander/Defamation [[Mean Tweets - President Obama Edition]](https://www.youtube.com/watch?v=RDocnbkHjhI) [[Mean Tweets - President Obama Edition #2]](https://www.youtube.com/watch?v=XvgnOqcCYCM)
-* [[Gossip]](https://www.psychologytoday.com/us/blog/feeling-it/201612/8-things-do-if-youre-the-target-hurtful-gossip) <-> [Indicators of Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience#Indicators_of_possible_pseudoscience)
+* [[Gossip]](https://www.psychologytoday.com/us/blog/feeling-it/201612/8-things-do-if-youre-the-target-hurtful-gossip) 
+* [Indicators of Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience#Indicators_of_possible_pseudoscience)
 
 1. Ask who is giving the criticism
 * [[armchair expert]](https://www.urbandictionary.com/define.php?term=Armchair%20Expert) [wannabe](https://www.urbandictionary.com/define.php?term=Wannabe)
@@ -1438,7 +1439,7 @@ _add link of TOC_
 
 # Fellowships
 w/ deadlines
-* [Graduate Fellowship Opportunities for the 2018-2019 Academic Year](https://www.cs.cmu.edu/~gradfellowships/)
+* [Graduate Fellowship Opportunities for the 2020-21 Academic Year](https://www.cs.cmu.edu/~gradfellowships/)
 * [Fellowship and Award Deadlines, 2018-2019](https://www.cs.umd.edu/grad/fellowships)
 * [Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) <!-- I like Microsoft, they seem to now be doing stuff that is similar to google genomics https://github.com/microsoftgenomics-->
 
