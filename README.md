@@ -1390,6 +1390,17 @@ from https://twitter.com/captainsafia/status/1018913191823331328?s=20
 ```
 from: https://twitter.com/valaafshar/status/1152394491954946048?lang=en
 
+<!-- understanding the stalking crime syndicate (motive): -->
+
+```
+“The mind of a bigot is like the pupil of an eye.
+The more light you shine on it, the more it will contract.”
+― Oliver Wendell Holmes, Sr.
+```
+
+<!-- in other words, I have stuff to read, 
+just go away and stop stalking and lying about me -->
+
 * [__Normalize saying “I don’t know enough to have an opinion.”__](https://twitter.com/emmaog___/status/1315685010284974080?s=20)
 * Slander/Defamation [[Mean Tweets - President Obama Edition]](https://www.youtube.com/watch?v=RDocnbkHjhI) [[Mean Tweets - President Obama Edition #2]](https://www.youtube.com/watch?v=XvgnOqcCYCM)
 * [[Gossip]](https://www.psychologytoday.com/us/blog/feeling-it/201612/8-things-do-if-youre-the-target-hurtful-gossip) 
@@ -1607,6 +1618,9 @@ scientists forget that.
 
 # 2018
 * 2018 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
+```
+Super interesting, have some ideas (will come back to this) 
+```
 * 2018 - [Biomedical informatics meets data science: current state and future directions for interaction](https://academic.oup.com/jamiaopen/article/1/2/136/5068667)
 * 2018 - [Deep Learning in Biomedical Data Science](https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-080917-013343) `#CS`
 * 2018 - [Visualization of Biomedical Data](https://www.annualreviews.org/doi/full/10.1146/annurev-biodatasci-080917-013424)
@@ -1727,5 +1741,5 @@ Stir flour mixture into banana mixture; batter will be a little lumpy.
 Heat a lightly oiled griddle or frying pan over medium high heat.
 Pour or scoop batter onto pan, using about 1/4 cup for each pancake.
 Cook until pancakes are golden brown on both sides."
-- comment on YT, recipe work in progress
+- comment on YT, recipe work in progress <3
 ```
