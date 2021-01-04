@@ -125,6 +125,8 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 * You have to enjoy your life, it's a good life, now go jump in the pool and enjoy your life
 
+* Work with everyone.
+
 - my dad
 ```
 
@@ -1143,13 +1145,15 @@ Public Speaking / Presentations
 * [Show examples of test cases and complexities - "The simple task of recognizing a stop sign is harder than we can imagine"](https://twitter.com/hardmaru/status/1252768723976335360?s=21)
 * [Really great example on how to present/give advice/wisdom without being an armchair/know_it_all](https://www.youtube.com/watch?v=VNvJj8MHu9g)
   * [[first 10 minutes vs this thread]](https://twtext.com/article/1286693295112896514)
-* [Lots of great techniques in public speaking, this is from 1986](https://www.youtube.com/watch?v=PE0q3PZKEQs)
+* [Lots of great techniques in public speaking, this is from 1986, taken place at The Fletcher School of Law and Diplomacy](https://www.youtube.com/watch?v=PE0q3PZKEQs) <!-- e.g. not something I found on Facebook; also a reminder that actual talent and scholarship goes into understanding things as opposed to just armchairing along -->
 ```
-What are some ways scholars can forward a more object view of the ME:
+What are some ways scholars can forward a more objective view of the ME:
 Wieseltier: They could visit it
 Lewis: By speaking and writing as scholars
 Said: By telling the truth
 Hitchens: By recognizing their limitations
+--
+* side note: some of my favorite writers
 ```
 
 Sci-art
