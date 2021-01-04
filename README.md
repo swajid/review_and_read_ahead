@@ -1143,6 +1143,8 @@ Public Speaking / Presentations
 * [Show examples of test cases and complexities - "The simple task of recognizing a stop sign is harder than we can imagine"](https://twitter.com/hardmaru/status/1252768723976335360?s=21)
 * [Really great example on how to present/give advice/wisdom without being an armchair/know_it_all](https://www.youtube.com/watch?v=VNvJj8MHu9g)
   * [[first 10 minutes vs this thread]](https://twtext.com/article/1286693295112896514)
+* [Lots of great techniques in public speaking (1986)](https://www.youtube.com/watch?v=PE0q3PZKEQs)
+
 
 Sci-art
 * <img src="./icons/svg/logo-twitter.svg" width="15" height="15"> [biorender](https://twitter.com/iamscicomm/status/1242903749896687617?s=21)
