@@ -1420,7 +1420,8 @@ What biases does the presenter already hold, who is being left out and why?
 
 2. How are they presenting it
 * :tv: [[What-about-ism]](https://www.youtube.com/watch?v=RS82JNd0YzQ)
-* ["Anyone who can make you believe absurdities can make you commit atrocities." - Voltaire](https://twitter.com/Kasparov63/status/1026917208646012929?s=20)
+* ["Anyone who can make you believe absurdities* can make you commit atrocities." - Voltaire](https://twitter.com/Kasparov63/status/1026917208646012929?s=20)
+e.g. bigoted and racist mythological fantasies
 
 Handling Constructive Criticism
 ```
@@ -1559,6 +1560,8 @@ open to collaborators and collaborations
 
 # 2021
 
+* 2020 - [We need to keep a reproducible trace of facts, predictions, and hypotheses from gene to function in the era of big data](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000999)
+* 2020 - [Aequorea’s secrets revealed: New fluorescent proteins with unique properties for bioimaging and biosensing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000936)
 * 2020 - [Towards a critical race methodology in algorithmic fairness](https://dl.acm.org/doi/abs/10.1145/3351095.3372826)
 * 2020 - [DeepImmuno: Deep learning-empowered prediction and generation of immunogenic peptides for T cell immunity](https://www.biorxiv.org/content/10.1101/2020.12.24.424262v1.full.pdf)
   * [DeepImmuno](https://github.com/frankligy/DeepImmuno)
