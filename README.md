@@ -1145,6 +1145,7 @@ Public Speaking / Presentations
 * [Show examples of test cases and complexities - "The simple task of recognizing a stop sign is harder than we can imagine"](https://twitter.com/hardmaru/status/1252768723976335360?s=21)
 * [Really great example on how to present/give advice/wisdom without being an armchair/know_it_all](https://www.youtube.com/watch?v=VNvJj8MHu9g)
   * [[first 10 minutes vs this thread]](https://twtext.com/article/1286693295112896514)
+* [Judith Butler and Cornel West (Columbia)](https://www.youtube.com/watch?v=jF5mYvjDp3U) <!-- also, how to feel absolutely alive, listening to Cornel West talk and how to recognize wannabe intellectuals/armchairs/pseudoscientists -->
 * [An example of how to not be an armchair or in other words, a wannabe looking for ears to fill with factless garbage](https://www.youtube.com/watch?v=eI6mjFL80xE)
 * [Lots of great techniques in public speaking, this is from 1986, taken place at The Fletcher School of Law and Diplomacy](https://www.youtube.com/watch?v=PE0q3PZKEQs) <!-- e.g. not something I found on Facebook; also a reminder that actual talent and scholarship goes into understanding things as opposed to just armchairing along -->
 ```
