@@ -1337,6 +1337,7 @@ Dashboards [super quick, shinybones](https://twitter.com/drob/status/12555777782
 * [Serious examples](https://twitter.com/robinson_es/status/1153341706147893248?s=21)
 * [Dash, the fastest growing framework for building analytic web applications on top of Python models, is now available for the R programming language](https://moderndata.plot.ly/dash-has-gone-full-r/)
 * [phyloseq: Analyze microbiome census data using R + Shiny](http://joey711.github.io/phyloseq/)
+  * [citations/uses of pyloseq](https://scholar.google.com/scholar?hl=en&as_sdt=5,31&sciodt=0,31&cites=10444337127693249499&scipsc=&q=&scisbd=1)
 * [Introducing Dash Bio for R](https://www.r-bloggers.com/introducing-dash-bio-for-r/) `#plotly`
 * [Streamlit is the first app framework specifically for Machine Learning and Data Science teams](https://streamlit.io/) `#oss`
 * [Creating interactive dashboards from Jupyter notebooks](https://pbpython.com/interactive-dashboards.html)
