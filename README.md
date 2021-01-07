@@ -1427,8 +1427,12 @@ from: https://twitter.com/drkahaynes/status/1346969525531660293?s=20
 I wish I never ever ever ever ever ever ever even applied 
 miserable dehumanizing bigots and sabotagers
 cannot function in a civilized society
-(civilized people don't run crime syndicates)
+(civilized people don't run or are part of crime syndicates)
 absolutely appalling and shameful
+can't even transfer away from the brutes and the goons that are going 
+to keep stalking me for the rest of my life 
+(I realized that the other day, the stalking will never end)
+ridiculous
 -->
 
 <!-- in other words, I have stuff to read, 
