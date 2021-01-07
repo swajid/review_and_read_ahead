@@ -1405,7 +1405,7 @@ from https://twitter.com/captainsafia/status/1018913191823331328?s=20
 ```
 from: https://twitter.com/valaafshar/status/1152394491954946048?lang=en
 
-<!-- understanding the stalking crime syndicate (motive): -->
+<!-- the stalking crime syndicate (motive): -->
 
 ```
 “The mind of a bigot is like the pupil of an eye.
@@ -1416,6 +1416,17 @@ the more it will contract.”
 
 ― Oliver Wendell Holmes, Sr.
 ```
+
+```
+Or finally treat racism as a non-negotiable weakness during hiring and promotion. 
+Stop putting these people in charge of the lives of people they insist on dehumanizing.
+```
+from: https://twitter.com/drkahaynes/status/1346969525531660293?s=20
+
+<!-- because I still can't get over it, 
+I wish I never ever ever ever ever even applied 
+miserable dehumanizing bigots and sabotagers
+-->
 
 <!-- in other words, I have stuff to read, 
 just go away and stop stalking and lying about me -->
