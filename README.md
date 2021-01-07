@@ -1424,8 +1424,11 @@ Stop putting these people in charge of the lives of people they insist on dehuma
 from: https://twitter.com/drkahaynes/status/1346969525531660293?s=20
 
 <!-- because I still can't get over it, 
-I wish I never ever ever ever ever even applied 
+I wish I never ever ever ever ever ever ever even applied 
 miserable dehumanizing bigots and sabotagers
+cannot function in a civilized society
+(civilized people don't run crime syndicates)
+absolutely appalling and shameful
 -->
 
 <!-- in other words, I have stuff to read, 
