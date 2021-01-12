@@ -1463,6 +1463,18 @@ e.g. bigoted and racist mythological fantasies
 Examples of writing that is absolutely haunting
 2014 - [When Genocide Is Permissible (published then deleted, apologies issued](https://www.huffpost.com/entry/times-of-israel-genocide-article-post-deleted_n_5641971)
 
+Public Policy Issues in Human Genomics and its applications
+* [Google Scholar: "Policy issues in Genomics"](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C31&q=Policy+Issues+in+Genomics&btnG=)
+- 2014 [Emerging Issues in Public Health Genomics](https://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-090413-025514)
+* ["genomic surveillance"](https://directorsblog.nih.gov/tag/genomic-surveillance/) 
+  * this phrase will need specificity sooner or later, e.g. "viral genomic surveillance"
+* [Human Genomics in Global Health](https://www.who.int/genomics/elsi/en/) 
+<!-- looking for something where UN -> WHO establishes standards and regulations, maybe this
+https://www.ga4gh.org/ "The Global Alliance for Genomics and Health (GA4GH) is a policy-framing and technical standards-setting organization, seeking to enable responsible genomic data sharing within a human rights framework."
+* https://www.ga4gh.org/genomic-data-toolkit/data-security-toolkit/
+how does one become a member, does it require a PhD
+-->
+
 Handling Constructive Criticism
 ```
 Constructive criticism is the process of offering valid and well-reasoned opinions about 
