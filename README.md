@@ -1473,6 +1473,9 @@ Public Policy Issues in Human Genomics and its applications
 https://www.ga4gh.org/ "The Global Alliance for Genomics and Health (GA4GH) is a policy-framing and technical standards-setting organization, seeking to enable responsible genomic data sharing within a human rights framework."
 * https://www.ga4gh.org/genomic-data-toolkit/data-security-toolkit/
 how does one become a member, does it require a PhD
+* note to self: find stuff like this to contribute to, 
+whatever will keep me far and away from the 
+absolutely-insufferable_creepy-old-men_armchair-stalkers
 -->
 
 Handling Constructive Criticism
@@ -1692,7 +1695,10 @@ Super interesting, have some ideas (will come back to this)
 * 2017 - [Should biomedical research be like Airbnb?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001818)
 * 2017 - [Toil enables reproducible, open source, big biomedical data analyses](https://www.nature.com/articles/nbt.3772#author-information)
 * 2017 - [Identifying Short-Names for Place Entities from Social Networks](https://dl.acm.org/citation.cfm?id=3148157) `#Faiz`
-
+* 2017 - [An engineering design approach to systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6534349/)
+```
+ Systems bioengineers make a habit of stepping back at each point to reassess their assumptions, approaches, and envisioned execution before moving ahead to the next phase of work, which usually involves transitioning from model to experiment or vice versa.
+```
 
 * 2016 - [Crowdsourcing biomedical research: leveraging communities as innovation engines](https://www.nature.com/articles/nrg.2016.69)
 * 2016 - [Secure cloud computing for genomic data](https://www.nature.com/articles/nbt.3496)
