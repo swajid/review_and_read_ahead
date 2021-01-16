@@ -1689,6 +1689,8 @@ Super interesting, have some ideas (will come back to this)
 * 2018 - [Applications of crowdsourcing in health: an overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840433/)
 * 2018 - [Enter the Matrix: Factorization Uncovers Knowledge from Omics](https://www.cell.com/trends/genetics/fulltext/S0168-9525(18)30124-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952518301240%3Fshowall%3Dtrue) `#scRNA`
 * 2018 - [BioGraph: a web application and a graph database for querying and analyzing bioinformatics resources](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0616-4)
+* 2018 - [Echo chambers and viral misinformation: Modeling fake news as complex contagion](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0203958)
+  * grant idea for later, maybe years from now (~ understanding online misinformation as a cancer/metastasis). In this paper, references show breadth and difficulty of the problem of misinformation, year (2018) shows author's forward thinking; read somewhere though there is no such thing as a "truth algorithm", 
 
 # 2017
 * 2017 - [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) `#pdf`
