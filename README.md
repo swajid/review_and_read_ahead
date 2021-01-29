@@ -1445,6 +1445,8 @@ just go away and stop stalking and lying about me -->
 * [how to (pathologically) lie with statistics: consistent over exaggeration / hype of model performance, e.g. if your assertion or selling-point is that your model can predict an event, why did it not already predict bigger past events?](https://www.youtube.com/watch?v=aSR-uefPmME) (e.g. "you should be suspicious" <- nicer way of calling out a scam)
 <!-- how wag the dog meets pepe silvia did this all get? need like an entire month to understand it all one day, just unbelievable -->
 
+0. Have sources and then [evaluate whether the source is primary or secondary](https://www.youtube.com/watch?v=3_MRImf4LNM)
+
 1. Ask who is giving the criticism
 * [[armchair expert]](https://www.urbandictionary.com/define.php?term=Armchair%20Expert) [wannabe](https://www.urbandictionary.com/define.php?term=Wannabe)
 * [[PRO TIP: Don't take criticism from someone you would never go to for advice.]](https://twitter.com/HeatherAntos/status/1146372406006751232?s=20)
