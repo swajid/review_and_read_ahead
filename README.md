@@ -1616,7 +1616,10 @@ open to collaborators and collaborations
 -->
 
 # 2021
+* 2021 - [Cell-free Directed Evolution of a Protease in Microdroplets at Ultrahigh Throughput](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00538)
+ * [google search "cell-free directed evolution"](https://scholar.google.com/scholar?as_ylo=2020&q=cell-free+directed+evolution&hl=en&as_sdt=0,31)
 
+# 2020
 * 2020 - [We need to keep a reproducible trace of facts, predictions, and hypotheses from gene to function in the era of big data](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000999)
 * 2020 - [Aequorea’s secrets revealed: New fluorescent proteins with unique properties for bioimaging and biosensing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000936)
 * 2020 - [Towards a critical race methodology in algorithmic fairness](https://dl.acm.org/doi/abs/10.1145/3351095.3372826)
