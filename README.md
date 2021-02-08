@@ -464,6 +464,7 @@ Dr. Anthony Fauci lays out three ways future scientific communicators can build 
 * ["You are not the work you do; you are the person you are." - Toni Morrison](https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are)
 * [HBR: How to Be Resilient in the Face of Harsh Criticism](https://hbr.org/2019/06/how-to-be-resilient-in-the-face-of-harsh-criticism)
 * [“One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time.”](https://twitter.com/nardine_g/status/1178416559313821697)
+* [not labeling jars, later one will have to say: "what is that a jar of" -- must always label jars](https://youtu.be/HvWhMI2wnPs?t=34) <!-- "is there more, are there any more", also leave me alone McPoyles of academia ->
 * [[splitting hairs, idiom]](https://idioms.thefreedictionary.com/split+hairs) <-> ["it really worked out that way"](https://www.youtube.com/watch?v=8vl82FssW5k)
 * Antipattern: [[Treat Your Team Like Children:]](https://www.youtube.com/watch?v=dlnmQbPGuls) (
 ```
