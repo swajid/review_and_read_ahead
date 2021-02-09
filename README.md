@@ -169,6 +169,11 @@ don't give them any attention.
 
 <details>
 
+<!-- Currently working on
+- [x] stuff related to a secret paper I mentioned over the summer, it is a challenge to understand it, the idea behind it is that it deals with a lot of data, person who can expand it (I think) should have more interesting data as an input (I think it can be repurposed for many different things related to metagenomics). so that's what i'm thinking about, repurposing it not for it's original use (something related to one thing) but repurposing the idea (it's by someone who knows what they're doing), but in order to understand it, have to know what some libraries are doing, in general, maybe right now best way to think about them is through the world of images and audio. so atleast there are two huge parts. 1. model 2. data . I think #2 is something that's gotten easier to program over the past couple of years or so was stated by my former coworker in Bethesda (oh there's so much I can't even write about related to this but in general, that's what I'm reading/working on), trying to connect the data that will be available to me to this paper I think is very creative and ahead of its time
+* why images and audio/video and not like actual RNA-seq data, well because it's better documented
+-->
+
 `"Just do some practice problems & linear optimization was my favorite class - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
 - [ ] [1. review calc](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) + [book](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
 - [ ] [2. review stats](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/) _also see stats links_
@@ -1368,10 +1373,13 @@ Dashboards [super quick, shinybones](https://twitter.com/drob/status/12555777782
 
 API/documentation
 * [evol: A Python grammar for evolutionary algorithms and heuristics](https://evol.readthedocs.io/en/latest/quickstart.html)
-* [RnBeads - Comprehensive analysis of DNA methylation data](https://rnbeads.org/tutorial.html)
 * [`ggparty` package wiki - aims to extend ggplot2 functionality to the partykit package](https://github.com/martin-borkovec/ggparty/wiki)
 * [Presentation on `santoku` an R package for cutting data, using clever gifs and etc.](https://rpubs.com/dash2/santoku)
 * [ComplexHeatmap Complete Reference](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
+
+Examples of (very complete/attention to detail) R packages
+* [CRISPRAnalyzeR](https://github.com/boutroslab/CRISPRAnalyzeR)
+* [RnBeads - Comprehensive analysis of DNA methylation data](https://rnbeads.org/tutorial.html)
 
 Data Compression
 * 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
@@ -1432,7 +1440,7 @@ from: https://twitter.com/valaafshar/status/1152394491954946048?lang=en
 <!-- the stalking crime syndicate (motive): -->
 
 ```
-“The mind of a bigot is like the pupil of an eye.
+“The mind of a *bigot* is like the pupil of an eye.
 
 The more light you shine on it, 
 
@@ -1478,6 +1486,7 @@ just go away and stop stalking and lying about me -->
 * [Ellison ](https://www.npr.org/templates/story/story.php?storyId=6718662) [Ibn Said](https://www.youtube.com/watch?v=NrcX2nutKKw) <!-- there's a bunch of interesting stuff on Ibn Said out there, lots of wisdom to gain from that -->
 <!-- I remembered this the other day that I remember this happening and getting news coverage in 2006. There was all this hysteria around that and then he ended up being sworn in on...who else...Jefferson's own copy. How all this backward insanity found itself in all this is just absolutely unbelievable -->
 <!-- how wag the dog meets pepe silvia did this all get? need like an entire month to understand it all one day, just unbelievable -->
+* [go and alienate yourselves](https://www.youtube.com/watch?v=7Nwi8Fz_g94)
 
 0. Have sources and then [evaluate whether the source is primary or secondary](https://www.youtube.com/watch?v=3_MRImf4LNM)
 
