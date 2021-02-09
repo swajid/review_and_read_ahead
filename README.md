@@ -128,8 +128,15 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 * Work with everyone.
 
 * Don't share anything until you have actual information as to what is going on (what's been 
-going on for years, why all these manipulative people are involved etc.), when they (stalkers) 
-have no new information, they will just go away on their own.
+going on for years, why all these manipulative people are involved etc.), where it is all going.
+When they (stalkers) have no new information, they will just go away on their own.
+
+* There is always someone out there that is purposely going to ruin a good thing for you (~2011)
+
+* Not very bright people fight on the bus with strangers/other people on the bus, get their clothes 
+dirty and muddied up before reaching their stop, if you don't like the person you have to sit next 
+to for a short bus ride, keep yourself busy or look outside the window -- ignore them, 
+don't give them any attention.
 
 - my dad
 ```
@@ -198,6 +205,14 @@ LATER
 * "You have to protect your work"
    & also [[:book: Software Engineering at Google Lessons Learned from Programming Over Time]](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) -> code review, documentation etc. <!-- good to have a process, even google has a process, see book -->
 
+
+```
+Just remembered that instead of replying to a tweet I think is wrong I can just say “well that’s just not true” out 
+loud to myself and ** move on with my life **
+```
+from https://twitter.com/MaraWilson/status/1357902248995479553
+
+
 <details>
 
 ```
@@ -256,7 +271,8 @@ LATER
         
         *  Tech/Silicon Valley companies may force one to work with their tech stack but things are
            converging anyway sort of
-        *  Look at summer internships EU/Max Planck Institute (nanopore, metagenomics etc.). /AUS/NZ
+        *  Look at summer internships EU/Max Planck Institute (nanopore, metagenomics etc.). /AUS/NZ 
+           (gotta get out of here, see other places during as many summer vacations with internships as possible)
              
       6. Math: main issue, didn't do enough practice problems
          * Actual tutor
@@ -1449,8 +1465,18 @@ just go away and stop stalking and lying about me -->
 * [__Normalize saying “I don’t know enough to have an opinion.”__](https://twitter.com/emmaog___/status/1315685010284974080?s=20)
 * Slander/Defamation [[Mean Tweets - President Obama Edition]](https://www.youtube.com/watch?v=RDocnbkHjhI) [[Mean Tweets - President Obama Edition #2]](https://www.youtube.com/watch?v=XvgnOqcCYCM)
 * [[Gossip]](https://www.psychologytoday.com/us/blog/feeling-it/201612/8-things-do-if-youre-the-target-hurtful-gossip) 
+
+[Pseudoscholarship](https://en.wikipedia.org/wiki/Pseudo-scholarship)
 * [Indicators of Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience#Indicators_of_possible_pseudoscience)
+* [Pseudohistory](https://en.wikipedia.org/wiki/Pseudohistory#:~:text=Works%20of%20pseudohistory%20often%20rely,dismissing%20evidence%20to%20the%20contrary.)
+
+
 * [how to (pathologically) lie with statistics: consistent over exaggeration / hype of model performance, e.g. if your assertion or selling-point is that your model can predict an event, why did it not already predict bigger past events?](https://www.youtube.com/watch?v=aSR-uefPmME) (e.g. "you should be suspicious" <- nicer way of calling out a scam)
+* [something I sent to my dad last year: **"Don't Make Someone Else's Crazy About You"**](https://www.youtube.com/watch?v=j26Mt4KFxtI)
+* [neurosis](https://www.youtube.com/watch?v=n2txzMkT5Pc)
+* [**so people who don't like themselves can feel better**](https://www.youtube.com/watch?v=15MMmgwl1V4) + [just go away](https://tenor.com/view/denzel-washington-door-shut-stop-sthu-gif-13478043)  <- so, actually, none of this is my fault and I don't care how / what these two or more people think or don't think of me, I do not need blessings from the academically incestious average peanut gallery to keep doing science (see `Writing_Samples`) or whatever I want to, just stay away from my life <!-- until I can and will legally pursue this -->
+* [Ellison ](https://www.npr.org/templates/story/story.php?storyId=6718662) [Ibn Said](https://www.youtube.com/watch?v=NrcX2nutKKw) <!-- there's a bunch of interesting stuff on Ibn Said out there, lots of wisdom to gain from that -->
+<!-- I remembered this the other day that I remember this happening and getting news coverage in 2006. There was all this hysteria around that and then he ended up being sworn in on...who else...Jefferson's own copy. How all this backward insanity found itself in all this is just absolutely unbelievable -->
 <!-- how wag the dog meets pepe silvia did this all get? need like an entire month to understand it all one day, just unbelievable -->
 
 0. Have sources and then [evaluate whether the source is primary or secondary](https://www.youtube.com/watch?v=3_MRImf4LNM)
@@ -1626,6 +1652,7 @@ open to collaborators and collaborations
 # 2021
 * 2021 - [Cell-free Directed Evolution of a Protease in Microdroplets at Ultrahigh Throughput](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00538)
  * [google search "cell-free directed evolution"](https://scholar.google.com/scholar?as_ylo=2020&q=cell-free+directed+evolution&hl=en&as_sdt=0,31)
+* 2021 - [Using DeepVariant for small variant calling from PacBio HiFi reads](https://github.com/google/deepvariant/blob/r1.1/docs/deepvariant-pacbio-model-case-study.md)
 
 # 2020
 * 2020 - [We need to keep a reproducible trace of facts, predictions, and hypotheses from gene to function in the era of big data](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000999)
