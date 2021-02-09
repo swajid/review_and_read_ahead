@@ -127,6 +127,10 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 
 * Work with everyone.
 
+* Don't share anything until you have actual information as to what is going on (what's been 
+going on for years, why all these manipulative people are involved etc.), when they (stalkers) 
+have no new information, they will just go away on their own.
+
 - my dad
 ```
 
@@ -213,7 +217,7 @@ LATER
      
         "It's a box of chocolates, you never know what will happen, but protect your work" - dad
      
-     "Stay away from difficult/mean people" - dad (~2011)
+     "Stay away from difficult/mean/manipulative people" - dad (~2011)
          3a. Or one if cannot, minimize their influence over work/life (1,2,3) subprocess:
              Keep their criticism / comments / negativity in email as much as possible
              Stay away from in person meetings or make them as short as possible 
@@ -230,7 +234,8 @@ LATER
 
          3b. If one cannot stay away from the difficult/lousy person/people subprocess:
                  Work around them (extremely important)
-                 Keep work reproducible and keep their comments on record 
+                 Keep work reproducible, public, open (downside, loss of privacy)
+                 keep their comments on record 
                      (e.g. Jupyter notebook code review
                    3c. if it's really necessary, keep notes on OneNote 
                           (that has a audio recording feature, ask before meeting starts if that's ok)
@@ -251,6 +256,7 @@ LATER
         
         *  Tech/Silicon Valley companies may force one to work with their tech stack but things are
            converging anyway sort of
+        *  Look at summer internships EU/Max Planck Institute (nanopore, metagenomics etc.). /AUS/NZ
              
       6. Math: main issue, didn't do enough practice problems
          * Actual tutor
@@ -360,6 +366,7 @@ LATER
   * [[example 51: the elements of choosing colors for great data visualization in R]](http://www.sthda.com/english/wiki/the-elements-of-choosing-colors-for-great-data-visualization-in-r)
   * [[example 52: factors in R]](https://rstatisticsblog.com/r-beginners/working-with-factors-in-r-tutorial-forcats-package/)
   * [[example 53: super nice -- gives new users boilerplate python code to use package]](https://dnascent.readthedocs.io/en/latest/cookbook.html)
+  * [[example 54: fig. 1: bayesian research cycle](https://www.nature.com/articles/s43586-020-00001-2)
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
@@ -464,7 +471,7 @@ Dr. Anthony Fauci lays out three ways future scientific communicators can build 
 * ["You are not the work you do; you are the person you are." - Toni Morrison](https://www.newyorker.com/magazine/2017/06/05/the-work-you-do-the-person-you-are)
 * [HBR: How to Be Resilient in the Face of Harsh Criticism](https://hbr.org/2019/06/how-to-be-resilient-in-the-face-of-harsh-criticism)
 * [“One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time.”](https://twitter.com/nardine_g/status/1178416559313821697)
-* [not labeling jars, later one will have to say: "what is that a jar of" -- must always label jars](https://youtu.be/HvWhMI2wnPs?t=34) <!-- "is there more, are there any more", also leave me alone McPoyles of academia ->
+* [not labeling jars, later one will have to say: "what is that a jar of" -- must always label jars](https://youtu.be/HvWhMI2wnPs?t=34) <!-- "is there more, are there any more", also leave me alone McPoyles of academia -->
 * [[splitting hairs, idiom]](https://idioms.thefreedictionary.com/split+hairs) <-> ["it really worked out that way"](https://www.youtube.com/watch?v=8vl82FssW5k)
 * Antipattern: [[Treat Your Team Like Children:]](https://www.youtube.com/watch?v=dlnmQbPGuls) (
 ```
