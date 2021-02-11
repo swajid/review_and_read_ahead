@@ -172,6 +172,8 @@ don't give them any attention.
 <!-- Currently working on
 - [x] stuff related to a secret paper I mentioned over the summer, it is a challenge to understand it, the idea behind it is that it deals with a lot of data, person who can expand it (I think) should have more interesting data as an input (I think it can be repurposed for many different things related to metagenomics). so that's what i'm thinking about, repurposing it not for it's original use (something related to one thing) but repurposing the idea (it's by someone who knows what they're doing), but in order to understand it, have to know what some libraries are doing, in general, maybe right now best way to think about them is through the world of images and audio. so atleast there are two huge parts. 1. model 2. data . I think #2 is something that's gotten easier to program over the past couple of years or so was stated by my former coworker in Bethesda (oh there's so much I can't even write about related to this but in general, that's what I'm reading/working on), trying to connect the data that will be available to me to this paper I think is very creative and ahead of its time
 * why images and audio/video and not like actual RNA-seq data, well because it's better documented
+* i think, a model-centric thesis will keep me away from the incestious mcpoyle riff-raff and eventually (years later with a lot of hard work) put me in different conferences, lots of new stuff to learn but would be worth it long-term
+* i am just going to continue to ignore the two predators (+ what other freakshow is out there), it's like a clown looking for attention but now in panic mode that wants to ruin anything and everything possible (but has been quite unsuccessful so far lol), they're asymptote'd average sore losers (imagine if i was still working over there, what a dead end yikes) -- but don't respond, maybe it's a bait for something legal e.g. like those dashcam car insurance scammers https://www.youtube.com/watch?v=AZQW93rO8Ok
 -->
 
 `"Just do some practice problems & linear optimization was my favorite class - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
@@ -1662,6 +1664,7 @@ open to collaborators and collaborations
 * 2021 - [Cell-free Directed Evolution of a Protease in Microdroplets at Ultrahigh Throughput](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00538)
  * [google search "cell-free directed evolution"](https://scholar.google.com/scholar?as_ylo=2020&q=cell-free+directed+evolution&hl=en&as_sdt=0,31)
 * 2021 - [Using DeepVariant for small variant calling from PacBio HiFi reads](https://github.com/google/deepvariant/blob/r1.1/docs/deepvariant-pacbio-model-case-study.md)
+* 2021 - [Evolution of DNA methylome from precancerous lesions to invasive lung adenocarcinomas](https://www.nature.com/articles/s41467-021-20907-z)
 
 # 2020
 * 2020 - [We need to keep a reproducible trace of facts, predictions, and hypotheses from gene to function in the era of big data](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000999)
