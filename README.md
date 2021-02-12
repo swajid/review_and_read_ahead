@@ -174,6 +174,7 @@ don't give them any attention.
 * why images and audio/video and not like actual RNA-seq data, well because it's better documented
 * i think, a model-centric thesis will keep me away from the incestious mcpoyle riff-raff and eventually (years later with a lot of hard work) put me in different conferences, lots of new stuff to learn but would be worth it long-term
 * i am just going to continue to ignore the two predators (+ what other freakshow is out there), it's like a clown looking for attention but now in panic mode that wants to ruin anything and everything possible (but has been quite unsuccessful so far lol), they're asymptote'd average sore losers (imagine if i was still working over there, what a dead end yikes) -- but don't respond, maybe it's a bait for something legal e.g. like those dashcam car insurance scammers https://www.youtube.com/watch?v=AZQW93rO8Ok (i like this video, because it shows that the old guy realizes his fraud is on camera and then just goes away and everything is great and normal again for the guy in the car)
+* if i was sitting in a coffee shop or a public library and someone next to me said the words "shiesty grifter" out loud in a conversation with someone else, i would like get up and leave, it would be too much for me, this is so crazy
 -->
 
 `"Just do some practice problems & linear optimization was my favorite class - FW` [[Pauls]](http://tutorial.math.lamar.edu/)
@@ -1665,6 +1666,7 @@ open to collaborators and collaborations
 * 2021 - [Cell-free Directed Evolution of a Protease in Microdroplets at Ultrahigh Throughput](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00538)
  * [google search "cell-free directed evolution"](https://scholar.google.com/scholar?as_ylo=2020&q=cell-free+directed+evolution&hl=en&as_sdt=0,31)
 * 2021 - [Using DeepVariant for small variant calling from PacBio HiFi reads](https://github.com/google/deepvariant/blob/r1.1/docs/deepvariant-pacbio-model-case-study.md)
+  * [okay so this is probably the best comparison everything else is probably based on use case and available resources (ive been confused for a while about nanopore vs. pacbio)](https://twitter.com/gringene_bio/status/1359940294322491396?s=20)
 * 2021 - [Evolution of DNA methylome from precancerous lesions to invasive lung adenocarcinomas](https://www.nature.com/articles/s41467-021-20907-z)
 
 # 2020
