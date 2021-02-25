@@ -1513,6 +1513,9 @@ What biases does the presenter already hold, who is being left out and why?
 * ["Anyone who can make you believe absurdities* can make you commit atrocities." - Voltaire](https://twitter.com/Kasparov63/status/1026917208646012929?s=20)
 e.g. bigoted and racist mythological fantasies
 
+### 3. how to not respond to your former employee's, anyone else's, or any other woman in STEM's success and hardwork:
+### * [Greatest freak out ever (ORIGINAL VIDEO) (103M views!!), (turn down volume)](https://www.youtube.com/watch?v=YersIyzsOpc)
+
 Examples of writing that is absolutely haunting
 2014 - [When Genocide Is Permissible (published then deleted, apologies issued](https://www.huffpost.com/entry/times-of-israel-genocide-article-post-deleted_n_5641971)
 
