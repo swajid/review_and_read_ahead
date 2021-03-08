@@ -138,6 +138,11 @@ dirty and muddied up before reaching their stop, if you don't like the person yo
 to for a short bus ride, keep yourself busy or look outside the window -- ignore them, 
 don't give them any attention.
 
+* Don't argue back with an argumentative mad person (someone who just only thrives when there is conflict, 
+if there is no conflict, they'll just create a conflict out of thin air), and then conflict becomes something 
+that is more exciting/thrilling and they'll just keep pulling you into their hurricane,
+they also have a lot more free time than you do. Just recognize it, ignore/block etc. (Mar 7, 2021)
+
 - my dad
 ```
 
