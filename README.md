@@ -468,6 +468,15 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [Photosynthesis](https://twitter.com/Natashatashaetc/status/1295944521893605379?s=20)
   * [PCA](https://twitter.com/allison_horst/status/1288904459490213888?s=20)
   * [Importance of having familiarity with notation](https://twitter.com/ChelseaParlett/status/1285631693186052099?s=20)
+* breakfast <!-- i use to never eat breakfast until like ~2013, but for the past ~ few months, i've been mealprepping and forcing myself to eat something in the morning (otherwise I literally can't, anything in the morning aside from coffee is literally so gross). But, I found consistently the following works for me: 
+a very lean protein (chicken/ground turkey) + vegetables + some plant fat (coconut milk/olive oil) + cheese + spices + smell of the entire thing has to be neutral + some whole fruit, literally no sugar, very low carbs (saving carbs for lunch/dinner), nothing greasy (too smelly in the morning), salt is okay
+i haven't tried fish/salmon, lentils or tofu yet
+but people do eat like "dinner like" meals for breakfast around the world, eg a traditional korean breakfast, then ezogelin is like a breakfast soup and also something that is fermented like yogurt or pickled vegetables
+It takes a lot of getting use to but i've found for the past few months it's literally the best thing to have in the morning for the entire day, even better than protein powder.
+but that is in pakistani/south asian culture, eating like curries/kebabs for breakfast. dad said other meals that very originally meant to be for breakfast were nihari (a meat stew and it literally means morning), pye (bone broth stew curry), haleem (beef stew with whole wheat) and i think the smell of all three are more neutral than "dinner" curries that are more fragrant
+toast, cereal and pancakes, maybe it would work if it's whole wheat, always been too sweet or dry to have for breakfast for me, also the idea of eating so much sugar first thing in the morning on an empty stomach never appealed to me but also making a huge breakfast is so time consuming, freezing stuff or keeping it in the fridge for the week just works really well so that i eat something for breakfast
+(^ sort of writing about what works for me, not giving medical advice)
+-->
 ```
 add later
 ```
