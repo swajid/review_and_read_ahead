@@ -1791,6 +1791,8 @@ Super interesting, have some ideas (will come back to this)
 * 2014 - [Evolutionary history of redox metal-binding domains across the tree of life](https://www.pnas.org/content/early/2014/04/25/1403676111.short)
 * 2014 - [The grammar of transcriptional regulation](https://link.springer.com/article/10.1007/s00439-013-1413-1)
 
+* 2013 - [Whole: Rethinking the Science of Nutrition](https://www.goodreads.com/book/show/13587039-whole). <!-- i read this when it first came out, i haven't reread it since, maybe worth re-reading while trying to figure out what an ideal breakfast is -->
+
 * 2012 - [A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity](https://www.ncbi.nlm.nih.gov/pubmed/22745249) <!-- original CRISPR paper I think -->
 
 
