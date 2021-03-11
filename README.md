@@ -477,6 +477,33 @@ but that is in pakistani/south asian culture, eating like curries/kebabs for bre
 toast, cereal and pancakes, maybe it would work if it's whole wheat, always been too sweet or dry to have for breakfast for me, also the idea of eating so much sugar first thing in the morning on an empty stomach never appealed to me but also making a huge breakfast is so time consuming, freezing stuff or keeping it in the fridge for the week just works really well so that i eat something for breakfast
 (^ sort of writing about what works for me, not giving medical advice)
 -->
+
+`* "don't give people with __too much free time on their hands__ __something to do__" - undergrad research advisor (~2012)`
+
+as a haiku:
+
+## `don't give people with`
+## `too much free time something to`
+## `do with their free time`
+
+<details>
+
+```
+sub out "people" (2 syllables) with other 2 syllables words like:
+
+hecklers
+incels
+neckbeards
+liars
+scammers
+cheaters
+stalkers
+
+etc.
+```
+
+</details>
+
 ```
 add later
 ```
@@ -503,6 +530,7 @@ Dr. Anthony Fauci lays out three ways future scientific communicators can build 
 * Bad [timing](https://vclock.com/timer/)
 * Not walking around
 * Refreshing email
+* "People talk so much **** about me at barbershops, they forget to get their hair cut" - Kanye
 * [Getting intimidated 1](https://twitter.com/lic_grajales/status/1086452881710960646?s=21)
 * [[How to teach yourself hard things]](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/) [[ Unfamiliar ]](https://twitter.com/ryanflorence/status/1005516700521885696?s=21) [[How to read a mathematics textbook]](https://www.drmaciver.com/2016/05/how-to-read-a-mathematics-textbook/)
 * ["unstick" yourself and try building something on your own"](https://twitter.com/jsjoeio/status/1113988454449213440)
