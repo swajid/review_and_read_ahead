@@ -482,15 +482,20 @@ toast, cereal and pancakes, maybe it would work if it's whole wheat, always been
 
 as a haiku:
 
-## `don't give people with`
+## `don't give "people" with`
 ## `too much free time something to`
 ## `do with their free time`
 
 <details>
 
 ```
-sub out "people" (2 syllables) with other 2 syllables words like:
+sub out "people" (2 syllables) with other 2 syllable words like:
 
+fraudsters
+bribers
+losers
+lowlifes
+morons
 hecklers
 incels
 neckbeards
