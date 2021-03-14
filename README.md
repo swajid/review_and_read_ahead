@@ -1273,6 +1273,8 @@ Building/Leading (effective) Data Science Teams
 Data Backup
 * [[example from bioinformatics]](https://twitter.com/jacobphd/status/1139206934324604928?s=21)
 * [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
+* [[`ytfzf` A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl]](https://github.com/pystardust/ytfzf)
+  * ad-free, distraction-free, local copy
 
 Design Patterns
 * [Design Patterns in Python for the Untrained Eye - PyCon 2019](https://www.youtube.com/watch?v=o1FZ_Bd4DSM)
