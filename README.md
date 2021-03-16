@@ -1919,3 +1919,18 @@ Pour or scoop batter onto pan, using about 1/4 cup for each pancake.
 Cook until pancakes are golden brown on both sides."
 - comment on YT, recipe work in progress <3
 ```
+
+```
+For all its often noted defects and problems, the American university — 
+— is still one of the few remaining places in the United States 
+where reflection and study can take place in an almost-utopian fashion. 
+Edward Said
+```
+
+<!-- 
+in my opinion and given the past few years,
+the university is really not for everyone,
+especially not predators, liars, grifters, bigots and the like.
+-
+corner office and still needed more bananas, really unbelievable
+-->
