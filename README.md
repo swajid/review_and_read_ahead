@@ -1451,7 +1451,7 @@ Experienced-based debugging
 JavaScript (one day, noticing community and uses are more interesting now but no need yet, but one day)
 * [motivation](https://twitter.com/vboykis/status/1234200283493826563?s=21)
 
-Cool stuff to make one day
+__Cool stuff to make one day__
 * [pacific crest trail, 360](https://youtu.be/dvBum8G4fts)
 
 Non-programming or non-science related super interesting or super rare perspectives + good (speech) writing, super important
@@ -1595,6 +1595,20 @@ manner rather than an oppositional one.
 
 Thinking Critically
 * [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
+
+How to handle solving problem B when you were out to solve problem A (what's that is called)
+* [PayPal’s history of fighting fraud](https://fin.plaid.com/articles/paypals-history-of-fighting-fraud/)
+```
+lol @ this:
+
+
+"Levchin also built an algorithm called Igor (fondly nicknamed after a Russian fraudster who had taunted 
+them in earlier days—and the type of actor the program was designed to help catch) to help identify abnormal 
+patterns in one of the first major commercial applications of big data."
+
+
+Well, when life gives you fraudsters-stalker-predator-incels, you can name algorithms after them later
+```
 
 
 # O'Reilly / Reference Books
