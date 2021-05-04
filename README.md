@@ -1242,6 +1242,9 @@ Hitchens: By recognizing their limitations
 * side note: some of my favorite writers
 ```
 
+Examples of (Famous?) People Understanding/Speaking Another Language with like Immense Confidence
+* [Ben Affleck](https://youtu.be/yUf_fIjfPoo)
+
 Sci-art
 * <img src="./icons/svg/logo-twitter.svg" width="15" height="15"> [biorender](https://twitter.com/iamscicomm/status/1242903749896687617?s=21)
 * [R & stats illustrations by @allison_horst](https://github.com/allisonhorst/stats-illustrations)
@@ -1412,6 +1415,9 @@ Interactive Data Story / Good use of scrolling UI
 Color/UI
 * [Star Wars: Rogue One UI design](https://www.hudsandguis.com/home/2017/3/7/rogue-one-ui)
 * [uiGradients](https://github.com/Ghosh/uiGradients)
+
+OpenCV everything
+* [Notebooks, Kaggle](https://www.kaggle.com/search?q=opencv)
 
 Dashboards [super quick, shinybones](https://twitter.com/drob/status/1255577778231050249?s=21)
 * :tv: [InfoVis 2018: What Do We Talk About When We Talk About Dashboards?](https://vimeo.com/299862354)
@@ -1939,6 +1945,18 @@ For all its often noted defects and problems, the American university —
 — is still one of the few remaining places in the United States 
 where reflection and study can take place in an almost-utopian fashion. 
 Edward Said
+```
+
+```
+“The function, the very serious function of racism is distraction. It keeps 
+you from doing your work. It keeps you explaining, over and over again, your 
+reason for being. Somebody says you have no language and you spend twenty 
+years proving that you do. Somebody says your head isn’t shaped properly so 
+you have scientists working on the fact that it is. Somebody says you have 
+no art, so you dredge that up. Somebody says you have no kingdoms, so you 
+dredge that up. None of this is necessary. There will always be one more thing.”
+
+Toni Morrison
 ```
 
 <!-- 
