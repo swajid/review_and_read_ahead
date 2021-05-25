@@ -3,6 +3,9 @@
 
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
 <details>
+ 
+Todo
+- [ ] 5-24-21 - 5-31-21 [copy+summarize papers from here to `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
 
 Talks/Stream
 - [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
@@ -164,7 +167,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 </details>
 
 <!--  epic programming music 6Zhwxk2RX7I ruQ7vqhja5M XPHJYarhWQ8 {7: zGMT_ymUinw?t=175} IqTRBY1pILE jK7jNUigFt0  https://twitter.com/Rumi_Quote/status/1213083913494650880 #balance sudais <3 -->
-<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 DGDLbSCOM0c 1pADqYjvV7M (the drums!!) 27nnwnL5DoA cool riff -->
+<!-- Ln6ya0xahG0 *XPHJYarhWQ8* P5wn3DXW8js hWtY1t_8Y_M uAYG46w1SCA 55wZaTkes1c GEVJzz5r_9I 5xx9gTEQaiQ p6fZEp92FLA Ui2FtXrln9o lsH7BzwczHw 1Irny35dRJo OkyrIRyrRdY fHI8X4OXluQ -1RTYqxlRoA?t=177 DGDLbSCOM0c 1pADqYjvV7M (the drums!!) 27nnwnL5DoA 9UVS7Xrbdeg cool riff -->
 <!-- https://twitter.com/archillect/status/1266462722188861446?s=21 -->
 <!--  too shy to keep emailing -->
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
@@ -543,7 +546,7 @@ Dr. Anthony Fauci lays out three ways future scientific communicators can build 
 * [HBR: How to Be Resilient in the Face of Harsh Criticism](https://hbr.org/2019/06/how-to-be-resilient-in-the-face-of-harsh-criticism)
 * [“One of the beautiful things about science is that it allows us to bumble along, getting it wrong time after time, and feel perfectly fine as long as we learn something each time.”](https://twitter.com/nardine_g/status/1178416559313821697)
 * [not labeling jars, later one will have to say: "what is that a jar of" -- must always label jars](https://youtu.be/HvWhMI2wnPs?t=34) <!-- "is there more, are there any more", also leave me alone McPoyles of academia -->
-* [[splitting hairs, idiom]](https://idioms.thefreedictionary.com/split+hairs) <-> ["it really worked out that way"](https://www.youtube.com/watch?v=8vl82FssW5k)
+* [[splitting hairs, idiom]](https://idioms.thefreedictionary.com/split+hairs) <-> ["it really worked out that way" * ](https://www.youtube.com/watch?v=8vl82FssW5k) 
 * Antipattern: [[Treat Your Team Like Children:]](https://www.youtube.com/watch?v=dlnmQbPGuls) (
 ```
    "The best way to show your team that you don't trust them is to treat 
