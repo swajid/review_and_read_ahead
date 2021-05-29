@@ -314,6 +314,12 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
      "Lousy people can do a lot of damage, you'd be surprised, they find other lousy people and before you know it" - dad
 
      Work with everyone / "the more the merrier" - undergrad research adviser 3
+ 
+ *  "Frenemies (secret haters) are a fact of life"
+    "Lower your strandards around/with frenemies"
+    "Secret hater manifest with snarky comments" & passive-aggressive behavior"
+     accountability and self-awareness get you far in life
+     - Jackie Aina (https://www.youtube.com/watch?v=ihwEbzg4K3k)
 
      (Literally not directed at or a response to anything, 
         I just realized I have to get my work done and this is the process-ish)
@@ -1443,10 +1449,12 @@ API/documentation
 * [Presentation on `santoku` an R package for cutting data, using clever gifs and etc.](https://rpubs.com/dash2/santoku)
 * [ComplexHeatmap Complete Reference](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
 
-Examples of (very complete/attention to detail) R packages
+Examples of (very complete/attention to detail) R/Python packages that have
+in general, built a frontend + an algorithm or logic + backend, all together, all at the same time
 * [CRISPRAnalyzeR](https://github.com/boutroslab/CRISPRAnalyzeR)
 * [RnBeads - Comprehensive analysis of DNA methylation data](https://rnbeads.org/tutorial.html)
-
+* [scattertext](https://github.com/JasonKessler/scattertext)
+ 
 Data Compression
 * 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
 <!-- I have an idea for this, rt related, sort of mentioned in the article -->
@@ -1716,7 +1724,8 @@ R - review, P - paper, D - dashboard, C - code, P - plot
 * [[Briefings in Bioinformatics]](https://academic.oup.com/bib)
 * [[Annual Review of Biomedical Engineering]](https://www.annualreviews.org/journal/bioeng)
 * [[Fairness, Accountability, and Transparency]](https://dl.acm.org/conference/fat)
-
+* [[Papers with code]](https://paperswithcode.com/)
+ 
 //Turn this into a table with emojis+notes or shading: CS, Bioinfo, etc.
 
 * 2019 - [Ten quick tips for machine learning in computational biology](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3) + [[tweet quoted:]](https://twitter.com/strnr/status/1162103966508863488)
