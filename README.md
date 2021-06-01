@@ -5,7 +5,11 @@ _README.md and other *.md files have been and will continue to be open source, f
 <details>
  
 Todo
-- [ ] 5-24-21 - 5-31-21 [copy+summarize papers from here to `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
+- [ ] 5-24-21 - ~5-31-21~ 6-5-21 [copy+summarize papers from here to `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
+ https://twitter.com/coregenomics/status/1154070578984312834?s=20
+ https://twitter.com/coregenomics/status/1154070580376821760?s=20
+ https://twitter.com/coregenomics/status/1154070581584814084?s=20
+ with scihub and etc, was just too busy last week
 
 Talks/Stream
 - [ ] [1/24 Single Cell Genomics Day](https://livestream.com/accounts/13327241/events/8960166) + [list](https://satijalab.org/scgd/)
