@@ -1686,6 +1686,10 @@ w/o deadlines
 * [Graduate Student Fellowships & Aid](http://www.cis.upenn.edu/prospective-students/graduate/aid.php)
 * [External Fellowships for Doctoral Students](https://cs.nyu.edu/home/phd/fellowships.html)
 
+Prizes for invention/innovation, something from not the NIH etc. // may not always be relevant, something to think about
+* [Tom Ford Plastic Innovation Prize (thin-flim plastic)](https://plasticprize.org/) <!-- omg Tom Ford is actually one of the judges -->
+  * [pdf of the competition](https://plasticprize.org/wp-content/uploads/Competition-Guidelines-Tom-Ford-Plastic-Innovation-Prize.pdf)
+
 # Packages
 * [Bioconductor::CRISPR](https://www.google.com/search?q=crispr%20site%3Abioconductor.org&oq=biocon&aqs=chrome.1.69i57j0l5j69i60l2.3359j0j7&sourceid=chrome&ie=UTF-8&ved=2ahUKEwiEgJXK_6PpAhXYlnIEHf-sDZ0Q2wF6BAgMEAg&ei=LCy1XoS6C9itytMP_9m26Ak)
 
