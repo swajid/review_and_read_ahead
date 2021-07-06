@@ -1604,6 +1604,10 @@ whatever will keep me far and away from the
 absolutely-insufferable_creepy-old-men_armchair-stalkers
 -->
 
+Some new ideas/directions in data science/databases etc. and impact
+* [TileDB Closes $15M Series A for Industry’s First Universal Data Engine; Two Bear Capital Leads Round](https://www.businesswire.com/news/home/20200714005280/en/TileDB-Closes-15M-Series-A-for-Industry%E2%80%99s-First-Universal-Data-Engine-Two-Bear-Capital-Leads-Round)
+ 
+
 Handling Constructive Criticism
 ```
 Constructive criticism is the process of offering valid and well-reasoned opinions about 
@@ -1675,7 +1679,8 @@ _add link of TOC_
 * [pydata](https://www.youtube.com/user/PyDataTV/videos)
 * [IEEE VGTC](https://vimeo.com/vgtcommunity)
 * [Julia](https://www.youtube.com/user/JuliaLanguage/videos)
-
+* [`#useR2021`](https://twitter.com/search?q=%23user2021&src=typd) (July 5-9, 2021)
+ 
 # Fellowships
 w/ deadlines
 * [Graduate Fellowship Opportunities for the 2020-21 Academic Year](https://www.cs.cmu.edu/~gradfellowships/)
