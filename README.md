@@ -1606,7 +1606,7 @@ absolutely-insufferable_creepy-old-men_armchair-stalkers
 
 Some new ideas/directions in data science/databases etc. and impact
 * [TileDB Closes $15M Series A for Industry’s First Universal Data Engine; Two Bear Capital Leads Round](https://www.businesswire.com/news/home/20200714005280/en/TileDB-Closes-15M-Series-A-for-Industry%E2%80%99s-First-Universal-Data-Engine-Two-Bear-Capital-Leads-Round)
- 
+* [Cross-platform Bayesian optimization system for autonomous biological assay development](https://www.biorxiv.org/content/10.1101/2021.06.23.448246v1.full.pdf) 
 
 Handling Constructive Criticism
 ```
