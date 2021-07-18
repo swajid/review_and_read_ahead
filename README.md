@@ -1498,8 +1498,8 @@ from: https://twitter.com/roseveleth/status/1344682466322259976?s=20
 
 ```
 "Rob Tibshirani: if someone shows you simulations that only show the superiority of 
-their method, you should be suspicious. A good set of simulations will show where 
-the method shines but also where it breaks."
+ their method, you should be suspicious. A good set of simulations 
+ will show where the method shines but also where it breaks."
 ```
 from: https://twitter.com/ByranSmucker/status/1024684578441551873?s=20
 
@@ -1607,6 +1607,8 @@ absolutely-insufferable_creepy-old-men_armchair-stalkers
 Some new ideas/directions in data science/databases etc. and impact
 * [TileDB Closes $15M Series A for Industry’s First Universal Data Engine; Two Bear Capital Leads Round](https://www.businesswire.com/news/home/20200714005280/en/TileDB-Closes-15M-Series-A-for-Industry%E2%80%99s-First-Universal-Data-Engine-Two-Bear-Capital-Leads-Round)
 * [Cross-platform Bayesian optimization system for autonomous biological assay development](https://www.biorxiv.org/content/10.1101/2021.06.23.448246v1.full.pdf) 
+* review paper of a type of learning used for search optimization related to the previous paper, not shared publically
+* other papers, not shared publically
 
 Handling Constructive Criticism
 ```
@@ -1623,9 +1625,9 @@ Thinking Critically
 
 How to handle solving problem B when you were out to solve problem A (what's that is called)
 * [PayPal’s history of fighting fraud](https://fin.plaid.com/articles/paypals-history-of-fighting-fraud/)
+ 
 ```
-lol @ this:
-
+lol @ this, still a great idea:
 
 "Levchin also built an algorithm called Igor (fondly nicknamed after a Russian fraudster who had taunted 
 them in earlier days—and the type of actor the program was designed to help catch) to help identify abnormal 
@@ -1956,6 +1958,16 @@ in fact, here for a much larger and nobler cause."
 - `Stranger than fiction (2006)`
 ```
 
+```
+“If you know what it is that needs to be torn down, tear it down.” 
+
+Andrea Dworkin
+```
+<!--  "you really should have taken just one class 
+from the women and gender studies dept in your undergrad at Rutgers 
+they have a really well respected dept, I don't know why you didn't" 
+- sudip (~2015)
+-->
 
 ```
 "Combine flour, sugar, baking powder and salt.
