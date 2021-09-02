@@ -408,7 +408,9 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [[example 51: the elements of choosing colors for great data visualization in R]](http://www.sthda.com/english/wiki/the-elements-of-choosing-colors-for-great-data-visualization-in-r)
   * [[example 52: factors in R]](https://rstatisticsblog.com/r-beginners/working-with-factors-in-r-tutorial-forcats-package/)
   * [[example 53: super nice -- gives new users boilerplate python code to use package]](https://dnascent.readthedocs.io/en/latest/cookbook.html)
-  * [[example 54: fig. 1: bayesian research cycle](https://www.nature.com/articles/s43586-020-00001-2)
+  * [[example 54: fig. 1: bayesian research cycle]](https://www.nature.com/articles/s43586-020-00001-2)
+  * [[example 55: comparing everything exhaustively, defining a standard via a rubric, "Open-source Workflow Management Tools: A Survey"]](https://ploomber.io/posts/survey/)
+
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
