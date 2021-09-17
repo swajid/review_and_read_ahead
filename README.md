@@ -1449,6 +1449,7 @@ Dashboards [super quick, shinybones](https://twitter.com/drob/status/12555777782
 * [Introducing Dash Bio for R](https://www.r-bloggers.com/introducing-dash-bio-for-r/) `#plotly`
 * [Streamlit is the first app framework specifically for Machine Learning and Data Science teams](https://streamlit.io/) `#oss`
 * [Creating interactive dashboards from Jupyter notebooks](https://pbpython.com/interactive-dashboards.html)
+* [PennAI](https://www.theonion.com/fourth-grader-s-report-on-anacondas-largely-rehashes-es-1847674347)
 
 API/documentation
 * [evol: A Python grammar for evolutionary algorithms and heuristics](https://evol.readthedocs.io/en/latest/quickstart.html)
