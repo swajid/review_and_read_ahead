@@ -1770,6 +1770,7 @@ open to collaborators and collaborations
 -->
 
 # 2021
+* 2021 - [Co-transcriptional RNA strand displacement circuits](https://www.biorxiv.org/content/10.1101/2021.07.20.450530v1)
 * 2021 - [Wearable materials with embedded synthetic biology sensors for biomolecule detection](https://www.nature.com/articles/s41587-021-00950-3)
  * Acknowledgements include: [dreamlux (fabrics)](https://www.dreamlux.it/en/index.php) e.g. "The wearable devices are activated upon rehydration from aqueous exposure events and report the presence of specific molecular targets by colorimetric changes or via an optical fiber network that detects fluorescent and luminescent outputs." whoa cool
 * 2021 - [Cell-free Directed Evolution of a Protease in Microdroplets at Ultrahigh Throughput](https://pubs.acs.org/doi/abs/10.1021/acssynbio.0c00538)
