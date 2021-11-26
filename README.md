@@ -352,7 +352,7 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
    3. Learn about the thing by using it.
    4. Write the explanation you wish you’d found.
 ```
-* different ways of explaining/thinking about things / [[step-by-step explaination]](https://www.youtube.com/watch?v=Szi6Q7MBS8E&feature=youtu.be)
+* Different ways of explaining/thinking about/presenting sometimes tough things / [[step-by-step explaination]](https://www.youtube.com/watch?v=Szi6Q7MBS8E&feature=youtu.be)
   * [[example 1: poisson distribution]](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
   * [[example 2: algorithms]](http://research.engineering.nyu.edu/~greg/algorithms/scribbles.pdf)
   * [[example 3: code documentation]](https://twitter.com/dan_abramov/status/1101408462901334016?s=21)
@@ -411,6 +411,7 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [[example 53: super nice -- gives new users boilerplate python code to use package]](https://dnascent.readthedocs.io/en/latest/cookbook.html)
   * [[example 54: fig. 1: bayesian research cycle]](https://www.nature.com/articles/s43586-020-00001-2)
   * [[example 55: comparing everything exhaustively, defining a standard via a rubric, "Open-source Workflow Management Tools: A Survey"]](https://ploomber.io/posts/survey/)
+  * [[example 56: quickest and concise explaination with examples, very brief but comprehensive presentation (unit testing & CI in R)](https://twitter.com/icymi_r/status/1463608116919128064)]
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
