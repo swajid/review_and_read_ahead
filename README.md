@@ -1771,6 +1771,7 @@ open to collaborators and collaborations
 -->
 
 # 2021
+* 2021 - [Lessons learned from SARS-CoV-2 measurements in wastewater](https://www.sciencedirect.com/science/article/pii/S0048969721042509)
 * 2021 - [Multiple rereads of single proteins at single–amino acid resolution using nanopores](https://www.science.org/doi/abs/10.1126/science.abl4381)
 * 2021 - [Co-transcriptional RNA strand displacement circuits](https://www.biorxiv.org/content/10.1101/2021.07.20.450530v1)
 * 2021 - [Wearable materials with embedded synthetic biology sensors for biomolecule detection](https://www.nature.com/articles/s41587-021-00950-3)
