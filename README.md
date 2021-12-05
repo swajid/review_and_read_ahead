@@ -1771,6 +1771,7 @@ open to collaborators and collaborations
 -->
 
 # 2021
+* 2021 - [The Sequencing Quality Control 2 Study: Establishing Community Standards for Sequencing in Precision Medicine](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02528-3)
 * 2021 - [Lessons learned from SARS-CoV-2 measurements in wastewater](https://www.sciencedirect.com/science/article/pii/S0048969721042509)
 * 2021 - [Multiple rereads of single proteins at single–amino acid resolution using nanopores](https://www.science.org/doi/abs/10.1126/science.abl4381)
 * 2021 - [Co-transcriptional RNA strand displacement circuits](https://www.biorxiv.org/content/10.1101/2021.07.20.450530v1)
