@@ -1452,6 +1452,12 @@ Dashboards [super quick, shinybones](https://twitter.com/drob/status/12555777782
 * [Creating interactive dashboards from Jupyter notebooks](https://pbpython.com/interactive-dashboards.html)
 * [PennAI](https://www.theonion.com/fourth-grader-s-report-on-anacondas-largely-rehashes-es-1847674347) by [Penn Institute of Biomedical Informatics](https://twitter.com/thezetaylor/status/1446993765546221571)
 
+Juypter Plugins (bioinformatics)
+* [JBrowse](https://mobile.twitter.com/usejbrowse/status/1471161444653744128)
+
+Juypter Plugins (ML)
+* [TensorBoard in Google Colab](https://medium.com/@today.rafi/tensorboard-in-google-colab-bd49fa554f9b)
+
 API/documentation
 * [evol: A Python grammar for evolutionary algorithms and heuristics](https://evol.readthedocs.io/en/latest/quickstart.html)
 * [`ggparty` package wiki - aims to extend ggplot2 functionality to the partykit package](https://github.com/martin-borkovec/ggparty/wiki)
