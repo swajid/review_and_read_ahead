@@ -1778,6 +1778,7 @@ open to collaborators and collaborations
 
 <!-- Papers I am reading -->
 # 2021
+* 2021 - [Exploring tissue architecture using spatial transcriptomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8475179/) -> "Integration of spatial transcriptomics with other modalities"
 * 2021 - [Fast and accurate metagenotyping of the human gut microbiome with GT-Pro](https://www.nature.com/articles/s41587-021-01102-3) | [GT-Pro - the GenoTyper for PROkaryotes](https://github.com/zjshi/gt-pro)
 * 2021 - [Pan-cancer single-cell landscape of tumor-infiltrating T cells](https://www.science.org/doi/10.1126/science.abe6474?intcmp=trendmd-sci)
 * 2021 - [Super-resolved spatial transcriptomics by deep data fusion](https://www.nature.com/articles/s41587-021-01075-3) + [XFuse: Deep spatial data fusion](https://github.com/ludvb/xfuse)  <- reading code https://github.com/ludvb/xfuse/blob/master/xfuse/model/xfuse.py
