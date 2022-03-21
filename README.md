@@ -1777,6 +1777,9 @@ open to collaborators and collaborations
 -->
 
 <!-- Papers I am reading -->
+# 2022
+* 2022 - [DNA methylation-based predictors of health: applications and statistical considerations](https://www.nature.com/articles/s41576-022-00465-w)
+ 
 # 2021
 * 2021 - [Exploring tissue architecture using spatial transcriptomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8475179/) -> "Integration of spatial transcriptomics with other modalities"
 * 2021 - [Fast and accurate metagenotyping of the human gut microbiome with GT-Pro](https://www.nature.com/articles/s41587-021-01102-3) | [GT-Pro - the GenoTyper for PROkaryotes](https://github.com/zjshi/gt-pro)
