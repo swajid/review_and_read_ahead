@@ -1380,7 +1380,8 @@ Developing Workshops/Bioinformatics/Process Of/etc
 * [`MAESTRO` (Model-based AnalysEs of Single-cell Transcriptome and RegulOme) is a comprehensive single-cell RNA-seq and ATAC-seq analysis suit built using snakemake.](https://github.com/liulab-dfci/MAESTRO)
   * see [proj structure](https://github.com/liulab-dfci/MAESTRO/tree/master/MAESTRO)
 * ["current list is 31 scRNA-seq (analysis method) benchmarks:"](https://twitter.com/markrobinsonca/status/1221903274678333441?s=21)
-
+* [Introduction to Tidy Transcriptomics](https://github.com/stemangiola/bioceurope2020_tidytranscriptomics)
+ 
 UMAP (is not just for single-cell and genomics but also other types of data)
 [UMAP for Data Integration](https://twitter.com/NikolayOskolkov/status/1316089107890741249?s=20)
   * [github](https://github.com/lmcinnes/umap)
