@@ -412,6 +412,7 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [[example 54: fig. 1: bayesian research cycle]](https://www.nature.com/articles/s43586-020-00001-2)
   * [[example 55: comparing everything exhaustively, defining a standard via a rubric, "Open-source Workflow Management Tools: A Survey"]](https://ploomber.io/posts/survey/)
   * [[example 56: quickest and concise explaination with examples, very brief but comprehensive presentation (unit testing & CI in R)](https://twitter.com/icymi_r/status/1463608116919128064)]
+  * [[example 57: compare and contrast pipes in R]](https://twitter.com/rdataberlin/status/1519041823490117632?s=21&t=FZU_2CdvQRv8oBuyd8dGwg)
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
