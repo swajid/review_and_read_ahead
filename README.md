@@ -17,7 +17,8 @@ Talks/Stream
 - [ ] [3/28 DC satRday stream @ 8:30 am - 5pm](http://dc2020.netlify.com/) -- too busy, will miss this, hopefully slides/videos will be up
 - [ ] [eRUM European R users conference 2020](https://www.youtube.com/channel/UCwLy_PYrnCEhCU-Ay2F5Drw)
 - [ ] [7/6 SciPy 2020](https://www.scipy2020.scipy.org/schedule)
-
+- [ ] [Node.js Frameworks and Tools](https://nodejs.dev/learn)
+ 
 Books
 - [ ] [Bio/Recursion - An Exploration in R](https://leanpub.com/biorecursion) `#April` - `#May`
 
