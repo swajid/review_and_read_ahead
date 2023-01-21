@@ -178,6 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
+<!-- DVOmxLxmXuY -->
 
 
 <details>
@@ -1475,6 +1476,9 @@ in general, built a frontend + an algorithm or logic + backend, all together, al
 * [CRISPRAnalyzeR](https://github.com/boutroslab/CRISPRAnalyzeR)
 * [RnBeads - Comprehensive analysis of DNA methylation data](https://rnbeads.org/tutorial.html)
 * [scattertext](https://github.com/JasonKessler/scattertext)
+ 
+Work stuff (new to learn)
+* [pypgx - pharmacogenomics (PGx)](https://github.com/sbslee/pypgx)
  
 Data Compression
 * 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
