@@ -178,7 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A -->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU-->
 
 
 <details>
@@ -1482,6 +1482,7 @@ Work stuff (new to learn)
 * [DNA nexus commands](https://documentation.dnanexus.com/user/helpstrings-of-sdk-command-line-utilities) 
 * [Basespace CLI](https://developer.basespace.illumina.com/docs/content/documentation/cli/cli-overview#CommandSummary) 
 * [Writing a Standard Operating Protocol (SOP)](https://www.lucidchart.com/blog/how-to-write-a-standard-operating-procedure) 
+* [Illumina Genotyping Array Overview](https://broadinstitute.github.io/warp/docs/Pipelines/Illumina_Genotyping_Arrays_Pipeline/IlluminaGenotypingArray.documentation) 
  
 Data Compression
 * 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
