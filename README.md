@@ -178,7 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ-->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y-->
 
 
 <details>
@@ -1141,6 +1141,8 @@ AWS
 * :tv: [Analyzing Data Streams in Real Time with Amazon Kinesis](https://www.youtube.com/watch?v=dNp1emFFGbU)
 * [How To Build Your First Serverless API with AWS Lambda and API Gateway](https://medium.com/better-programming/how-to-build-your-first-serverless-api-with-aws-lambda-and-api-gateway-c7149c2e8d23)
 * :tv: [This is My Architecture Videos from AWS](https://aws.amazon.com/blogs/architecture/binge-watch-live-videos-from-aws-reinvent-2019/?sc_channel=sm&sc_campaign=AWS_reInvent,This_is_My_Architecture&sc_publisher=TWITTER&sc_country=Global&sc_outcome=awareness&trk=This_is_My_Architecture_TWITTER&linkId=81320430)
+* [8 Useful Commands Of AWS CLI You May Not Know](https://medium.com/@chauhan.shreyash18/8-useful-commands-of-aws-cli-you-may-not-know-a3463fecc101)
+
 
 [Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
 
