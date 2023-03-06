@@ -178,7 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o-->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws -->
 
 
 <details>
@@ -1584,7 +1584,8 @@ just go away and stop stalking and lying about me -->
 [Pseudoscholarship](https://en.wikipedia.org/wiki/Pseudo-scholarship)
 * [Indicators of Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience#Indicators_of_possible_pseudoscience)
 * [Pseudohistory](https://en.wikipedia.org/wiki/Pseudohistory#:~:text=Works%20of%20pseudohistory%20often%20rely,dismissing%20evidence%20to%20the%20contrary.)
-
+* [How to avoid machine learning pitfalls](https://twitter.com/rexdouglass/status/1632509817599447040?s=10&t=FVGtZ3_7LSoODaE-4xurrQ)
+* [How Confusion Spreads and Becomes Engrained](https://stephan-shahinian.medium.com/how-confusion-spreads-in-todays-society-and-how-it-becomes-engrained-c687376cb602)
 
 * [how to (pathologically) lie with statistics: consistent over exaggeration / hype of model performance, e.g. if your assertion or selling-point is that your model can predict an event, why did it not already predict bigger past events?](https://www.youtube.com/watch?v=aSR-uefPmME) (e.g. "you should be suspicious" <- nicer way of calling out a scam)
 * [something I sent to my dad last year: **"Don't Make Someone Else's Crazy About You"**](https://www.youtube.com/watch?v=j26Mt4KFxtI)
@@ -1599,7 +1600,7 @@ just go away and stop stalking and lying about me -->
 
 1. Ask who is giving the criticism
 * [[armchair expert]](https://www.urbandictionary.com/define.php?term=Armchair%20Expert) [wannabe](https://www.urbandictionary.com/define.php?term=Wannabe)
-* [[PRO TIP: Don't take criticism from someone you would never go to for advice.]](https://twitter.com/HeatherAntos/status/1146372406006751232?s=20)
+* [[**PRO TIP: Don't take criticism from someone you would never go to for advice.**]](https://twitter.com/HeatherAntos/status/1146372406006751232?s=20)
 * [[peanut gallery, idiom]](https://grammarist.com/idiom/peanut-gallery/)
 * [["I don't have a dog in this fight" - An old Southern expression meaning, in essence, that you don't care about the outcome of a situation]](http://www.metaphordogs.org/Dogs/entries/donthave.html)
 * [["too many cooks in the kitchen spoil the broth"]](https://knowyourphrase.com/too-many-cooks-in-the-kitchen)
