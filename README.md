@@ -178,7 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw-->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig-->
 
 
 <details>
@@ -227,7 +227,7 @@ LATER
 * Rewriting
 * "You have to protect your work"
    & also [[:book: Software Engineering at Google Lessons Learned from Programming Over Time]](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) -> code review, documentation etc. <!-- good to have a process, even google has a process, see book -->
-
+* [focus on the path that is open to you](https://twitter.com/ValaAfshar/status/1633150610802462720?s=20)
 
 ```
 Just remembered that instead of replying to a tweet I think is wrong I can just say “well that’s just not true” out 
