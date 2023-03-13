@@ -178,7 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk -->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU -->
 
 
 <details>
@@ -1487,6 +1487,8 @@ Work stuff (new to learn)
 * [Writing a Standard Operating Protocol (SOP)](https://www.lucidchart.com/blog/how-to-write-a-standard-operating-procedure) 
 * [Illumina Genotyping Array Overview](https://broadinstitute.github.io/warp/docs/Pipelines/Illumina_Genotyping_Arrays_Pipeline/IlluminaGenotypingArray.documentation) 
 * [BCL to FASTQ conversion](https://medium.com/@marija190396/bcl-to-fastq-conversion-e289852823d0)
+* AWS something _ placeholder to remind myself to learn more not sure where
+
  
 Data Compression
 * 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
@@ -1716,6 +1718,7 @@ _add link of TOC_
 * [IEEE VGTC](https://vimeo.com/vgtcommunity)
 * [Julia](https://www.youtube.com/user/JuliaLanguage/videos)
 * [`#useR2021`](https://twitter.com/search?q=%23user2021&src=typd) (July 5-9, 2021)
+ 
  
 # Fellowships
 w/ deadlines
