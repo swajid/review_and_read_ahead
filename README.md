@@ -178,7 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU fewVRtkf8_o -->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU fewVRtkf8_o eyj7JhIdBlc -->
 
 
 <details>
@@ -1143,7 +1143,6 @@ AWS
 * :tv: [This is My Architecture Videos from AWS](https://aws.amazon.com/blogs/architecture/binge-watch-live-videos-from-aws-reinvent-2019/?sc_channel=sm&sc_campaign=AWS_reInvent,This_is_My_Architecture&sc_publisher=TWITTER&sc_country=Global&sc_outcome=awareness&trk=This_is_My_Architecture_TWITTER&linkId=81320430)
 * [8 Useful Commands Of AWS CLI You May Not Know](https://medium.com/@chauhan.shreyash18/8-useful-commands-of-aws-cli-you-may-not-know-a3463fecc101)
 
-
 [Severless](https://en.wikipedia.org/wiki/Serverless_computing) Arch
 
 <!-- * [2019 - Rapid RNA sequencing data analysis using serverless computing](https://www.biorxiv.org/content/10.1101/576199v1)
@@ -1489,7 +1488,8 @@ Work stuff (new to learn)
 * [BCL to FASTQ conversion](https://medium.com/@marija190396/bcl-to-fastq-conversion-e289852823d0)
 * AWS something _ placeholder to remind myself to learn more not sure where
 * [md5sum](https://en.wikipedia.org/wiki/Md5sum)
- 
+* [Am I still relevant as a programmer now that there's AI?](https://andrewhuth.substack.com/p/am-i-still-relevant-as-a-programmer)
+
 Data Compression
 * 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
 <!-- I have an idea for this, rt related, sort of mentioned in the article -->
