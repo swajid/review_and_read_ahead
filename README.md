@@ -178,7 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU fewVRtkf8_o eyj7JhIdBlc e5YmG3jkzxA qr5JMMaJt6g -->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU fewVRtkf8_o eyj7JhIdBlc e5YmG3jkzxA qr5JMMaJt6g vL1wPp9UtKM ZghtCtwU0gQ-->
 
 
 <details>
@@ -416,6 +416,7 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [[example 56: quickest and concise explaination with examples, very brief but comprehensive presentation (unit testing & CI in R)](https://twitter.com/icymi_r/status/1463608116919128064)]
   * [[example 57: compare and contrast pipes in R]](https://twitter.com/rdataberlin/status/1519041823490117632?s=21&t=FZU_2CdvQRv8oBuyd8dGwg)
   * [[example 58: SO question on .bashrc]](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
+  * [[example 59: just write]](https://robert.bearblog.dev/just-write/)
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
