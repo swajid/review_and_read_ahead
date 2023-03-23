@@ -2121,6 +2121,8 @@ but Penn ... and then Cornell ... now there's a problem.
 morons, triggered absolute scum of the earth. get fired already. 
 oh wait prison, that's even better.
 
+"In my opening statement, I would like to quote Rage Against the Machine" LOL maybe...maybe not.
+I'm only going to enjoy this whole thing, "I have no fear whatsoever of anybody or anything."
 -->
 
 ```
