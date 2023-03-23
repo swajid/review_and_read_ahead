@@ -2098,6 +2098,14 @@ I have no fear whatsoever of anybody or anything.
 Malcolm X
 ```
 
+```
+PRO TIP: Don't take criticism from someone you would never go to for advice.
+Heather Antos
+```
+<!-- Don't take criticism from an average person you would never go to for advice to begin with.
+Because they're a waste of your time. Don't engage or entertain a fool to begin with anyway.
+-->
+
 
 <!-- 
 in my opinion and given the past few years,
