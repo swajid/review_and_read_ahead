@@ -139,7 +139,7 @@ Eventually: automate the markdown via R and [[gmailR]](https://github.com/r-lib/
 going on for years, why all these manipulative people are involved etc.), where it is all going.
 When they (stalkers) have no new information, they will just go away on their own.
 
-* There is always someone out there that is purposely going to ruin a good thing for you (~2011)
+* There is always someone out there that is purposely going to ruin a good thing for you (~2011)*
 
 * Not very bright people fight on the bus with strangers/other people on the bus, get their clothes 
 dirty and muddied up before reaching their stop, if you don't like the person you have to sit next 
@@ -178,7 +178,7 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU fewVRtkf8_o eyj7JhIdBlc e5YmG3jkzxA qr5JMMaJt6g vL1wPp9UtKM ZghtCtwU0gQ 25s17jID6gs AVPEP_KSldA eQF7cqkiR6I dtZ8MhEbmVc Y91V1iDmNto-->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU fewVRtkf8_o eyj7JhIdBlc e5YmG3jkzxA qr5JMMaJt6g vL1wPp9UtKM ZghtCtwU0gQ 25s17jID6gs AVPEP_KSldA eQF7cqkiR6I dtZ8MhEbmVc Y91V1iDmNto 9IZ_d6zadGw-->
 
 
 <details>
@@ -2048,6 +2048,21 @@ dredge that up. None of this is necessary. There will always be one more thing.â
 
 Toni Morrison
 ```
+
+```
+The current distraction is just a distraction from the real distraction which 
+is the new distraction to distract you from the actual distraction.
+Catturd
+```
+
+
+```
+Well, I were looking and you kept staring
+Your thoughts pairing up with mine
+"7"
+Arctic Monkeys
+```
+
 
 ```
 Dreams we saw with eyes open
