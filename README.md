@@ -2116,6 +2116,11 @@ I have so many aces up my sleeve
 The LOWEST people on the planet, absolute SCUM of the earth do this/have done this in history
 and on top of that they have access to PHI and EHR, gtfo of here, melt in front of a Judge.
 
+If it was Boston University, there would have never ever have been a problem
+but Penn ... and then Cornell ... now there's a problem.
+morons, triggered absolute scum of the earth. get fired already. 
+oh wait prison, that's even better.
+
 -->
 
 ```
