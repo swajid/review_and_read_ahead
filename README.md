@@ -2102,6 +2102,12 @@ How dare I ever apply to Cornell, etc.
 And not apply to Boston University and Florida etc.
 So these are very small people and they're dummies
 In front of a Judge, they will only melt
+"How are you affiliated with Cornell, you're not even an alumni" - the Judge, probably LOL
+
+To put a case together, there's a lot of thinking and writing involved,
+Im just dropping some hints about what im thinking about
+I got you, dont worry about a thing.
+I have so many aces up my sleeve
 -->
 
 ```
