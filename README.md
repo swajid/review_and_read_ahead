@@ -2096,6 +2096,12 @@ Judges and Investigators have seen all this before, it's obvious stalking and sp
 Just remember, the common thread is that they did not go to a competitive school
 so they needed to take this away from me to feel better about their average-ness
 I have seen all this before.
+ 
+Keep your eye on the ball. It was/is about: how dare I ever work at Penn (i hated it so what)
+How dare I ever apply to Cornell, etc.
+And not apply to Boston University and Florida etc.
+So these are very small people and they're dummies
+In front of a Judge, they will only melt
 -->
 
 ```
