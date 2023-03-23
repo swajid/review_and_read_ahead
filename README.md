@@ -2107,6 +2107,9 @@ In front of a Judge, they will only melt
 To put a case together, there's a lot of thinking and writing involved,
 Im just dropping some hints about what im thinking about
 I got you, dont worry about a thing.
+You have no idea how hard I will continue to work to put these people in jail where they belong.
+Because they wanted to hurt you too, that's why. That was also the point.
+I will never, ever stop.
 I have so many aces up my sleeve
 -->
 
