@@ -2076,6 +2076,8 @@ Rage Against The Machine
 https://lawyer.zone/what-is-gang-stalking/
 It's not normal stalking, it coordinated gang-stalking rooted in pure emotion and envy.
  
+I want to know everything so I can figure out what went __where__, I already know why: envy.
+ 
 Don't ever, even for a second lose sight of the point of the cruelty from the start
 This is all going to be presented in front of a Judge
 Every single envious sore loser incel who was involved and teamed up with Jason
