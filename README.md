@@ -2077,9 +2077,26 @@ Don't ever, even for a second lose sight of the point of the cruelty from the st
 This is all going to be presented in front of a Judge
 Every single envious sore loser incel who was involved and teamed up with Jason
 He impresses fools so it's all pretty sad, it's lol-sad.
+Every single incel who teamed up with Jason has one thing in common with Jason:
+They didnt go to a competitive school, so they became envious, of everything
+They wanted to prove themselves to everyone
+Probably even that I ever worked at Penn (which I hated)
+I don't know everyones names but I know some, that's the common thread
+I know what this is, I have dealt with this sort of stuff my entire life
+That is why I am a very private person.
 I will never, ever stop until I get every single name, I will never, ever settle
 I have no fear whatsoever of anybody or anything.
+Judges and Investigators have seen all this before, it's obvious stalking and spying
+
+Just remember, the common thread is that they did not go to a competitive school
+so they needed to take this away from me to feel better about their average-ness
+I have seen all this before.
 -->
+
+```
+I have no fear whatsoever of anybody or anything.
+Malcolm X
+```
 
 
 <!-- 
