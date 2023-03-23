@@ -2111,6 +2111,11 @@ You have no idea how hard I will continue to work to put these people in jail wh
 Because they wanted to hurt you too, that's why. That was also the point.
 I will never, ever stop.
 I have so many aces up my sleeve
+
+> They rally around the family
+The LOWEST people on the planet, absolute SCUM of the earth do this/have done this in history
+and on top of that they have access to PHI and EHR, gtfo of here, melt in front of a Judge.
+
 -->
 
 ```
