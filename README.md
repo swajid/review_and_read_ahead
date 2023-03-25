@@ -2131,6 +2131,15 @@ Malcolm X
 ```
 
 ```
+Narcissism on narcotics
+Lupe Fiasco
+```
+<!-- he's on drugs, calling it, this is crazy to another level 
+not the drugs hes suppose to be on, like antipsychotics,
+like real drugs
+-->
+
+```
 PRO TIP: Don't take criticism from someone you would never go to for advice.
 Heather Antos
 ```
