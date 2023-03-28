@@ -2147,6 +2147,14 @@ Heather Antos
 Because they're a waste of your time. Don't engage or entertain a fool to begin with anyway.
 -->
 
+```
+Respect has an absorbing barrier. It's OK to be wrong, but once you realize someone has been 
+bullshitting you professionally in a particular subject, it is impossible to ever see the person 
+the same way, w/o disgust, no matter how insightful he or she prove to be subsequently.
+
+Nassim Nicholas Taleb
+```
+
 
 <!-- 
 in my opinion and given the past few years,
