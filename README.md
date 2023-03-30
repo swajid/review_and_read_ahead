@@ -154,6 +154,14 @@ they also have a lot more free time than you do. Just recognize it, ignore/block
 - my dad
 ```
 
+```
+* Everything that has happened to us, our family, has always been the best possible thing
+at the best possible time, always. It's always been exactly what we needed, every time.
+
+- my mom
+```
+
+
 ![Asking Questions](img/asking_questions.jpeg)
 
 
