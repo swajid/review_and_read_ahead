@@ -186,7 +186,7 @@ at the best possible time, always. It's always been exactly what we needed, ever
 <!-- https://www.wikihow.com/Start-a-Garage-Band* !!! -->
 <!-- fan PL38g3YR3kTP4cIuST3U36qQCUKNZwQA0w {3:'FibaN7z7xgc' 6W074ucyKDY} -->
 <!-- https://gist.github.com/swajid/5e6aa378486fd977fb65bcb227cdfbcb only for duolingo stuff, non-programming/work related hobby, need to look at this again, forgot -->
-<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU fewVRtkf8_o eyj7JhIdBlc e5YmG3jkzxA qr5JMMaJt6g vL1wPp9UtKM ZghtCtwU0gQ 25s17jID6gs AVPEP_KSldA eQF7cqkiR6I dtZ8MhEbmVc Y91V1iDmNto 9IZ_d6zadGw-->
+<!-- DVOmxLxmXuY q6drd4J-TBg k1k6EUW0czc v=R--2Ty9hj-A amJNTsfl8MU KxgNsN4yjLQ NnBhBhJEc2Y zEacJV-423o kMGwZKgikws YrkCoaZFoDs _jHYSIq16nw 8DDbUv1ppig Z5q9hHmGECk BQZ624p4uGU fewVRtkf8_o eyj7JhIdBlc e5YmG3jkzxA qr5JMMaJt6g vL1wPp9UtKM ZghtCtwU0gQ 25s17jID6gs AVPEP_KSldA eQF7cqkiR6I dtZ8MhEbmVc Y91V1iDmNto 9IZ_d6zadGw g8aFla6HezI -->
 
 
 <details>
@@ -2163,6 +2163,16 @@ the same way, w/o disgust, no matter how insightful he or she prove to be subseq
 Nassim Nicholas Taleb
 ```
 
+```
+Having resentment against someone is like drinking poison and thinking it will kill your enemy.
+Nelson Mandela
+```
+ 
+```
+We know now we want more
+A life worth fighting for
+Santigold
+```
 
 <!-- 
 in my opinion and given the past few years,
