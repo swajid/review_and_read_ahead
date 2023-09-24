@@ -2,8 +2,10 @@
 ["Planning before work protects you from regret."](https://twitter.com/jessitron/status/1296530755624087552?s=20)
 
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
+
+![img](https://github.com/swajid/review_and_read_ahead/blob/master/img/IMG_7223.JPG)
+
 <details>
- 
 Todo
 - [ ] 5-24-21 - ~5-31-21~ 6-5-21 [copy+summarize papers from here to `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
  https://twitter.com/coregenomics/status/1154070578984312834?s=20
