@@ -1,6 +1,8 @@
 # swajid
 ["Planning before work protects you from regret."](https://twitter.com/jessitron/status/1296530755624087552?s=20)
 
+## "Git is how you describe the history of your code/project" <!-- 🥰 -->
+
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
 
 ![img](https://github.com/swajid/review_and_read_ahead/blob/master/img/IMG_7223.JPG)
