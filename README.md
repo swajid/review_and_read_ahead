@@ -364,7 +364,8 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
    3. Learn about the thing by using it.
    4. Write the explanation you wish you’d found.
 ```
-* Different ways of explaining/thinking about/presenting sometimes tough things / [[step-by-step explaination]](https://www.youtube.com/watch?v=Szi6Q7MBS8E&feature=youtu.be)
+# Different ways of explaining/thinking about/presenting sometimes tough things
+* [[step-by-step explaination]](https://www.youtube.com/watch?v=Szi6Q7MBS8E&feature=youtu.be)
   * [[example 1: poisson distribution]](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
   * [[example 2: algorithms]](http://research.engineering.nyu.edu/~greg/algorithms/scribbles.pdf)
   * [[example 3: code documentation]](https://twitter.com/dan_abramov/status/1101408462901334016?s=21)
@@ -427,6 +428,8 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [[example 57: compare and contrast pipes in R]](https://twitter.com/rdataberlin/status/1519041823490117632?s=21&t=FZU_2CdvQRv8oBuyd8dGwg)
   * [[example 58: SO question on .bashrc]](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
   * [[example 59: just write]](https://robert.bearblog.dev/just-write/)
+  * [[example 60: an explaination on how to get started with `diff` ... by me!]](https://www.herlog.com/two-ways-to-get-started-with-diff-for-bioinformatics-using-python-and-excel-to-output-a-shell-script-with-pairwise-comparisons/)
+
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
