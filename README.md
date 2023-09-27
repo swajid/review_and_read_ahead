@@ -1735,7 +1735,9 @@ _add link of TOC_
 * [IEEE VGTC](https://vimeo.com/vgtcommunity)
 * [Julia](https://www.youtube.com/user/JuliaLanguage/videos)
 * [`#useR2021`](https://twitter.com/search?q=%23user2021&src=typd) (July 5-9, 2021)
- 
+
+# Related to Startups
+* [Lantern Bioworks -> Learn More -> Pitch Deck](https://www.lanternbioworks.com/about)
  
 # Fellowships
 w/ deadlines
