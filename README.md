@@ -2089,6 +2089,12 @@ Real Estate
 They rally around the family
 Rage Against The Machine
 ```
+
+```
+An abnormal reaction to an abnormal situation is normal behavior.
+Victor Frankl
+```
+
 <!-- 
 https://lawyer.zone/what-is-gang-stalking/
 It's not normal stalking, it coordinated gang-stalking rooted in pure emotion and envy.
