@@ -734,6 +734,8 @@ Dr. Anthony Fauci lays out three ways future scientific communicators can build 
 # :100: Read Ahead
 [[back to top]](https://github.com/swajid/review_and_read_ahead#review_and_read_ahead)
 
+![img](https://github.com/swajid/review_and_read_ahead/blob/master/img/newyorkercover_oct2023.png)
+
 ### Editor
 "Know your editor" - TL
 
