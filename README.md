@@ -431,6 +431,7 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [[example 58: SO question on .bashrc]](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
   * [[example 59: just write]](https://robert.bearblog.dev/just-write/)
   * [[example 60: an explaination on how to get started with `diff` ... by me!]](https://www.herlog.com/two-ways-to-get-started-with-diff-for-bioinformatics-using-python-and-excel-to-output-a-shell-script-with-pairwise-comparisons/)
+  * [[example 61: "is software engineering real engineering?" asks a simple question, requires a lot of breadth and depth to answer, provides sources]](https://www.hillelwayne.com/talks/crossover-project/)
 
 
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
