@@ -2198,6 +2198,12 @@ A life worth fighting for
 Santigold
 ```
 
+```
+They could take everything away from you, except your education
+President Shafik
+```
+<!-- https://www.youtube.com/watch?v=PEcN7sNxGF8 -->
+
 <!-- 
 in my opinion and given the past few years,
 the university is really not for everyone,
