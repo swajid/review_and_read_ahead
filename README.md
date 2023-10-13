@@ -1826,6 +1826,10 @@ open to collaborators and collaborations
 -->
 
 <!-- Papers I am reading -->
+# 2023
+* 2023 - [Direct observation of glycans bonded to proteins and lipids at the __single-molecule level__](https://www.science.org/doi/10.1126/science.adh3856)
+* 2023 - [Programmable RNA-guided DNA endonucleases are widespread in eukaryotes and their viruses](https://www.science.org/doi/10.1126/sciadv.adk0171)
+
 # 2022
 * 2022 - [DNA methylation-based predictors of health: applications and statistical considerations](https://www.nature.com/articles/s41576-022-00465-w)
  
