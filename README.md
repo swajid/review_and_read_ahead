@@ -1511,6 +1511,9 @@ Work stuff (new to learn)
 * [Am I still relevant as a programmer now that there's AI?](https://andrewhuth.substack.com/p/am-i-still-relevant-as-a-programmer)
 * [`tree`](http://mama.indstate.edu/users/ice/tree/tree.1.html)
 
+Fraud Detection + AI/ML/Bioinformatics
+* [Fight Fraud with Machine Learning](https://www.manning.com/books/fight-fraud-with-machine-learning) -- interesting ToC
+
 Data Compression
 * 2019 - [Genomic Data Compression](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-072018-021229)
 <!-- I have an idea for this, rt related, sort of mentioned in the article -->
