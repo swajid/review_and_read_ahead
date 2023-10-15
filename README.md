@@ -1314,6 +1314,7 @@ General Software Development
 Building/Leading (effective) Data Science Teams
 * [[On building effective data science teams]](https://twitter.com/kdnuggets/status/1237861113611468801?s=21)
 * [[2020 - Sofware Engineering at Google]](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+* [2023 - Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
 
 Data Backup
 * [[example from bioinformatics]](https://twitter.com/jacobphd/status/1139206934324604928?s=21)
@@ -2197,6 +2198,12 @@ Nassim Nicholas Taleb
 ```
 Having resentment against someone is like drinking poison and thinking it will kill your enemy.
 Nelson Mandela
+```
+
+```
+I counted days
+I counted miles
+Taylor Swift
 ```
  
 ```
