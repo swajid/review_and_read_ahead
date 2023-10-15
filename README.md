@@ -1511,6 +1511,7 @@ Work stuff (new to learn)
 * [md5sum](https://en.wikipedia.org/wiki/Md5sum)
 * [Am I still relevant as a programmer now that there's AI?](https://andrewhuth.substack.com/p/am-i-still-relevant-as-a-programmer)
 * [`tree`](http://mama.indstate.edu/users/ice/tree/tree.1.html)
+* [an exabyte = one million terabytes. (not sure when the same is predicted for genomics)](https://home.cern/news/news/computing/exabyte-disk-storage-cern)
 
 Fraud Detection + AI/ML/Bioinformatics
 * [Fight Fraud with Machine Learning](https://www.manning.com/books/fight-fraud-with-machine-learning) -- interesting ToC
