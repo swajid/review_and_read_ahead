@@ -2221,6 +2221,12 @@ President Shafik
 ```
 <!-- https://www.youtube.com/watch?v=PEcN7sNxGF8 -->
 
+```
+I never made a decision in my career based on money, not once.
+Conan O’Brien
+```
+<!-- https://www.youtube.com/watch?v=SKg4c5diib0 -->
+
 <!-- 
 in my opinion and given the past few years,
 the university is really not for everyone,
