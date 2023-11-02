@@ -1837,6 +1837,7 @@ open to collaborators and collaborations
 * 2023 - [Cancers make their own luck: theories of cancer origins](https://www.nature.com/articles/s41568-023-00602-5) University of Cambridge!
 * 2023 - [Machine Learning-Guided Protein Engineering](https://pubs.acs.org/doi/10.1021/acscatal.3c02743) American Chemical Society!
 * 2023 - [Soil microbiome engineering for sustainability in a changing environment](https://www.nature.com/articles/s41587-023-01932-3)
+* 2023 - [Pepid: a Highly Modifiable, Bioinformatics-Oriented Peptide Search Engine](https://www.biorxiv.org/content/10.1101/2023.10.30.564469v1)
 
 # 2022
 * 2022 - [DNA methylation-based predictors of health: applications and statistical considerations](https://www.nature.com/articles/s41576-022-00465-w)
