@@ -1724,10 +1724,12 @@ _add link of TOC_
 * :green_book:[Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)
 * :green_book:[J - High Performance Python, 2nd Edition](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
 
-# Meetups, Groups and Communities
+# Meetups, Groups, Communities and NGOs
 * [RLadies](https://rladies.org/)
 * [Software Carpentry](https://software-carpentry.org/)
 * [WiMLDS](http://wimlds.org)
+* [EWB](https://www.ewb-usa.org/)
+* [ESW](https://www.eswglobal.org/)
 
 # Tech Conventions + Videos
 * [Find your next tech conference](https://confs.tech/)
@@ -1758,7 +1760,8 @@ w/o deadlines
 * [Graduate Student Fellowships & Aid](http://www.cis.upenn.edu/prospective-students/graduate/aid.php)
 * [External Fellowships for Doctoral Students](https://cs.nyu.edu/home/phd/fellowships.html)
 
-Prizes for invention/innovation, something from not the NIH etc. // may not always be relevant, something to think about
+# Prizes for invention/innovation
+something from not the NIH etc. // may not always be relevant, something to think about
 * [Tom Ford Plastic Innovation Prize (thin-flim plastic)](https://plasticprize.org/) <!-- omg Tom Ford is actually one of the judges -->
   * [pdf of the competition](https://plasticprize.org/wp-content/uploads/Competition-Guidelines-Tom-Ford-Plastic-Innovation-Prize.pdf)
 
