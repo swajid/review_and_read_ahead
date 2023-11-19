@@ -2228,6 +2228,14 @@ President Shafik
 <!-- https://www.youtube.com/watch?v=PEcN7sNxGF8 -->
 
 ```
+If you know you are on the right track,
+if you have this inner knowledge,
+then nobody can turn you off ... no matter what they say.
+Barbara McClintock
+```
+
+
+```
 I never made a decision in my career based on money, not once.
 Conan O’Brien
 ```
