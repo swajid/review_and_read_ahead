@@ -435,7 +435,7 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [[example 62: "general guidelines and understandings for handing off data to another team precisely every time" by me!]](https://www.herlog.com/some-general-guidelines-and-understandings-for-handing-off-data-to-another-team-precisely-every-time/)
   * [[example 63: "math is (also) about gaining insights on many connections"]](https://twitter.com/longformmath/status/1703155340320387481)
   * [[example 64: "getting started with `screen` for bioinformaticians" by me!]](https://www.herlog.com/getting-started-with-screen-for-bioinformaticians/)
-
+  * [[example 65: "museum of spatial transcriptomics"]](https://www.nature.com/articles/s41592-022-01409-2) + the spreadsheet under "Data availability"
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
