@@ -155,6 +155,8 @@ if there is no conflict, they'll just create a conflict out of thin air), and th
 that is more exciting/thrilling and they'll just keep pulling you into their hurricane,
 they also have a lot more free time than you do. Just recognize it, ignore/block etc. (Mar 7, 2021)
 
+* You have to have all sorts of experiences in life, even bad experiences, sometimes.
+
 - my dad
 ```
 
