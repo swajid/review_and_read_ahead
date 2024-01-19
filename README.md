@@ -1839,6 +1839,7 @@ open to collaborators and collaborations
 <!-- Papers I am reading -->
 # 2024
 * 2024 - [Biology System Description Language (BiSDL): a modeling language for the design of multicellular synthetic biological systems](https://www.biorxiv.org/content/10.1101/2024.01.13.575499v1)
+* 2024 - [How much of the world is it possible to model, The New Yorker](https://www.newyorker.com/culture/annals-of-inquiry/how-much-of-the-world-is-it-possible-to-model)
 
 # 2023
 * 2023 - [Direct observation of glycans bonded to proteins and lipids at the __single-molecule level__](https://www.science.org/doi/10.1126/science.adh3856)
