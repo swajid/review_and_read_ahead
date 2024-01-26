@@ -1842,6 +1842,7 @@ open to collaborators and collaborations
 * 2024 - [How much of the world is it possible to model, The New Yorker](https://www.newyorker.com/culture/annals-of-inquiry/how-much-of-the-world-is-it-possible-to-model)
 
 # 2023
+* 2023 - [CodonBERT: Large Language Models for mRNA design and optimization 💉](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v2.full.pdf)
 * 2023 - [Direct observation of glycans bonded to proteins and lipids at the __single-molecule level__](https://www.science.org/doi/10.1126/science.adh3856)
 * 2023 - [Programmable RNA-guided DNA endonucleases are widespread in eukaryotes and their viruses](https://www.science.org/doi/10.1126/sciadv.adk0171)
 * 2023 - [Cancers make their own luck: theories of cancer origins](https://www.nature.com/articles/s41568-023-00602-5) University of Cambridge!
