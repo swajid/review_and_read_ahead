@@ -2053,6 +2053,11 @@ in R call the data.table::setalloccol(df) function on the “partial” data.tab
 * Ch5 from Python for Bioinformatics: Predicates, Action, Action Support (types of functions)
 * Iterators
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=swajid/review_and_read_ahead&type=Date)](https://star-history.com/#swajid/review_and_read_ahead&Date)
+
+
 ```
 "Sometimes, when we lose ourselves, in fear and despair, in routine and constancy, in hopelessness 
 and tragedy, we can thank God for Bavarian sugar cookies. ... And we must remember that all these 
