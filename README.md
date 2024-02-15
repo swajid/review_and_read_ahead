@@ -1876,6 +1876,7 @@ open to collaborators and collaborations
 * 2021 - [Using DeepVariant for small variant calling from PacBio HiFi reads](https://github.com/google/deepvariant/blob/r1.1/docs/deepvariant-pacbio-model-case-study.md)
   * [okay so this is probably the best comparison everything else is probably based on use case and available resources (ive been confused for a while about nanopore vs. pacbio)](https://twitter.com/gringene_bio/status/1359940294322491396?s=20)
 * 2021 - [Evolution of DNA methylome from precancerous lesions to invasive lung adenocarcinomas](https://www.nature.com/articles/s41467-021-20907-z)
+* 2021 - [BUSCO: Assessing Genomic Data Quality and Beyond](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpz1.323)
 
 # 2020
 * 2020 - [We need to keep a reproducible trace of facts, predictions, and hypotheses from gene to function in the era of big data](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000999)
