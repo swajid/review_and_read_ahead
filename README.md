@@ -1843,7 +1843,9 @@ open to collaborators and collaborations
 <!-- Papers I am reading -->
 # 2024
 * 2024 - [Biology System Description Language (BiSDL): a modeling language for the design of multicellular synthetic biological systems](https://www.biorxiv.org/content/10.1101/2024.01.13.575499v1)
-* 2024 - [How much of the world is it possible to model, The New Yorker](https://www.newyorker.com/culture/annals-of-inquiry/how-much-of-the-world-is-it-possible-to-model)
+* 2024 - [📰 How much of the world is it possible to model, *The New Yorker*](https://www.newyorker.com/culture/annals-of-inquiry/how-much-of-the-world-is-it-possible-to-model)
+* 2024 - [📰 Things get strange when AI starts training itself, *The Atlantic*](https://www.theatlantic.com/technology/archive/2024/02/artificial-intelligence-self-learning/677484/)
+* 2024 - [📰 🐳 How first contact with whale civilization could unfold, *The Atlantic*](https://www.theatlantic.com/science/archive/2024/02/talking-whales-project-ceti/677549/)
 
 # 2023
 * 2023 - [CodonBERT: Large Language Models for mRNA design and optimization 💉](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v2.full.pdf)
