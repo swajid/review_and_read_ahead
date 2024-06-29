@@ -6,7 +6,7 @@
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
 
 ![img](https://github.com/swajid/review_and_read_ahead/blob/master/img/IMG_7223.JPG)
-
+[![img](https://github.com/swajid/review_and_read_ahead/blob/master/img/connecting-the-dots--increases-meaning-making.png)](https://www.youtube.com/watch?v=SemHh0n19LA)
 <details>
 Todo
 - [ ] 5-24-21 - ~5-31-21~ 6-5-21 [copy+summarize papers from here to `all_the_seqs_and_etc`](https://github.com/swajid/all_the_seqs_and_etc)
