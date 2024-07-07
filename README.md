@@ -243,7 +243,7 @@ LATER
    & also [[:book: Software Engineering at Google Lessons Learned from Programming Over Time]](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) -> code review, documentation etc. <!-- good to have a process, even google has a process, see book -->
 * [focus on the path that is open to you](https://twitter.com/ValaAfshar/status/1633150610802462720?s=20)
 * [how to figure out what you really want](https://www.youtube.com/watch?v=bRtBHF-WPpM)
-
+* [choices that can change your life](https://www.youtube.com/watch?v=-KysuBl2m_w)
 ```
 Just remembered that instead of replying to a tweet I think is wrong I can just say “well that’s just not true” out 
 loud to myself and ** move on with my life **
