@@ -1869,6 +1869,7 @@ open to collaborators and collaborations
 # 2022
 * 2022 - [DNA methylation-based predictors of health: applications and statistical considerations](https://www.nature.com/articles/s41576-022-00465-w)
 * 2022 - [Introduction to the principles and methods underlying the recovery of metagenome-assembled genomes from metagenomic data 🧬](https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1298)
+* 2022 - [💉 Therapeutic peptides: current applications and future directions](https://www.nature.com/articles/s41392-022-00904-4) `#peptides`
  
 # 2021
 * 2021 - [Exploring tissue architecture using spatial transcriptomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8475179/) -> "Integration of spatial transcriptomics with other modalities"
