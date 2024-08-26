@@ -442,6 +442,8 @@ from https://twitter.com/MaraWilson/status/1357902248995479553
   * [[example 64: "getting started with `screen` for bioinformaticians" by me!]](https://www.herlog.com/getting-started-with-screen-for-bioinformaticians/)
   * [[example 65: "museum of spatial transcriptomics"]](https://www.nature.com/articles/s41592-022-01409-2) + the spreadsheet under "Data availability"
   * [[example 66: the 🎨 process]](https://www.instagram.com/reel/C3GodGyNeV-)
+  * [[example 67: crafting the perfect pull request]](https://tutorialedge.net/tips/crafting-the-perfect-pull-request/)
+
 * [`Explicit is better than implicit`](https://www.python.org/dev/peps/pep-0020/)
 * “be so good they can’t ignore you”: [Skills](https://seths.blog/2019/02/skill-vs-planning/) > Passion [[book]](http://calnewport.com/books/so-good/)
 * Consistency
