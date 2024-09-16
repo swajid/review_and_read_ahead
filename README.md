@@ -1736,6 +1736,8 @@ _add link of TOC_
 * :green_book:[Grammar of Graphics](https://www.springer.com/gp/book/9780387245447)
 * :green_book:[J - High Performance Python, 2nd Edition](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
 * :green_book:[Writing for developers ⭐](https://www.manning.com/books/writing-for-developers)
+* :green_book:[A Programmer's Introduction to Mathematics ⭐](https://pimbook.org/)
+
 
 # Meetups, Groups, Communities and NGOs
 * [RLadies](https://rladies.org/)
