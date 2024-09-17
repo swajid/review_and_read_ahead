@@ -1858,6 +1858,7 @@ open to collaborators and collaborations
 * 2024 - [Machine Learning in Bio-cheminformatics](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00444)
 * 2024 - [Systematic reconstruction of molecular pathway signatures using scalable single-cell perturbation screens](https://www.biorxiv.org/content/10.1101/2024.01.29.576933v2.abstract)
 * 2024 - [Modified C-type natriuretic peptide normalizes tumor vasculature, reinvigorates antitumor immunity, and improves solid tumor therapies](https://www.science.org/doi/10.1126/scitranslmed.adn0904) `#peptides` `#peptidetherapy`
+* 2024 - [Genome access is transcription factor-specific and defined by nucleosome position](https://x.com/strnr/status/1835702711523713525)
 
 # 2023
 * 2023 - [CodonBERT: Large Language Models for mRNA design and optimization 💉](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v2.full.pdf)
