@@ -657,6 +657,7 @@ Dr. Anthony Fauci lays out three ways future scientific communicators can build 
 * [Linux networking tools](https://wizardzines.com/networking-tools-poster/)
 * [Bedtools (ascii) notes](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
 * [Art of the command line](https://github.com/jlevy/the-art-of-command-line)
+* [How to name files (2015)](https://speakerdeck.com/jennybc/how-to-name-files)
 
 ## Linear Algebra
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
