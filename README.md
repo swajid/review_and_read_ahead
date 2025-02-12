@@ -2,7 +2,7 @@
 ["Planning before work protects you from regret."](https://twitter.com/jessitron/status/1296530755624087552?s=20)
 
 ## "Git is how you describe the history of your code/project" <!-- 🥰 -->
-<!--- https://www.tiktok.com/@prettyrealcool/video/7468453163566124334?_r=1 ohhh yeah really, is that so ... 😂 -->
+<!--- https://www.tiktok.com/@prettyrealcool/video/7468453163566124334?_r=1 ohhh yeah really, is that so ... 😂 https://www.tiktok.com/@leadenim/video/7452088473663704363 -->
 
 _README.md and other *.md files have been and will continue to be open source, free to use, redistribute and modify_
 
